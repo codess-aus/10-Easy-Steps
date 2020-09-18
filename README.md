@@ -22,10 +22,10 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 # Resources
 
 ## Get into Github
-| Description | Author | Step | Year Published |  
+| Description | Author | Step | Requirements |  
 |------|--------|------------------|----------------|  
-| [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
-| [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
+| [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | Internet Access |
+| [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | Internet Access |
 
 ## Try some Code
 | Name | Author | Step | Requirements |  
