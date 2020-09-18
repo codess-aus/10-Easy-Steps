@@ -1,6 +1,8 @@
 # 10-Easy-Steps
 A Repository Created for #Hacktober to Help Beginners Get Started with Code
 
+DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
+
 > Curated list of the 10 things Beginners need to know to get started in code
 
 
@@ -26,55 +28,55 @@ A Repository Created for #Hacktober to Help Beginners Get Started with Code
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Try some Code
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 1-10 | 2020 |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Follow Some Mentors
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 | 
 
 ## Placeholder4
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 | 
 
 ## Placeholder5
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Placeholder6
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Placeholder7
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Placeholder8
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Placeholder9
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |## Sexuality
 
 ## Placeholder10
-| Name | Author | Goodreads Rating | Year Published |  
+| Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
