@@ -28,15 +28,17 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Try some Code
-| Name | Author | Step | Year Published |  
+| Name | Author | Step | Requirements |  
 |------|--------|------------------|----------------|  
-| [Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 1-10 | 2020 |
-| [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
+| [Full Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 1-10 | Internet Access |
+| [Choice of Tutorials - With Installs](https://shecodes.com.au/tutorials/) | She Codes Australia | 2-4 | Admin Access to Your Device |
+| [Choice of Tutorials - No Installs](https://workshops.nuevofoundation.org/) | Nuevo Foundation | 1-2 | Internet Access |
+| [Javascript Tutorials to Try](https://github.com/muses-code-js) | Muses Code JS | 2-3 | Some Github Understanding |
 
 ## Follow Some Mentors
 | Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
-| [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
+| [Javascript Tutorials to Try](https://github.com/muses-code-js) | Muses Code JS | 2 | 2020 |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 | 
 
 ## Placeholder4
