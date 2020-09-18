@@ -25,13 +25,13 @@ A Repository Created for #Hacktober to Help Beginners Get Started with Code
 * [Language](#language)
 * [Nature](#nature)
 
-# Books
+# Resources
 
 ## Get into Github
-| Description | Author | Difficulty Rating | Year Published |  
+| Description | Author | Step |
 |------|--------|------------------|----------------|  
-| [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | B | 2020 |
-| [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | B | 2020 | 
+| [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 |
+| [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 |
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
