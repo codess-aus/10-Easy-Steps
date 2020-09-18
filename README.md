@@ -28,7 +28,7 @@ A Repository Created for #Hacktober to Help Beginners Get Started with Code
 # Resources
 
 ## Get into Github
-| Description | Author | Step |
+| Description | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 | 
