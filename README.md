@@ -86,4 +86,7 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 * All the [contributors](https://github.com/msandfor/10-easy-steps/graphs/contributors) for keeping the list updated by adding new books.
 
 ## License
+MIT Licence
+<!-->
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+-->
