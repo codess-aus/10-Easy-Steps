@@ -80,7 +80,7 @@ A Repository Created for #Hacktober to Help Beginners Get Started with Code
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Credits
-* [@hackerkid](https://github.com/msandfor) for starting the list.
+* [@msandfor](https://github.com/msandfor) for starting the list.
 * All the [contributors](https://github.com/msandfor/10-easy-steps/graphs/contributors) for keeping the list updated by adding new books.
 
 ## License
