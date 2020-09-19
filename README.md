@@ -1,7 +1,8 @@
 # 10-Easy-Steps
-A Repository Created for #Hacktober to Help Beginners Get Started with Code
+A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 
 DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
+DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 
 > Curated list of the 10 things Beginners need to know to get started in code
 
@@ -51,8 +52,6 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [Patricia Aas](https://patricia.no/) | Patricia Aas | 3 | Be Kind | 
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 3 | Be Tolerant of Quokkas |
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 3 | Be Kind |
-| [Kind Nerd](https://placeholder.dev/) | Amy Kapernick | 3 | Be Tolerant of Quokkas |
-
 
 ## Get Involved
 | Name | Author | Step | Year Published |  
@@ -61,7 +60,6 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [Python Community](https://www.python.org/community/) | Python.Org | 4 | Love of Python |
 | [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 4 | Love of Learning |
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 4 | Be Kind |
-
 
 ## Placeholder5
 | Name | Author | Step | Year Published |  
