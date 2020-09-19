@@ -8,6 +8,7 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 
 
 ## Table of Contents
+* [What, Where, Why?](#what-where-why)
 * [Get into Github](#get-into-github)
 * [Try Some Code](#try-some-code)
 * [Follow Some Mentors](#follow-some-mentors)
@@ -17,10 +18,16 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 * [Placeholder7](#placeholder7)
 * [Placeholder8](#placeholder8)
 * [Placeholder9](#placeholder9)
-* [Placeholder10](#placeholder10)
+
 
 
 # Resources
+
+## What, Where, Why?
+| Name | Author | Step | Year Published |  
+|------|--------|------------------|----------------|  
+| [Learn web development as an absolute beginner](https://youtu.be/ysEN5RaKOlA) | Coder Coder | 1 | 2020 |
+| [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
 
 ## Get into Github
 | Description | Author | Step | Requirements |  
@@ -36,7 +43,8 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 
 ## Try some Code
 | Name | Author | Step | Requirements |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------| 
+| [Learn to Code by Playing a Game](https://codecombat.com/) | Code Combat | 1 | Internet Access |
 | [Full Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 2-10 | Internet Access |
 | [Download Visual Studio Code](https://code.visualstudio.com/Download) | Microsoft | 1-2 | Admin Access to Your Device |
 | [Choice of Tutorials - With Installs](https://shecodes.com.au/tutorials/) | She Codes Australia | 2-4 | Admin Access to Your Device |
@@ -52,6 +60,8 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 | [Patricia Aas](https://patricia.no/) | Patricia Aas | 3 | Be Kind | 
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 3 | Be Tolerant of Quokkas |
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 3 | Be Kind |
+| [Jessica Chan](https://coder-coder.com/) | Coder Coder | 3 | Be Kind |
+
 
 ## Get Involved
 | Name | Author | Step | Year Published |  
@@ -61,11 +71,11 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 | [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 4 | Love of Learning |
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 4 | Be Kind |
 
-## Placeholder5
+## Practice
 | Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
-| [Placeholder](https://guides.github.com/activities/hello-world/) | GitHub Guides | 1 | 2020 |
-| [Placeholder](https://www.codenewbie.org/) | GetHub Learning Labs | 1 | 2020 |
+| [Frontend Mentor](https://www.frontendmentor.io/) | Frontend Mentor | 5 | 2020 |
+| [Scotch](https://scotch.io/courses) | Scotch | 5 | 2020 |
 
 ## Placeholder6
 | Name | Author | Step | Year Published |  
@@ -91,11 +101,7 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 | [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
 | [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |## Sexuality
 
-## Placeholder10
-| Name | Author | Step | Year Published |  
-|------|--------|------------------|----------------|  
-| [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
-| [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
+
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
