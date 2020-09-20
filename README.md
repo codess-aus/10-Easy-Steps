@@ -2,7 +2,6 @@
 A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 
 DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
-DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 
 > Curated list of the 10 things Beginners need to know to get started in code
 
