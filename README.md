@@ -38,7 +38,7 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [Make Your First Contribution to Open Source](https://github.com/firstcontributions/first-contributions) | FirstContributions | 2 | Internet Access |
 | [Writing a Good Commit Message](https://dev.to/chrissiemhrk/git-commit-message-5e21) | Chrissie Muhorakeye | 2 | Some Github Understanding |
 | [Writing Good Pull Requests](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) | Keavy McMinn | 2 | Some Github Understanding |
-
+| [Create a Github Profile Readme](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) | Monica Powell | 2 | Some Github Understanding |
 
 ## Try some Code
 | Name | Author | Step | Requirements |  
