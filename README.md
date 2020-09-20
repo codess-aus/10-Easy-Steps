@@ -44,13 +44,15 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 ## Try some Code
 | Name | Author | Step | Requirements |  
 |------|--------|------------------|----------------| 
-| [Learn to Code by Playing a Game](https://codecombat.com/) | Code Combat | 1 | Internet Access |
-| [Full Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 2-10 | Internet Access |
-| [Download Visual Studio Code](https://code.visualstudio.com/Download) | Microsoft | 1-2 | Admin Access to Your Device |
-| [Choice of Tutorials - With Installs](https://shecodes.com.au/tutorials/) | She Codes Australia | 2-4 | Admin Access to Your Device |
-| [Choice of Tutorials - No Installs](https://workshops.nuevofoundation.org/) | Nuevo Foundation | 2 | Internet Access |
-| [Javascript Tutorials](https://github.com/muses-code-js) | Muses Code JS | 2-4 | Some Github Understanding |
-
+| [Learn to Code by Playing a Game](https://codecombat.com/) | Code Combat | 2 | Internet Access |
+  [Hour of Code](https://code.org/learn) | Code.Orf | 2 | Internet Access |
+| [Full Stack Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 2 | Internet Access |
+| [Pathway Courses](https://www.codecademy.com/) | Microsoft | 2 | Internet Access |
+| [Basic Web Development Course](https://dash.generalassemb.ly/) | General Assembly | 2 | Internet Access |
+| [Learning on the Go](https://www.sololearn.com/) | Solo Learn | 2 | Internet Access |
+| [Guided Tracks](https://bento.io/) | @JonHMChan | 2 | Internet Access |
+| [learn by building a fictional startup](https://upskillcourses.com/) | Upskill | 2 | Internet Access |
+| [The Odin Project](https://www.theodinproject.com/) | Thinkful | 2 | Some Github Understanding |
 
 ## Follow Some Mentors
 | Name | Author | Step | Year Published |  
@@ -61,7 +63,6 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 3 | Be Tolerant of Quokkas |
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 3 | Be Kind |
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 3 | Be Kind |
-
 
 ## Get Involved
 | Name | Author | Step | Year Published |  
@@ -75,7 +76,12 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 | Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
 | [Frontend Mentor](https://www.frontendmentor.io/) | Frontend Mentor | 5 | 2020 |
-| [Scotch](https://scotch.io/courses) | Scotch | 5 | 2020 |
+| [Achieve Mastery Through Challenges](https://www.codewars.com/) | CodeWars | 5 | 2020 |
+| [Practice and Learn by Playing a Game](https://www.codingame.com/start) | Codingame | 5 | 2020 |
+| [Technical interview prep and coding challenges](https://www.coderbyte.com/) | Coderbyte | 5 | 2020 |
+| [Interactive Challenges](https://edabit.com/#!) | Edabit | 5 | 2020 |
+| [Tutorials and Practice](https://scotch.io/courses) | Scotch | 5 | 2020 |
+
 
 ## Listen to Some Podcasts
 | Name | Author | Step | Year Published |  
