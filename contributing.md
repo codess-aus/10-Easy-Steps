@@ -8,4 +8,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Order the entry within its section based on it's difficulty.
 - Mention in pull request clearly why you think the resource deserves to be in the list.
 
-Thank you!
+Thank you and enjoy Hacktoberfest!
