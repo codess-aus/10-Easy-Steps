@@ -77,11 +77,18 @@ DO NOT JUDGE ME ON IT YET - AS I HAVEN'T FINISHED THE SET-UP
 | [Frontend Mentor](https://www.frontendmentor.io/) | Frontend Mentor | 5 | 2020 |
 | [Scotch](https://scotch.io/courses) | Scotch | 5 | 2020 |
 
-## Placeholder6
+## Listen to Some Podcasts
 | Name | Author | Step | Year Published |  
 |------|--------|------------------|----------------|  
-| [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | 2020 |
-| [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | 2020 |
+| [CodeNewbie Podcast](codenewbie.org/podcast) | CodeNewbie | 6 | 2020 |
+| [Scott Hanselman Podcast](hanselminutes.com) | Scott Hanselman | 6 | 2020 |
+| [Talk Python To Me](talkpython.fm/episodes/all) | @mkennedy | 6 | 2020 |
+| [Softskills Engineering Podcast](softskills.audio) | Softskills Engineering | 6 | 2020 |
+| [Frontend Happy Hour Podcast](frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 6 | 2020 |
+| [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 6 | 2020 |
+| [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 6 | 2020 |
+| [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 6 | 2020 |
+| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 6 | 2020 |
 
 ## Placeholder7
 | Name | Author | Step | Year Published |  
