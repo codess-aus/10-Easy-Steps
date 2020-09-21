@@ -106,11 +106,13 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Love of Learning |
 | [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 | Love of Learning |
 
-## Placeholder8
+## Watch Some Twitch Channels
 | Name | Author | Step | Requirements |  
 |------|--------|------------------|----------------|  
-| [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | Love of Learning |
-| [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | Love of Learning |
+| [Phil Nash](https://www.twitch.tv/phil_nash) | Twilio | 1 | Love of Learning |
+| [Amy Kapernick](https://www.twitch.tv/amyskapers) | Aim Higher Web Dev | 1 | Love of Learning |
+  [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 1 | Love of Learning |
+  [Twilio](https://www.twitch.tv/twilio) | Twilio | 1 | Love of Learning |
 
 ## Placeholder9
 | Name | Author | Step | Requirements |  
