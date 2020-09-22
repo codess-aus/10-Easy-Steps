@@ -109,11 +109,18 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 ## Watch Some Twitch Channels
 | Name | Author | Step | Requirements |  
 |------|--------|------------------|----------------|  
-| [Phil Nash](https://www.twitch.tv/phil_nash) | Twilio | 1 | Love of Learning |
-| [Amy Kapernick](https://www.twitch.tv/amyskapers) | Aim Higher Web Dev | 1 | Love of Learning |
-  [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 1 | Love of Learning |
-  [Twilio](https://www.twitch.tv/twilio) | Twilio | 1 | Love of Learning |
-
+| [Phil Nash](https://www.twitch.tv/phil_nash) | Twilio | 9 | Love of Learning |
+| [Amy Kapernick](https://www.twitch.tv/amyskapers) | Aim Higher Web Dev | 9 | Love of Learning |
+  [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Love of Learning |
+  [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Love of Learning |
+  [Pair Programming](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Love of Learning |
+  [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Love of Learning |
+  [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Love of Learning |
+  [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Love of Learning |
+  [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Love of Learning |
+  [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Love of Learning |
+  [Layla Codesit](https://www.twitch.tv/laylacodesit) | Twilio | 9 | Love of Learning |
+  
 ## Placeholder9
 | Name | Author | Step | Requirements |  
 |------|--------|------------------|----------------|  
