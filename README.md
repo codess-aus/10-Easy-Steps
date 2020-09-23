@@ -15,10 +15,8 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 * [Practice](#practice)
 * [Listen to Some Podcasts](#listen-to-some-podcasts)
 * [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
-* [Test](#placeholder8)
-* [Placeholder9](#placeholder9)
-
-
+* [Watch Some Twitch Channels](#Watch-Some-Twitch-Channels)
+* [Conferences](#placeholder9)
 
 # Resources
 
@@ -121,11 +119,17 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
   [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Love of Learning |
   [Layla Codesit](https://www.twitch.tv/laylacodesit) | Twilio | 9 | Love of Learning |
   
-## Placeholder9
+## Conferences
 | Name | Author | Step | Requirements |  
 |------|--------|------------------|----------------|  
-| [Placeholder](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 1 | Love of Learning |
-| [Placeholder](https://lab.github.com/githubtraining/communicating-using-markdown) | GetHub Learning Labs | 1 | Love of Learning |
+| [NDC Conferences](https://www.ndcconferences.com/) | NDC | 10 | Love of Learning |
+| [YOW Conferences](https://yowconference.com/) | YOW | 10 | Love of Learning |
+| [PyCon](https://pycon.org/) | Python.Org | 10 | Love of Learning |
+| [Microsoft Build](https://news.microsoft.com/build2020/) | Microsoft | 10 | Love of Learning |
+| [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | Love of Learning |
+| [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | Love of Learning |
+| [JSConf](https://jsconf.com/) | JSConf | 10 | Love of Learning |
+| [Github Universe](https://githubuniverse.com/) | Github | 10 | Love of Learning |
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
