@@ -6,7 +6,7 @@
 ## Adding new resource
 * The resource I am adding is _ _ _ _
 * I am adding this resource to _ _ _ _ section.
-* I have used this book _ _ times.
+* I have used this resource _ _ times.
 * I think this resource deserves to be in this list because _ _ _ _
 
 **If you are adding more than 1 resource duplicate this section**
