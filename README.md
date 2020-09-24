@@ -62,6 +62,8 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 4 | Be Tolerant of Quokkas |
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Be Kind |
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Be Kind |
+| [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Be Kind |
+| [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Be Kind |
 
 ## Get Involved
 | Name | Author | Step | Requirements |  
