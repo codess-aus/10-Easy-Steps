@@ -64,6 +64,9 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Be Kind |
 | [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Be Kind |
 | [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Be Kind |
+| [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be Kind |
+| [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be Kind |
+| [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Be Kind |
 
 ## Get Involved
 | Name | Author | Step | Requirements |  
@@ -72,6 +75,7 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [Python Community](https://www.python.org/community/) | Python.Org | 5 | Love of Python |
 | [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 5 | Love of Learning |
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 5 | Be Kind |
+| [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Be Kind |
 
 ## Practice
 | Name | Author | Step | Requirements |  
@@ -120,6 +124,8 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
   [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Love of Learning |
   [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Love of Learning |
   [Layla Codesit](https://www.twitch.tv/laylacodesit) | Twilio | 9 | Love of Learning |
+  [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | Love of Learning |
+  
   
 ## Conferences
 | Name | Author | Step | Requirements |  
