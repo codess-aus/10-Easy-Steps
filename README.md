@@ -15,8 +15,9 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 * [Practice](#practice)
 * [Listen to Some Podcasts](#listen-to-some-podcasts)
 * [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
-* [Watch Some Twitch Channels](#Watch-Some-Twitch-Channels)
-* [Conferences](#placeholder9)
+* [Watch Some Twitch Channels](#watch-some-twitch-channels)
+* [Conferences](#conferences)
+* [And Then What?](##and-then-what?)
 
 # Resources
 
@@ -25,11 +26,13 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 |------|--------|------------------|----------------|  
 | [Learn web development as an absolute beginner](https://youtu.be/ysEN5RaKOlA) | Coder Coder | 1 | Growth Mindset |
 | [JavaScript For Cats](http://jsforcats.com/) | @maxogden | 1 | Growth Mindset |
+| [Why's (Poignant) Guide to Ruby](http://poignant.guide/) | Why the Lucky Stiff | 1 | Growth Mindset |
 
 ## Get into Github
 | Description | Author | Step | Requirements |  
 |------|--------|------------------|----------------|  
 | [Hello World](https://guides.github.com/activities/hello-world/) | GitHub Guides | 2 | Internet Access |
+| [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses//') | Kent C Dodds | 2 | Internet Access |
 | [Prefer GUI Over Command Line Tools](https://desktop.github.com/) | Github Desktop | 2 | Admin Access to Your Device | 
 | [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 2 | Internet Access |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GitHub Learning Labs | 2 | Internet Access |
@@ -126,7 +129,6 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
   [Layla Codesit](https://www.twitch.tv/laylacodesit) | Twilio | 9 | Love of Learning |
   [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | Love of Learning |
   
-  
 ## Conferences
 | Name | Author | Step | Requirements |  
 |------|--------|------------------|----------------|  
@@ -138,6 +140,11 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | Love of Learning |
 | [JSConf](https://jsconf.com/) | JSConf | 10 | Love of Learning |
 | [Github Universe](https://githubuniverse.com/) | Github | 10 | Love of Learning |
+
+## And Then What?
+| Name | Author | Step | Requirements |  
+|------|--------|------------------|----------------|  
+| [Learn You A Haskell](http://learnyouahaskell.com/chapters) | Miran Lipovaca | 10 | A need for more |
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
