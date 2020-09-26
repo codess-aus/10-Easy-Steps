@@ -79,6 +79,7 @@ DO NOT ATTEMPT TO CONTRIBUTE TO THIS REPOSITORY UNTIL OCT 1ST 2020
 | [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 5 | Love of Learning |
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 5 | Be Kind |
 | [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Be Kind |
+| [Probot Community](https://probot.github.io/community/) | Probot | 5 | Be Kind |
 
 ## Practice
 | Name | Author | Step | Requirements |  
