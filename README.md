@@ -68,7 +68,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Help yourself by helping others |
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Be Kind |
 | [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Be Kind |
-| [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Be Kind |
+| [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Python Software Foundation Director |
 | [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be stylish |
 | [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
 | [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Be Kind |
