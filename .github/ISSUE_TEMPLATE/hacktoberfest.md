@@ -4,6 +4,7 @@ about: Contribute Missing Content
 title: "[Hacktoberfest]: Update Content"
 labels: 'good first issue, hacktoberfest :children_crossing:, help wanted :hand:'
 assignees: ''
+---
 
 🆕🐥☝ Beginners Only:
 This issue is reserved for people who are new to Open Source. We know that the process of creating a pull request is the biggest barrier for new contributors. This issue is for you 💝
