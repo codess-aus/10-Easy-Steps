@@ -28,7 +28,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 |------|--------|------------------|----------------|  
 | [Learn web development as an absolute beginner](https://youtu.be/ysEN5RaKOlA) | Coder Coder | 1 | A great video to get you started |
 | [JavaScript For Cats](http://jsforcats.com/) | @maxogden | 1 | A fun way to introduce Javascript |
-| [Why's (Poignant) Guide to Ruby](http://poignant.guide/) | Why the Lucky Stiff | 1 | A legend in the Ruby Community who disappeared without a trace left this enigmatic guide to Ruby |
+| [Why's (Poignant) Guide to Ruby](http://poignant.guide/) | Why the Lucky Stiff | 1 | A legend in the Ruby Community who disappeared without a trace, remembered mostly by this enigmatic guide to Ruby |
 
 ## Get into Github
 | Description | Author | Step | Comments |  
