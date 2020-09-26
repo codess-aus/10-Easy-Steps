@@ -1,5 +1,5 @@
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
-https://img.shields.io/badge/Open--Source-Good--First--Issue-blue
+![Open-Source](https://img.shields.io/badge/Open--Source-Good--First--Issue-blue)
 
 
 # 10-Easy-Steps
