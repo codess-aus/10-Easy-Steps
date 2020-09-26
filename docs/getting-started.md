@@ -2,34 +2,25 @@ Placeholder
 
 # Getting Started Guide
 
-This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
+This guide will help you get started contributing on this repository. 
 
-## Installing the bot
+**Beginners Only**
+Contributing during **Hacktoberfest** is reserved for people who are new to Open Source. We know that the process of creating a pull request is the biggest barrier for new contributors. This respository is for you 💝
 
-The bot works by providing a message on a contributor's first issue, pull request, or merged pull request. In order to scan a repository, the app must be installed on that repository. To install the app, use the following instructions:
+**What you need to know**
+Nothing. This is where you start and the resources contained herein will help you build the skills and the confidence you need to become an active and contributing member of the Open-Source Community - and a clean coder as well.
 
-1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following Permissions and Events:
+If you would like to contribute to this repository - have at it. First-Timers-Welcome! Check the issues and either add one, or comment on one. Then [Branch, commit, pull - start at step2](https://guides.github.com/activities/hello-world/)
 
-- Pull requests: Read & Write
-- Issues: Read & Write
+Remember to observe the [Code of Conduct](https://github.com/msandfor/10-Easy-Steps/blob/master/code_of_conduct.md) - by which we mean, in short - Be Kind, Be Positive, Be Helpful
 
-## Creating the config
+We don't want people to be overwhelmed with too many choices, or demotivated by content that is not accessible to beginners. Make suggestions for resources/people that you have used yourself and comes with your most heartfelt recommendation.
 
-The bot is designed to create messages when a user creates an issue, open a pull request, or merges a pull request. These messages are based on a config file in your repository. You will need to create a config file with the messages you want **welcome** to use. Your `.github/config.yml` should look something like this:
+**Step by Step**
+* 🙋 Claim an issue: Comment on it.
+* Create a New Branch [How to branch, Commit, Pull, Merge - start at step2](https://guides.github.com/activities/hello-world/)
+* Make your change - I use [Github Desktop](https://desktop.github.com/) and [Visual Studio Code](https://code.visualstudio.com/) so I don't have to do anything via the command-line, but if you like the command-line git on with it ;-)
+* Commit it [Make it a good one](https://dev.to/chrissiemhrk/git-commit-message-5e21)
+* Make a Pull Request [Tell us what you did](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
+* We'll review it and merge it in
 
-```
-# Configuration for welcome - https://github.com/behaviorbot/welcome
-# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
-# Comment to be posted to on PRs from first time contributors in your repository
-newPRWelcomeComment: >
-  Thanks for opening this pull request! Please check out our contributing guidelines.
-# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
-# Comment to be posted to on pull requests merged by a first time user
-firstPRMergeComment: >
-  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
-# It is recommended to include as many gifs and emojis as possible!
-```
-
-### Example Messages
-
-Welcome to our repository! Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue.
