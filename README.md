@@ -71,7 +71,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 | [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Python Software Foundation Director |
 | [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be stylish |
 | [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
-| [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Be Kind |
+| [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Podcaster, Teacher, Swimmer & Music Lover |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
