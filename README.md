@@ -55,7 +55,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 | [Guided Tracks](https://bento.io/) | @JonHMChan | 3 | Take a byte each day |
 | [learn by building a fictional startup](https://upskillcourses.com/) | Upskill | 3 | If you want a story around what you build, start here |
 | [The Odin Project](https://www.theodinproject.com/) | Thinkful | 3 | Very popular |
-| [Learn to Code HTML & CSS](https://learn.shayhowe.com/) | Shay Howe | 3 | Beautifully done |
+| [Learn to Code HTML & CSS](https://learn.shayhowe.com/) | Shay Howe | 3 | how to build beautiful and intuitive websites by way of clear and organized lessons |
 
 
 ## Follow Some Mentors
