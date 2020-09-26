@@ -95,7 +95,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 
 
 ## Listen to Some Podcasts
-| Name | Author | Step | Year Comments |  
+| Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [CodeNewbie Podcast](codenewbie.org/podcast) | CodeNewbie | 7 | Love of Learning |
 | [Scott Hanselman Podcast](hanselminutes.com) | Scott Hanselman | 7 | Love of Learning |
