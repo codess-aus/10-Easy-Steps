@@ -1,4 +1,3 @@
-blank_issues_enabled: false
 
 # Configuration for welcome - https://github.com/behaviorbot/welcome
 
@@ -19,6 +18,7 @@ newPRWelcomeComment: >
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 firstPRMergeComment: >
   Congrats on merging your first pull request! 🎉🎉🎉
+  <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
