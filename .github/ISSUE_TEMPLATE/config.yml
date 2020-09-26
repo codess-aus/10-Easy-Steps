@@ -12,17 +12,17 @@ newPRWelcomeComment: |
   💖 Thanks for opening this pull request! 💖
 
 # Comment to be posted to on PRs from first time contributors in your repository
-newPRWelcomeComment: >
-  Thanks for opening this pull request! Please check out our contributing guidelines.
+# newPRWelcomeComment: >
+#  Thanks for opening this pull request! Please check out our contributing guidelines.
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 firstPRMergeComment: >
   Congrats on merging your first pull request! 🎉🎉🎉
-  <img align="right" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
+  <img align="center" width="150" height="150" src="https://raw.githubusercontent.com/msandfor/msandfor/master/octomichelle/octomichelle1.gif?raw=true"></a>
 
 # Comment to be posted to on pull requests merged by a first time user
-firstPRMergeComment: >
-  Congrats on merging your first pull request! We are proud of you!
+# firstPRMergeComment: >
+#  Congrats on merging your first pull request! We are proud of you!
 
 # It is recommended to include as many gifs and emojis as possible!
 
