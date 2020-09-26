@@ -1,5 +1,3 @@
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
-
 # Contribution Guidelines
 
 There are many ways you can help us make this project better. Every repository is different and our goal is to create a repository that is flexible enough to help most beginners, while still being interesting for more experienced coders. If you would like to help, we use labels to organize the work that needs to be done. Look for the labels that fit your expertise:

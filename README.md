@@ -1,3 +1,6 @@
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
+
+
 # 10-Easy-Steps
 A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 
