@@ -1,9 +1,13 @@
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 
 # 10-Easy-Steps
-A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
+A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code. Go to the issues, pick one of the ones labeled Hacktoberfest for more instructions on how you can contribute and make your first (second, third or forth) pull request.
 
 > A curated list of the 10 things Beginners need to know to get started in code (and interesting things to help the more advanced progress). Dip into them and try to just do a little bit each day
 
@@ -69,10 +73,10 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Help yourself by helping others |
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Be Kind |
 | [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Be Kind |
-| [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Be Kind |
+| [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Python Software Foundation Director |
 | [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be stylish |
 | [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
-| [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Be Kind |
+| [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Podcaster, Teacher, Swimmer & Music Lover |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
@@ -158,3 +162,23 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 
 ## License
 MIT Licence
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/newbietestuser"><img src="https://avatars1.githubusercontent.com/u/71936510?v=4" width="100px;" alt=""/><br /><sub><b>TestAccount</b></sub></a><br /><a href="#content-newbietestuser" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=newbietestuser" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://techoutsiders.com.au"><img src="https://avatars1.githubusercontent.com/u/5952956?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Mei-Ling Sandford</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Code">💻</a> <a href="#content-msandfor" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Documentation">📖</a> <a href="#design-msandfor" title="Design">🎨</a> <a href="#example-msandfor" title="Examples">💡</a> <a href="https://github.com/msandfor/10-Easy-Steps/pulls?q=is%3Apr+reviewed-by%3Amsandfor" title="Reviewed Pull Requests">👀</a> <a href="#talk-msandfor" title="Talks">📢</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
