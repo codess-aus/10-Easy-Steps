@@ -19,5 +19,11 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `| [Name](Resource URL) | Author | Step | Comments |`
 - Order the entry within its section based on it's simplicity.
 - Mention in pull request clearly why you think the resource deserves to be in the list.
+- Add yourself to the list of contributors by Commenting on the Issue or Pull Request, asking @all-contributors to add a contributor:
+
+@all-contributors please add <username> for <contributions>
+<contribution>: See the Emoji Key (Contribution Types Reference) for a list of valid contribution types.
+
+The bot will then create a Pull Request to add the contributor, then reply with the pull request details.
 
 Thank you and enjoy Hacktoberfest!
