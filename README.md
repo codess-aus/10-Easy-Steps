@@ -56,7 +56,8 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 | [learn by building a fictional startup](https://upskillcourses.com/) | Upskill | 3 | If you want a story around what you build, start here |
 | [The Odin Project](https://www.theodinproject.com/) | Thinkful | 3 | Very popular |
 | [Learn to Code HTML & CSS](https://learn.shayhowe.com/) | Shay Howe | 3 | Beautifully done |
-
+| [A Tour of Go](https://tour.golang.org/welcome/1) | The Go Programming Language | 3 | An easy-to-ramp-up language |
+| [The Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | MDM Webdocs | 3 | How to Use and Overview |
 
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
@@ -148,6 +149,8 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Learn You A Haskell](http://learnyouahaskell.com/chapters) | Miran Lipovaca | 10 | A need for more |
+| [The most quirky parts of the JavaScript](https://bonsaiden.github.io/JavaScript-Garden/) | Javascript Garden | 10 | Advice on avoiding common mistakes |
+
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
