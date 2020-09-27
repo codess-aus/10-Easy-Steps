@@ -4,6 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+<img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
 
 
 # 10-Easy-Steps
