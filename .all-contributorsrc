@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "newbietestuser",
+      "name": "TestAccount",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/71936510?v=4",
+      "profile": "https://github.com/newbietestuser",
+      "contributions": [
+        "content",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "10-Easy-Steps",
+  "projectOwner": "msandfor",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
