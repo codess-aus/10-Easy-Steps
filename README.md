@@ -34,6 +34,8 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 | [Learn web development as an absolute beginner](https://youtu.be/ysEN5RaKOlA) | Coder Coder | 1 | A great video to get you started |
 | [JavaScript For Cats](http://jsforcats.com/) | @maxogden | 1 | A fun way to introduce Javascript |
 | [Why's (Poignant) Guide to Ruby](http://poignant.guide/) | Why the Lucky Stiff | 1 | A legend in the Ruby Community who disappeared without a trace, remembered mostly by this enigmatic guide to Ruby |
+| [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) | Piotr Gaczkowski | 1 | This is the What and Why of Open Source |
+| [Open Source Guide to Etiquette](https://css-tricks.com/open-source-etiquette-guidebook/) | Kent C. Dodds and Sarah Drasner | 1 | Let's play nice |
 
 ## Get into Github
 | Description | Author | Step | Comments |  
@@ -78,6 +80,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 | [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be stylish |
 | [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
 | [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Podcaster, Teacher, Swimmer & Music Lover |
+| [Sarah Drasner](https://sarah.dev/) | I Make Things | 4 | A FrontEnd Master |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
