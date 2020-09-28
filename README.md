@@ -45,7 +45,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 | [Prefer GUI Over Command Line Tools](https://desktop.github.com/) | Github Desktop | 2 | You don't have to code in the command line | 
 | [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 2 | A bot can teach you to code |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GitHub Learning Labs | 2 | Creating Simplified Webpages |
-| [Make Your First Contribution to Open Source](https://github.com/firstcontributions/first-contributions) | FirstContributions | 2 | You'll always remember your first contribution |
+| [Make Your First Contribution to Open Source](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md) | FirstContributions | 2 | You'll always remember your first contribution |
 | [Writing a Good Commit Message](https://dev.to/chrissiemhrk/git-commit-message-5e21) | Chrissie Muhorakeye | 2 | Start as you mean to go on |
 | [Writing Good Pull Requests](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) | Keavy McMinn | 2 | Help yourself and others who come after you |
 | [Create a Github Profile Readme](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) | Monica Powell | 2 | Build your own pretty webpage on Github |
