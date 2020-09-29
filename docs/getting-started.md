@@ -11,7 +11,7 @@ Contributing during **Hacktoberfest** is reserved for people who are new to Open
 **What you need to know**
 Nothing. This is where you start and the resources contained herein will help you build the skills and the confidence you need to become an active and contributing member of the Open-Source Community - and a clean coder as well.
 
-If you would like to contribute to this repository - have at it. First-Timers-Welcome! Check the issues and either add one, or comment on one. Then [Branch, commit, pull - start at step2](https://guides.github.com/activities/hello-world/)
+If you would like to contribute to this repository - have at it. First-Timers Welcome! Check the issues and either add one, or comment on one. Then [Branch, commit, pull - start at step2](https://guides.github.com/activities/hello-world/)
 
 Remember to observe the [Code of Conduct](https://github.com/msandfor/10-Easy-Steps/blob/master/code_of_conduct.md) - by which we mean, in short - Be Kind, Be Positive, Be Helpful
 
@@ -24,4 +24,6 @@ We don't want people to be overwhelmed with too many choices, or demotivated by 
 * Commit it [Make it a good one](https://dev.to/chrissiemhrk/git-commit-message-5e21)
 * Make a Pull Request [Tell us what you did](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 * We'll review it and merge it in
+
+
 
