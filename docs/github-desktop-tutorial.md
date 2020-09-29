@@ -54,7 +54,8 @@ Click on `Create branch`
 
 Now open `readme.md` file in a text editor, scroll to the section you want to edit, make the changes, then save the file.
 
-<Placeholder text to be updated from this point>
+## Placeholder text to be updated from this point
+
 Example: If your name is James Smith, It should look like this.
 
 \[James Smith](https://github.com/jamessmith)
