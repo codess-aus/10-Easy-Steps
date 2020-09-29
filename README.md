@@ -1,6 +1,5 @@
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
-![Licence MIT] https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -163,6 +162,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------|  
 | [Learn You A Haskell](http://learnyouahaskell.com/chapters) | Miran Lipovaca | 10 | A need for more |
 | [The most quirky parts of the JavaScript](https://bonsaiden.github.io/JavaScript-Garden/) | Javascript Garden | 10 | Advice on avoiding common mistakes |
+| [Create own workshop](https://nuevofoundation.org/) | Nuevo Foundation | 10 | Teach kids with fun coding scenarios |
 
 
 ## Credits
