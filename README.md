@@ -1,9 +1,19 @@
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
+![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
 
 
 # 10-Easy-Steps
-A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
+A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code. Go to the issues, pick one of the ones labeled Hacktoberfest for more instructions on how you can contribute and make your first (second, third or forth) pull request.
+
+Remember to sign-up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to qualify for your free Tshirt, or to have a Tree planted in your name. The event runs for the Month of October each year - and you can sign up now. Don't worry - I won't Pull your Requests until Oct 1st.
+
+Also, I'd love it if you've found this Project useful - Could you please click on the :star: for this repository.
 
 > A curated list of the 10 things Beginners need to know to get started in code (and interesting things to help the more advanced progress). Dip into them and try to just do a little bit each day
 
@@ -28,7 +38,9 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 |------|--------|------------------|----------------|  
 | [Learn web development as an absolute beginner](https://youtu.be/ysEN5RaKOlA) | Coder Coder | 1 | A great video to get you started |
 | [JavaScript For Cats](http://jsforcats.com/) | @maxogden | 1 | A fun way to introduce Javascript |
-| [Why's (Poignant) Guide to Ruby](http://poignant.guide/) | Why the Lucky Stiff | 1 | A legend in the Ruby Community who disappeared without a trace left this enigmatic guide to Ruby |
+| [Why's (Poignant) Guide to Ruby](http://poignant.guide/) | Why the Lucky Stiff | 1 | A legend in the Ruby Community who disappeared without a trace, remembered mostly by this enigmatic guide to Ruby |
+| [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) | Piotr Gaczkowski | 1 | This is the What and Why of Open Source |
+| [Open Source Guide to Etiquette](https://css-tricks.com/open-source-etiquette-guidebook/) | Kent C. Dodds and Sarah Drasner | 1 | Let's play nice |
 
 ## Get into Github
 | Description | Author | Step | Comments |  
@@ -38,7 +50,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 | [Prefer GUI Over Command Line Tools](https://desktop.github.com/) | Github Desktop | 2 | You don't have to code in the command line | 
 | [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 2 | A bot can teach you to code |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GitHub Learning Labs | 2 | Creating Simplified Webpages |
-| [Make Your First Contribution to Open Source](https://github.com/firstcontributions/first-contributions) | FirstContributions | 2 | You'll always remember your first contribution |
+| [Make Your First Contribution to Open Source](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md) | FirstContributions | 2 | You'll always remember your first contribution |
 | [Writing a Good Commit Message](https://dev.to/chrissiemhrk/git-commit-message-5e21) | Chrissie Muhorakeye | 2 | Start as you mean to go on |
 | [Writing Good Pull Requests](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) | Keavy McMinn | 2 | Help yourself and others who come after you |
 | [Create a Github Profile Readme](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) | Monica Powell | 2 | Build your own pretty webpage on Github |
@@ -56,6 +68,9 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 | [learn by building a fictional startup](https://upskillcourses.com/) | Upskill | 3 | If you want a story around what you build, start here |
 | [The Odin Project](https://www.theodinproject.com/) | Thinkful | 3 | Very popular |
 | [Learn to Code HTML & CSS](https://learn.shayhowe.com/) | Shay Howe | 3 | Beautifully done |
+| [A Tour of Go](https://tour.golang.org/welcome/1) | The Go Programming Language | 3 | An easy-to-ramp-up language |
+| [The Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | MDM Webdocs | 3 | How to Use and Overview |
+| [Kids STEM Workshops and Resources](https://nuevofoundation.org/get-involved) | Nuevo Foundation | 3 | Workshops and Community |
 
 
 ## Follow Some Mentors
@@ -68,10 +83,12 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Help yourself by helping others |
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Be Kind |
 | [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Be Kind |
-| [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Be Kind |
+| [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Python Software Foundation Director |
 | [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be stylish |
 | [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
 | [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Podcaster, Teacher, Swimmer & Music Lover |
+| [Sarah Drasner](https://sarah.dev/) | I Make Things | 4 | A FrontEnd Master |
+| [Bea Gandica](https://www.linkedin.com/in/beagandica/) | Nuevo Foundation | 4 | Changing the World at pace |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
@@ -95,7 +112,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 
 
 ## Listen to Some Podcasts
-| Name | Author | Step | Year Comments |  
+| Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [CodeNewbie Podcast](codenewbie.org/podcast) | CodeNewbie | 7 | Love of Learning |
 | [Scott Hanselman Podcast](hanselminutes.com) | Scott Hanselman | 7 | Love of Learning |
@@ -148,6 +165,9 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Learn You A Haskell](http://learnyouahaskell.com/chapters) | Miran Lipovaca | 10 | A need for more |
+| [The most quirky parts of the JavaScript](https://bonsaiden.github.io/JavaScript-Garden/) | Javascript Garden | 10 | Advice on avoiding common mistakes |
+| [Create own workshop](https://nuevofoundation.org/) | Nuevo Foundation | 10 | Teach kids with fun coding scenarios |
+
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
@@ -155,3 +175,24 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code
 
 ## License
 MIT Licence
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/newbietestuser"><img src="https://avatars1.githubusercontent.com/u/71936510?v=4" width="100px;" alt=""/><br /><sub><b>TestAccount</b></sub></a><br /><a href="#content-newbietestuser" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=newbietestuser" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://techoutsiders.com.au"><img src="https://avatars1.githubusercontent.com/u/5952956?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Mei-Ling Sandford</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Code">💻</a> <a href="#content-msandfor" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Documentation">📖</a> <a href="#design-msandfor" title="Design">🎨</a> <a href="#example-msandfor" title="Examples">💡</a> <a href="https://github.com/msandfor/10-Easy-Steps/pulls?q=is%3Apr+reviewed-by%3Amsandfor" title="Reviewed Pull Requests">👀</a> <a href="#talk-msandfor" title="Talks">📢</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mendezgandica"><img src="https://avatars1.githubusercontent.com/u/35856994?v=4" width="100px;" alt=""/><br /><sub><b>Bea</b></sub></a><br /><a href="#content-beagandica" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=beagandica" title="Documentation">📖</a> <a href="#tutorial-beagandica" title="Tutorials">✅</a> <a href="#talk-beagandica" title="Talks">📢</a> <a href="#translation-beagandica" title="Translation">🌍</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
