@@ -1,4 +1,4 @@
-# First Contributions
+# GitHub Desktop Tutorial for 10-easy-steps
 
 |<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
 |---|---|
