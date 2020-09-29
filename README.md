@@ -10,6 +10,8 @@
 # 10-Easy-Steps
 A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code. Go to the issues, pick one of the ones labeled Hacktoberfest for more instructions on how you can contribute and make your first (second, third or forth) pull request.
 
+Remember to sign-up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to qualify for your free Tshirt, or to have a Tree planted in your name
+
 > A curated list of the 10 things Beginners need to know to get started in code (and interesting things to help the more advanced progress). Dip into them and try to just do a little bit each day
 
 
