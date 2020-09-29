@@ -36,6 +36,7 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 | [Why's (Poignant) Guide to Ruby](http://poignant.guide/) | Why the Lucky Stiff | 1 | A legend in the Ruby Community who disappeared without a trace, remembered mostly by this enigmatic guide to Ruby |
 | [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) | Piotr Gaczkowski | 1 | This is the What and Why of Open Source |
 | [Open Source Guide to Etiquette](https://css-tricks.com/open-source-etiquette-guidebook/) | Kent C. Dodds and Sarah Drasner | 1 | Let's play nice |
+| [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) | @nayafia, @bkeepers, @stephbwills, and @mlinksva | 1 | Really good Why and What Guide of Open Source |
 
 ## Get into Github
 | Description | Author | Step | Comments |  
