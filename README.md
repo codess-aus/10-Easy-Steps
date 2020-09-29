@@ -70,6 +70,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Learn to Code HTML & CSS](https://learn.shayhowe.com/) | Shay Howe | 3 | Beautifully done |
 | [A Tour of Go](https://tour.golang.org/welcome/1) | The Go Programming Language | 3 | An easy-to-ramp-up language |
 | [The Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | MDM Webdocs | 3 | How to Use and Overview |
+| [Kids STEM Workshops and Resources](https://nuevofoundation.org/get-involved) | Nuevo Foundation | 3 | Workshops and Community |
+
 
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
@@ -86,6 +88,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
 | [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Podcaster, Teacher, Swimmer & Music Lover |
 | [Sarah Drasner](https://sarah.dev/) | I Make Things | 4 | A FrontEnd Master |
+| [Bea Gandica](https://www.linkedin.com/in/beagandica/) | Nuevo Foundation | 4 | Changing the World at pace |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
