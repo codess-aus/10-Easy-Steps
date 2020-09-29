@@ -1,4 +1,4 @@
-Placeholder
+![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 
 # Getting Started Guide
 
