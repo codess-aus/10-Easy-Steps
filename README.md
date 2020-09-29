@@ -163,6 +163,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------|  
 | [Learn You A Haskell](http://learnyouahaskell.com/chapters) | Miran Lipovaca | 10 | A need for more |
 | [The most quirky parts of the JavaScript](https://bonsaiden.github.io/JavaScript-Garden/) | Javascript Garden | 10 | Advice on avoiding common mistakes |
+| [Create own workshop](https://nuevofoundation.org/) | Nuevo Foundation | 10 | Teach kids with fun coding scenarios |
 
 
 ## Credits
