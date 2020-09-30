@@ -13,7 +13,7 @@ Nothing. This is where you start and the resources contained herein will help yo
 
 If you would like to contribute to this repository - have at it. First-Timers Welcome! Check the issues and either add one, or comment on one. Then [Branch, commit, pull - start at step2](https://guides.github.com/activities/hello-world/)
 
-If you are not confident working in the command-line (I confess, I never use it, if I don't have to)
+If you are not confident working in the command-line (I confess, I never use it, if I don't have to) - Then you can do it all in the browser window or use a nice GUI tool called GitHub Desktop. This is the step-by-step for making your Pull Request for this Project using that - [GitHub Desktop Steps](https://github.com/msandfor/10-Easy-Steps/blob/master/docs/github-desktop-tutorial.md)
 
 Remember to observe the [Code of Conduct](https://github.com/msandfor/10-Easy-Steps/blob/master/code_of_conduct.md) - by which we mean, in short - Be Kind, Be Positive, Be Helpful
 
