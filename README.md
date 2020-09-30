@@ -2,7 +2,7 @@
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
@@ -90,7 +90,10 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
 | [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Podcaster, Teacher, Swimmer & Music Lover |
 | [Sarah Drasner](https://sarah.dev/) | I Make Things | 4 | A FrontEnd Master |
+| [Aaron Powell](http://www.aaron-powell.com/) | Microsoft | 4 | Awesome speaker at DDD Melbourne |
 | [Bea Gandica](https://www.linkedin.com/in/beagandica/) | Nuevo Foundation | 4 | Changing the World at pace |
+| [Heather Downing](https://www.quorralyne.com/) | Okta | 4 | .NET, APIs, Voice and Identity |
+| [Layla Porter](https://twitter.com/LaylaCodesIt) | Twilio | 4 | Twilio .Net Azure Co-host of MK.NET MVP |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
@@ -191,6 +194,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://techoutsiders.com.au"><img src="https://avatars1.githubusercontent.com/u/5952956?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Mei-Ling Sandford</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Code">💻</a> <a href="#content-msandfor" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Documentation">📖</a> <a href="#design-msandfor" title="Design">🎨</a> <a href="#example-msandfor" title="Examples">💡</a> <a href="https://github.com/msandfor/10-Easy-Steps/pulls?q=is%3Apr+reviewed-by%3Amsandfor" title="Reviewed Pull Requests">👀</a> <a href="#talk-msandfor" title="Talks">📢</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/mendezgandica"><img src="https://avatars1.githubusercontent.com/u/35856994?v=4" width="100px;" alt=""/><br /><sub><b>Bea</b></sub></a><br /><a href="#content-beagandica" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=beagandica" title="Documentation">📖</a> <a href="#tutorial-beagandica" title="Tutorials">✅</a> <a href="#talk-beagandica" title="Talks">📢</a> <a href="#translation-beagandica" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Keatnuxsuo"><img src="https://avatars2.githubusercontent.com/u/24486796?v=4" width="100px;" alt=""/><br /><sub><b>Jia Keatnuxsuo</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3AKeatnuxsuo" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=Keatnuxsuo" title="Documentation">📖</a> <a href="#maintenance-Keatnuxsuo" title="Maintenance">🚧</a> <a href="#tutorial-Keatnuxsuo" title="Tutorials">✅</a> <a href="#userTesting-Keatnuxsuo" title="User Testing">📓</a></td>
+    <td align="center"><a href="https://github.com/nessaamorgan"><img src="https://avatars2.githubusercontent.com/u/37296949?v=4" width="100px;" alt=""/><br /><sub><b>nessaamorgan</b></sub></a><br /><a href="#content-nessaamorgan" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=nessaamorgan" title="Documentation">📖</a> <a href="#maintenance-nessaamorgan" title="Maintenance">🚧</a> <a href="#tutorial-nessaamorgan" title="Tutorials">✅</a></td>
   </tr>
 </table>
 

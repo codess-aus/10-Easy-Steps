@@ -4,7 +4,7 @@ There are many ways you can help us make this project better. Every repository i
 
 # Contributing to 10-Easy-Steps
 
-We :heart: contributions from our community! Thank you for taking the time to review this guide and understand how we work. And please remember, all interactions in this repository should adhere to the [code of conduct](code-of-conduct.md).
+We :heart: contributions from our community! Thank you for taking the time to review this guide and understand how we work. And please remember, all interactions in this repository should adhere to the [code of conduct](https://github.com/msandfor/10-Easy-Steps/blob/master/code_of_conduct.md).
 
 | :bulb: | :question: | :bug: | :trophy: |
 | ------- | -------- | -------- | -------- |

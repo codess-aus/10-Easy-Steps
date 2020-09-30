@@ -70,42 +70,32 @@ Replace `<resource-name>` with the details you are adding.
 
 Click on the button that says `Commit to add-resource-name`.
 
-<img style="left;" src="../assets/dt1-commit1.png" alt="commit your changes" />
+<img style="left;" src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/dt1-commit1.PNG" alt="commit your changes" />
 
 At the bottom, you can see that the commit has been created.
 
-<img style="left;" src="../assets/dt1-commit2.png" alt="commit your changes" />
+<img style="left;" src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/dt1-commit2.PNG" alt="commit your changes" />
 
 ## Push changes to github
 
-Click on File->Options and sign-in to Github.com. Type in your Github username and password.
-
-<img style="left;" src="../assets/dt1-sign-in.png" alt="log-in to Github" />
+Click on File->Options and sign-in to Github.com. Type in your Github username and password. If you haven't already logged in.
 
 Click the `Publish` button on the top right.
 
-<img style="left;" src="../assets/dt1-publish1.png" alt="push your changes" />
+<img style="left;" src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/dt1-publish1.PNG" alt="push your changes" />
 
 ## Submit your changes for review
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
 
-<img style="left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="left;" src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/compare-and-pull.PNG" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="left;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="left;" src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
-
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
-
-
-### [Additional material](../additional-material/git_workflow_senarios/additional-material.md)
-
-## Tutorials Using Other Tools
-[Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
