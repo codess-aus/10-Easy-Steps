@@ -13,6 +13,8 @@ A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code.
 
 Remember to sign-up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to qualify for your free Tshirt, or to have a Tree planted in your name. The event runs for the Month of October each year - and you can sign up now. Don't worry - I won't Pull your Requests until Oct 1st.
 
+If you would like to know how you can contribute to this project - do read the [Contributing.MD](https://github.com/msandfor/10-Easy-Steps/blob/master/contributing.md). There are issues for begginers set-up for #Hacktoberfest and labeled as such. Each issue should give you enough guidance to complete your first (2nd, 3rd or 4th) Pull Request - but if they do not, feel free to ask for help by commenting on the issue. Do not be afraid, there is nothing but support here.
+
 Also, I'd love it if you've found this Project useful - Could you please click on the :star: for this repository.
 
 > A curated list of the 10 things Beginners need to know to get started in code (and interesting things to help the more advanced progress). Dip into them and try to just do a little bit each day
