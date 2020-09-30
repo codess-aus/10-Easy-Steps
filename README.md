@@ -93,6 +93,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Aaron Powell](http://www.aaron-powell.com/) | Microsoft | 4 | Awesome speaker at DDD Melbourne |
 | [Bea Gandica](https://www.linkedin.com/in/beagandica/) | Nuevo Foundation | 4 | Changing the World at pace |
 | [Heather Downing](https://www.quorralyne.com/) | Okta | 4 | .NET, APIs, Voice and Identity |
+| [Layla Porter](https://twitter.com/LaylaCodesIt) | Twilio | 4 | Twilio .Net Azure Co-host of MK.NET MVP |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
