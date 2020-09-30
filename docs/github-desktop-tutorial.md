@@ -50,15 +50,18 @@ Name your branch <add-your-name>. For example, "add-jane-smith"
 
 Click on `Create branch`
 
+You can also Publish the branch
+
+<img style="left;" src="../assets/dt1-create-publish-name.png" alt="publish your branch" />
+
+
 ## Make necessary changes and commit those changes
 
 Now open `readme.md` file in a text editor, scroll to the section you want to edit, make the changes, then save the file.
 
-## Placeholder text to be updated from this point
+Example: If the resource name you are adding is Heather Downing, It should look like this.
 
-Example: If your name is James Smith, It should look like this.
-
-\[James Smith](https://github.com/jamessmith)
+\[Heather Downing](https://www.quorralyne.com/) | Okta | 4 | .NET, APIs, Voice and Identity |
 
 You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
 
@@ -66,11 +69,11 @@ You can see that there are changes to Contributors.md and they have been added t
 
 Now commit those changes:
 
-Write the message "Add `<your-name>` to Contributors list" in the *summary* field.
+Write the message "Add `<resource-name>` to `<mentors>` list" in the *summary* field.
 
-Replace `<your-name>` with your name.
+Replace `<resource-name>` with the details you are adding.
 
-Click on the button that says `Commit to add-your-name`.
+Click on the button that says `Commit to add-resource-name`.
 
 <img style="left;" src="../assets/dt1-commit1.png" alt="commit your changes" />
 
