@@ -50,11 +50,6 @@ Name your branch <add-your-name>. For example, "add-jane-smith"
 
 Click on `Create branch`
 
-You can also Publish the branch
-
-<img style="left;" src="../assets/dt1-create-publish-name.png" alt="publish your branch" />
-
-
 ## Make necessary changes and commit those changes
 
 Now open `readme.md` file in a text editor, scroll to the section you want to edit, make the changes, then save the file.
