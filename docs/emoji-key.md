@@ -6,8 +6,6 @@ sidebar_label: Emoji Key ✨
 
 ## Table
 
-> To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
-
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
 🔊 <br /> `audio` | Audio | Podcasts, background music or sound effects
@@ -41,7 +39,3 @@ Emoji/Type | Represents | Comments
 📢 <br /> `talk` | Talks | Links to the slides/recording/repo/etc
 📓 <br /> `userTesting` | User Testing | Links to user test notes
 📹 <br /> `video` | Videos | Links to the video
-
-## What's next
-- [Notes for repository maintainers](repository-maintainers)
-- [Automating the process using tools](tooling)
