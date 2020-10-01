@@ -67,6 +67,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Full Stack Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 3 | I'm doing this one - it's excellent. A bit each day |
 | [Pathway Courses](https://www.codecademy.com/) | Microsoft | 3 | These courses are also very popular |
 | [Basic Web Development Course](https://dash.generalassemb.ly/) | General Assembly | 3 | As it says on the label |
+| [Foundation of Programming 2 (Java)](https://ocw.ui.ac.id/course/view.php?id=47) | Fariz Darari | 3 | Easy to understand slides for learning Programming with Java! |
 | [Learning on the Go](https://www.sololearn.com/) | Solo Learn | 3 | Do little bits on your phone |
 | [Guided Tracks](https://bento.io/) | @JonHMChan | 3 | Take a byte each day |
 | [learn by building a fictional startup](https://upskillcourses.com/) | Upskill | 3 | If you want a story around what you build, start here |
