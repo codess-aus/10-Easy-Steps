@@ -2,7 +2,7 @@
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
@@ -197,6 +197,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Keatnuxsuo"><img src="https://avatars2.githubusercontent.com/u/24486796?v=4" width="100px;" alt=""/><br /><sub><b>Jia Keatnuxsuo</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3AKeatnuxsuo" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=Keatnuxsuo" title="Documentation">📖</a> <a href="#maintenance-Keatnuxsuo" title="Maintenance">🚧</a> <a href="#tutorial-Keatnuxsuo" title="Tutorials">✅</a> <a href="#userTesting-Keatnuxsuo" title="User Testing">📓</a></td>
     <td align="center"><a href="https://github.com/nessaamorgan"><img src="https://avatars2.githubusercontent.com/u/37296949?v=4" width="100px;" alt=""/><br /><sub><b>nessaamorgan</b></sub></a><br /><a href="#content-nessaamorgan" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=nessaamorgan" title="Documentation">📖</a> <a href="#maintenance-nessaamorgan" title="Maintenance">🚧</a> <a href="#tutorial-nessaamorgan" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://amyskapers.dev"><img src="https://avatars2.githubusercontent.com/u/15953185?v=4" width="100px;" alt=""/><br /><sub><b>Amy Kapernick</b></sub></a><br /><a href="#content-amykapernick" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=amykapernick" title="Code">💻</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=amykapernick" title="Documentation">📖</a> <a href="#talk-amykapernick" title="Talks">📢</a> <a href="#example-amykapernick" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/premkiran7"><img src="https://avatars3.githubusercontent.com/u/33180096?v=4" width="100px;" alt=""/><br /><sub><b>premkiran7</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3Apremkiran7" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=premkiran7" title="Documentation">📖</a></td>
   </tr>
 </table>
 
