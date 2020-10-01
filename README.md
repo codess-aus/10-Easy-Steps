@@ -21,23 +21,17 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 
 ## Table of Contents
-- [10-Easy-Steps](#10-easy-steps)
-  - [Table of Contents](#table-of-contents)
-- [Resources](#resources)
-  - [What, Where, Why?](#what-where-why)
-  - [Get into Github](#get-into-github)
-  - [Try some Code](#try-some-code)
-  - [Follow Some Mentors](#follow-some-mentors)
-  - [Get Involved](#get-involved)
-  - [Practice](#practice)
-  - [Listen to Some Podcasts](#listen-to-some-podcasts)
-  - [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
-  - [Watch Some Twitch Channels](#watch-some-twitch-channels)
-  - [Conferences](#conferences)
-  - [And Then What?](#and-then-what)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Contributors ✨](#contributors-)
+* [What, Where, Why?](#what-where-why)
+* [Get into Github](#get-into-github)
+* [Try Some Code](#try-some-code)
+* [Follow Some Mentors](#follow-some-mentors)
+* [Get Involved](#get-involved)
+* [Practice](#practice)
+* [Listen to Some Podcasts](#listen-to-some-podcasts)
+* [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
+* [Watch Some Twitch Channels](#watch-some-twitch-channels)
+* [Conferences](#conferences)
+* [And Then What?](##and-then-what?)
 
 # Resources
 
@@ -65,22 +59,23 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Create a Github Profile Readme](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)                                                           | Monica Powell        | 2    | Build your own pretty webpage on Github                    |
 
 ## Try some Code
-| Name                                                                                  | Author                      | Step | Comments                                                 |
-| ------------------------------------------------------------------------------------- | --------------------------- | ---- | -------------------------------------------------------- |
-| [Learn to Code by Playing a Game](https://codecombat.com/)                            | Code Combat                 | 3    | Learn the concepts while having fun                      |
-| [Hour of Code](https://code.org/learn)                                                | Code.Orf                    | 3    | Try and byte-size snippets                               |
-| [Full Stack Developer Course](https://www.freecodecamp.org/)                          | Free Code Camp              | 3    | I'm doing this one - it's excellent. A bit each day      |
-| [Pathway Courses](https://www.codecademy.com/)                                        | Microsoft                   | 3    | These courses are also very popular                      |
-| [Basic Web Development Course](https://dash.generalassemb.ly/)                        | General Assembly            | 3    | As it says on the label                                  |
-| [Learning on the Go](https://www.sololearn.com/)                                      | Solo Learn                  | 3    | Do little bits on your phone                             |
-| [Guided Tracks](https://bento.io/)                                                    | @JonHMChan                  | 3    | Take a byte each day                                     |
-| [learn by building a fictional startup](https://upskillcourses.com/)                  | Upskill                     | 3    | If you want a story around what you build, start here    |
-| [The Odin Project](https://www.theodinproject.com/)                                   | Thinkful                    | 3    | Very popular                                             |
-| [Learn to Code HTML & CSS](https://learn.shayhowe.com/)                               | Shay Howe                   | 3    | Beautifully done                                         |
-| [A Tour of Go](https://tour.golang.org/welcome/1)                                     | The Go Programming Language | 3    | An easy-to-ramp-up language                              |
-| [The Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | MDM Webdocs                 | 3    | How to Use and Overview                                  |
-| [Kids STEM Workshops and Resources](https://nuevofoundation.org/get-involved)         | Nuevo Foundation            | 3    | Teach kids with fun coding scenarios                     |
+| Name                                                                                  | Author                      | Step | Comments                                              |
+| ------------------------------------------------------------------------------------- | --------------------------- | ---- | ----------------------------------------------------- |
+| [Learn to Code by Playing a Game](https://codecombat.com/)                            | Code Combat                 | 3    | Learn the concepts while having fun                   |
+| [Hour of Code](https://code.org/learn)                                                | Code.Orf                    | 3    | Try and byte-size snippets                            |
+| [Full Stack Developer Course](https://www.freecodecamp.org/)                          | Free Code Camp              | 3    | I'm doing this one - it's excellent. A bit each day   |
+| [Pathway Courses](https://www.codecademy.com/)                                        | Microsoft                   | 3    | These courses are also very popular                   |
+| [Basic Web Development Course](https://dash.generalassemb.ly/)                        | General Assembly            | 3    | As it says on the label                               |
+| [Learning on the Go](https://www.sololearn.com/)                                      | Solo Learn                  | 3    | Do little bits on your phone                          |
+| [Guided Tracks](https://bento.io/)                                                    | @JonHMChan                  | 3    | Take a byte each day                                  |
+| [learn by building a fictional startup](https://upskillcourses.com/)                  | Upskill                     | 3    | If you want a story around what you build, start here |
+| [The Odin Project](https://www.theodinproject.com/)                                   | Thinkful                    | 3    | Very popular                                          |
+| [Learn to Code HTML & CSS](https://learn.shayhowe.com/)                               | Shay Howe                   | 3    | Beautifully done                                      |
+| [A Tour of Go](https://tour.golang.org/welcome/1)                                     | The Go Programming Language | 3    | An easy-to-ramp-up language                           |
+| [The Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | MDM Webdocs                 | 3    | How to Use and Overview                               |
+| [Kids STEM Workshops and Resources](https://nuevofoundation.org/get-involved)         | Nuevo Foundation            | 3    | Teach kids with fun coding scenarios                  |
 | [Twilio Quest](https://www.twilio.com/quest)                                          | Twilio                      | 3    | Learn to code and save The Cloud from the Legacy Systems |
+
 
 ## Follow Some Mentors
 | Name                                                   | Author                                     | Step | Comments                                  |
