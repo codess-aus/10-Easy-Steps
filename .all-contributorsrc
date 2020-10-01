@@ -80,6 +80,16 @@
         "talk",
         "example"
       ]
+    },
+    {
+      "login": "premkiran7",
+      "name": "premkiran7",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/33180096?v=4",
+      "profile": "https://github.com/premkiran7",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
