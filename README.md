@@ -138,7 +138,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 | Love of Learning |
 | [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Love of Learning |
 | [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Love of Learning |
-| [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 | Love of Learning |
+| [Coders Tape](https://www.youtube.com/c/CodersTape/) | Coders Tape | 8 | Level up your Laravel, PHP and Marketing skills with fresh weekly content |
+
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
@@ -173,7 +174,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Learn You A Haskell](http://learnyouahaskell.com/chapters) | Miran Lipovaca | 10 | A need for more |
 | [The most quirky parts of the JavaScript](https://bonsaiden.github.io/JavaScript-Garden/) | Javascript Garden | 10 | Advice on avoiding common mistakes |
 | [Create own workshop](https://nuevofoundation.org/) | Nuevo Foundation | 10 | Teach kids with fun coding scenarios |
-
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
