@@ -74,6 +74,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [A Tour of Go](https://tour.golang.org/welcome/1) | The Go Programming Language | 3 | An easy-to-ramp-up language |
 | [The Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | MDM Webdocs | 3 | How to Use and Overview |
 | [Kids STEM Workshops and Resources](https://nuevofoundation.org/get-involved) | Nuevo Foundation | 3 | Teach kids with fun coding scenarios |
+| [Twilio Quest](https://www.twilio.com/quest) | Twilio | 3 | Learn to code and save The Cloud from the Legacy Systems |
 
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
@@ -142,7 +143,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Phil Nash](https://www.twitch.tv/phil_nash) | Twilio | 9 | Love of Learning |
-| [Amy Kapernick](https://www.twitch.tv/amyskapers) | Aim Higher Web Dev | 9 | Love of Learning |
+| [Amy Kapernick](https://www.twitch.tv/amyskapers) | Amy Kapernick | 9 | Love of Learning |
   [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Love of Learning |
   [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Love of Learning |
   [Pair Programming](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Love of Learning |
