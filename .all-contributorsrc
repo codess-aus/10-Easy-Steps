@@ -74,7 +74,11 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/15953185?v=4",
       "profile": "https://amyskapers.dev",
       "contributions": [
-        "content"
+        "content",
+        "code",
+        "doc",
+        "talk",
+        "example"
       ]
     }
   ],
