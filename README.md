@@ -131,7 +131,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | Love of Learning |
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Love of Learning |
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | Love of Learning |
-| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning |
+| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning | 
+| [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | Love of Learning |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
