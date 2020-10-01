@@ -101,6 +101,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "soumyajitnandi1",
+      "name": "SOUMYAJIT NANDI",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/67222985?v=4",
+      "profile": "https://www.linkedin.com/in/soumyajit-nandi-683155178",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
