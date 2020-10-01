@@ -11,7 +11,7 @@
 # 10-Easy-Steps
 A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code. Go to the issues, pick one of the ones labeled Hacktoberfest for more instructions on how you can contribute and make your first (second, third or forth) pull request.
 
-Remember to sign-up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to qualify for your free Tshirt, or to have a Tree planted in your name. The event runs for the Month of October each year - and you can sign up now. Don't worry - I won't Pull your Requests until Oct 1st.
+Remember to sign-up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to qualify for your free Tshirt, or to have a Tree planted in your name. The event runs for the Month of October each year - and you can sign up now. I am merging Pull-Requests at once a day during #Hacktoberfest
 
 If you would like to know how you can contribute to this project - do read the [Contributing.MD](https://github.com/msandfor/10-Easy-Steps/blob/master/contributing.md). There are issues for begginers set-up for #Hacktoberfest and labeled as such. Each issue should give you enough guidance to complete your first (2nd, 3rd or 4th) Pull Request - but if they do not, feel free to ask for help by commenting on the issue. Do not be afraid, there is nothing but support here.
 
