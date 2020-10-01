@@ -101,6 +101,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "muhmudrik",
+      "name": "Muhammad Mudrik",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44206861?v=4",
+      "profile": "https://github.com/muhmudrik",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

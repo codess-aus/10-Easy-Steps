@@ -2,7 +2,7 @@
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
@@ -203,6 +203,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://ilmtechnosolutions.com/?team=sameer"><img src="https://avatars1.githubusercontent.com/u/5379650?v=4" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=sam0hack" title="Documentation">📖</a> <a href="#content-sam0hack" title="Content">🖋</a> <a href="#example-sam0hack" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/muhmudrik"><img src="https://avatars1.githubusercontent.com/u/44206861?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Mudrik</b></sub></a><br /><a href="#content-muhmudrik" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=muhmudrik" title="Documentation">📖</a></td>
   </tr>
 </table>
 
