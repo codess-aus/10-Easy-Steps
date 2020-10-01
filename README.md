@@ -203,6 +203,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://ilmtechnosolutions.com/?team=sameer"><img src="https://avatars1.githubusercontent.com/u/5379650?v=4" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=sam0hack" title="Documentation">📖</a> <a href="#content-sam0hack" title="Content">🖋</a> <a href="#example-sam0hack" title="Examples">💡</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/soumyajit-nandi-683155178"><img src="https://avatars3.githubusercontent.com/u/67222985?v=4" width="100px;" alt=""/><br /><sub><b>SOUMYAJIT NANDI</b></sub></a><br /><a href="#content-soumyajitnandi1" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=soumyajitnandi1" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/muhmudrik"><img src="https://avatars1.githubusercontent.com/u/44206861?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Mudrik</b></sub></a><br /><a href="#content-muhmudrik" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=muhmudrik" title="Documentation">📖</a></td>
   </tr>
 </table>
