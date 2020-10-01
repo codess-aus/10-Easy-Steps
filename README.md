@@ -45,6 +45,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Open Source Guide to Etiquette](https://css-tricks.com/open-source-etiquette-guidebook/) | Kent C. Dodds and Sarah Drasner | 1 | Let's play nice |
 | [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) | @nayafia, @bkeepers, @stephbwills, and @mlinksva | 1 | Really good Why and What Guide of Open Source |
 
+
 ## Get into Github
 | Description | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
@@ -75,7 +76,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [The Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | MDM Webdocs | 3 | How to Use and Overview |
 | [Kids STEM Workshops and Resources](https://nuevofoundation.org/get-involved) | Nuevo Foundation | 3 | Teach kids with fun coding scenarios |
 | [Twilio Quest](https://www.twilio.com/quest) | Twilio | 3 | Learn to code and save The Cloud from the Legacy Systems |
-
+| [Laravel 6 Beginner](https://www.youtube.com/playlist?list=PLpzy7FIRqpGC8Jk6gyWdSVdxCVXZAsenQ) | Coders Tape | 3 | Level up your skills |
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
@@ -138,7 +139,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Love of Learning |
 | [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Love of Learning |
 | [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 | Love of Learning |
-
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
