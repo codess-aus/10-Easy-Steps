@@ -109,14 +109,18 @@
       "profile": "https://www.linkedin.com/in/soumyajit-nandi-683155178",
       "contributions": [
         "content",
+        "doc",
+       ]
+    },
+    {
+      "login": "muhmudrik",
+      "name": "Muhammad Mudrik",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/44206861?v=4",
+      "profile": "https://github.com/muhmudrik",
+      "contributions": [
+        "content",
         "doc"
       ]
     }
-  ],
-  "contributorsPerLine": 7,
-  "projectName": "10-Easy-Steps",
-  "projectOwner": "msandfor",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true
+  ]
 }
