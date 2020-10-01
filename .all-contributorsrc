@@ -90,6 +90,17 @@
         "bug",
         "doc"
       ]
+    },
+    {
+      "login": "sam0hack",
+      "name": "Sam",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5379650?v=4",
+      "profile": "https://ilmtechnosolutions.com/?team=sameer",
+      "contributions": [
+        "doc",
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
