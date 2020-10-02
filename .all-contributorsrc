@@ -14,6 +14,28 @@
         "doc",
         "content"
       ]
+    },
+    {
+      "login": "msandfor",
+      "name": "Michelle Mei-Ling Sandford",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5952956?v=4",
+      "profile": "http://techoutsiders.com.au",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "design",
+        "example",
+        "eventOrganizing",
+        "maintenance",
+        "question",
+        "review",
+        "test",
+        "tutorial",
+        "talk",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,

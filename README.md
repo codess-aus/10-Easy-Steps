@@ -1,6 +1,6 @@
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
@@ -197,6 +197,7 @@ Thanks goes to these wonderful people for their contributions to this project ([
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Yash2737"><img src="https://avatars3.githubusercontent.com/u/37664594?v=4" width="100px;" alt=""/><br /><sub><b>Yash Soni</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=Yash2737" title="Documentation">📖</a> <a href="#content-Yash2737" title="Content">🖋</a></td>
+    <td align="center"><a href="http://techoutsiders.com.au"><img src="https://avatars1.githubusercontent.com/u/5952956?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Mei-Ling Sandford</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3Amsandfor" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Code">💻</a> <a href="#content-msandfor" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Documentation">📖</a> <a href="#design-msandfor" title="Design">🎨</a> <a href="#example-msandfor" title="Examples">💡</a> <a href="#eventOrganizing-msandfor" title="Event Organizing">📋</a> <a href="#maintenance-msandfor" title="Maintenance">🚧</a> <a href="#question-msandfor" title="Answering Questions">💬</a> <a href="https://github.com/msandfor/10-Easy-Steps/pulls?q=is%3Apr+reviewed-by%3Amsandfor" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Tests">⚠️</a> <a href="#tutorial-msandfor" title="Tutorials">✅</a> <a href="#talk-msandfor" title="Talks">📢</a> <a href="#userTesting-msandfor" title="User Testing">📓</a></td>
   </tr>
 </table>
 
