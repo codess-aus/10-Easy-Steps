@@ -168,7 +168,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | Love of Learning |
 | [JSConf](https://jsconf.com/) | JSConf | 10 | Love of Learning |
 | [Github Universe](https://githubuniverse.com/) | Github | 10 | Love of Learning |
-| Signal Conf | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
+| [Signal Conf](https://signal.twilio.com/) | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -199,4 +199,6 @@ MIT Licence
 * [Muhmudrik](https://github.com/muhmudrik)
 * [TechGirl007](https://github.com/TechGirl007)
 * [jilloestreicher](https://github.com/jilloestreicher)
+* [LucasDamascenoS](https://github.com/LucasDamascenoS)
+
 
