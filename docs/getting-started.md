@@ -26,6 +26,7 @@ We don't want people to be overwhelmed with too many choices, or demotivated by 
 * Commit it [Make it a good one](https://dev.to/chrissiemhrk/git-commit-message-5e21)
 * Make a Pull Request [Tell us what you did](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 * We'll review it and merge it in
+* Add yourself to the list of contributors by going to the bottom of the README.MD and adding yourself using the same formatting as those before you
 
 
 
