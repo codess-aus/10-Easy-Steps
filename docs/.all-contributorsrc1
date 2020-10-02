@@ -6,16 +6,6 @@
   "commit": false,
   "contributors": [
     {
-      "login": "Yash2737",
-      "name": "Yash Soni",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/37664594?v=4",
-      "profile": "https://github.com/Yash2737",
-      "contributions": [
-        "doc",
-        "content"
-      ]
-    },
-    {
       "login": "newbietestuser",
       "name": "TestAccount",
       "avatar_url": "https://avatars1.githubusercontent.com/u/71936510?v=4",
@@ -132,21 +122,10 @@
         "doc"
       ]
     }
-    {
-      "login": "TechGirl007",
-      "name": "TechGirl007",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/44280312?v=4",
-      "profile": "https://github.com/TechGirl007",
-      "contributions": [
-        "content",
-        "doc"
-      ]
-    },
   ],
-  "contributorsPerLine": 4,
-  "projectName": "10-Easy-Steps",
-  "projectOwner": "msandfor",
   "repoType": "github",
+  "contributorsPerLine": 7,
   "repoHost": "https://github.com",
+  "commitConvention": "angular",
   "skipCi": true
 }

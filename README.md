@@ -186,8 +186,6 @@ MIT Licence
 
 ## Contributors ✨
 
-There is currently a :bug: with the all-contributors bot preventing clean merges. I am manually adding people for now.
-
 * [Yash2737](https://github.com/Yash2737)
 * [Newbietestuser](https://github.com/newbietestuser)
 * [Msandfor](https://github.com/msandfor)
