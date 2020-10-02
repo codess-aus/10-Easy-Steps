@@ -50,6 +50,19 @@
         "tutorial",
         "talk"
       ]
+    },
+    {
+      "login": "beagandica",
+      "name": "Bea",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35856994?v=4",
+      "profile": "https://www.linkedin.com/in/mendezgandica",
+      "contributions": [
+        "content",
+        "doc",
+        "eventOrganizing",
+        "tutorial",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
