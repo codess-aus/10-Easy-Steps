@@ -123,5 +123,9 @@
       ]
     }
   ],
+  "repoType": "github",
   "contributorsPerLine": 7,
+  "repoHost": "https://github.com",
+  "commitConvention": "angular",
+  "skipCi": true
 }
