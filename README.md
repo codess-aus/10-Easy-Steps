@@ -96,6 +96,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Heather Downing](https://www.quorralyne.com/) | Okta | 4 | .NET, APIs, Voice and Identity |
 | [Layla Porter](https://twitter.com/LaylaCodesIt) | Twilio | 4 | Twilio .Net Azure Co-host of MK.NET MVP |
 | [Jessica White](https://github.com/wordshaker) |DDD East Midlands | 4 | Microsoft MVP in Developer Technologies, an international speaker and a mentor |
+| [Florin Pop](https://www.florin-pop.com/) |Freelance | 4 | JavaScript enthusiast 🙌, Front-end developer 💻, Blogger and YouTuber |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
