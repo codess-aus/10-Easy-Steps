@@ -1,7 +1,7 @@
 
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
-![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=for-the-badge)
+![All Contributors](https://img.shields.io/github/contributors/msandfor/10-easy-steps?style=for-the-badge)
 ![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-easy-steps?style=for-the-badge)
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
