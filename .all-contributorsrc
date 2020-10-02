@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Yash2737",
+      "name": "Yash Soni",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37664594?v=4",
+      "profile": "https://github.com/Yash2737",
+      "contributions": [
+        "doc",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "10-Easy-Steps",
+  "projectOwner": "msandfor",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
