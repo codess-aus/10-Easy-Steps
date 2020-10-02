@@ -165,7 +165,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [NDC Conferences](https://www.ndcconferences.com/) | NDC | 10 | Love of Learning |
 | [YOW Conferences](https://yowconference.com/) | YOW | 10 | Love of Learning |
 | [PyCon](https://pycon.org/) | Python.Org | 10 | See what's going on in the Python world |
-| [Microsoft Build](https://news.microsoft.com/build2020/) | Microsoft | 10 | Love of Learning |
+| [Microsoft Build](https://news.microsoft.com/build2020/) | Microsoft | 10 | Empowering Developers to Fuel Business Performance |
 | [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | Love of Learning |
 | [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | Love of Learning |
 | [JSConf](https://jsconf.com/) | JSConf | 10 | Love of Learning |
@@ -204,5 +204,6 @@ MIT Licence
 14.  [LucasDamascenoS](https://github.com/LucasDamascenoS)
 15.  [Aashwin Vaish](https://github.com/av-dx)
 16.  [jilloestreicher](https://github.com/jilloestreicher)
+17. [divyanshi-ojha](https://github.com/divyanshi-ojha)
 
 
