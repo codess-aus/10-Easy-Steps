@@ -1,9 +1,7 @@
 
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=for-the-badge)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=for-the-badge)](#contributors-)
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
 
@@ -200,3 +198,5 @@ MIT Licence
 * [Soumyajitnandi1](https://github.com/soumyajitnandi1)
 * [Muhmudrik](https://github.com/muhmudrik)
 * [TechGirl007](https://github.com/TechGirl007)
+* [jilloestreicher](https://github.com/jilloestreicher)
+
