@@ -205,5 +205,6 @@ MIT Licence
 15.  [Aashwin Vaish](https://github.com/av-dx)
 16.  [jilloestreicher](https://github.com/jilloestreicher)
 17. [divyanshi-ojha](https://github.com/divyanshi-ojha)
+18. [Spencer Taylor](https://github.com/smtaylorslc)
 
 
