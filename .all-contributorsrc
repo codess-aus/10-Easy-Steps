@@ -98,6 +98,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "TechGirl007",
+      "name": "TechGirl007",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44280312?v=4",
+      "profile": "https://github.com/TechGirl007",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -1,6 +1,6 @@
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
@@ -203,6 +203,9 @@ Thanks goes to these wonderful people for their contributions to this project ([
     <td align="center"><a href="https://github.com/nessaamorgan"><img src="https://avatars2.githubusercontent.com/u/37296949?v=4" width="100px;" alt=""/><br /><sub><b>nessaamorgan</b></sub></a><br /><a href="#content-nessaamorgan" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=nessaamorgan" title="Documentation">📖</a> <a href="#tutorial-nessaamorgan" title="Tutorials">✅</a> <a href="#talk-nessaamorgan" title="Talks">📢</a> <a href="#userTesting-nessaamorgan" title="User Testing">📓</a></td>
     <td align="center"><a href="https://amyskapers.dev"><img src="https://avatars2.githubusercontent.com/u/15953185?v=4" width="100px;" alt=""/><br /><sub><b>Amy Kapernick</b></sub></a><br /><a href="#content-amykapernick" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=amykapernick" title="Documentation">📖</a> <a href="#eventOrganizing-amykapernick" title="Event Organizing">📋</a> <a href="#talk-amykapernick" title="Talks">📢</a></td>
     <td align="center"><a href="https://ilmtechnosolutions.com/?team=sameer"><img src="https://avatars1.githubusercontent.com/u/5379650?v=4" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a><br /><a href="#content-sam0hack" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=sam0hack" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/TechGirl007"><img src="https://avatars0.githubusercontent.com/u/44280312?v=4" width="100px;" alt=""/><br /><sub><b>TechGirl007</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3ATechGirl007" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
