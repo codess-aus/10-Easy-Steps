@@ -1,7 +1,7 @@
 
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
-![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=for-the-badge)
+![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=for-the-badge)
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
 
@@ -187,19 +187,20 @@ MIT Licence
 
 ## Contributors ✨
 
-* [Yash2737](https://github.com/Yash2737)
-* [Newbietestuser](https://github.com/newbietestuser)
-* [Msandfor](https://github.com/msandfor)
-* [Beagandica](https://github.com/beagandica)
-* [Keatnuxsuo](https://github.com/Keatnuxsuo)
-* [Nessaamorgan](https://github.com/nessaamorgan)
-* [Amykapernick](https://github.com/amykapernick)
-* [Premkiran7](https://github.com/premkiran7)
-* [Sam0hack](https://github.com/sam0hack)
-* [Soumyajitnandi1](https://github.com/soumyajitnandi1)
-* [Muhmudrik](https://github.com/muhmudrik)
-* [TechGirl007](https://github.com/TechGirl007)
-* [jilloestreicher](https://github.com/jilloestreicher)
-* [LucasDamascenoS](https://github.com/LucasDamascenoS)
+1. [Yash2737](https://github.com/Yash2737)
+2.  [Newbietestuser](https://github.com/newbietestuser)
+3.  [Msandfor](https://github.com/msandfor)
+4.  [Beagandica](https://github.com/beagandica)
+5.  [Keatnuxsuo](https://github.com/Keatnuxsuo)
+6.  [Nessaamorgan](https://github.com/nessaamorgan)
+7.  [Amykapernick](https://github.com/amykapernick)
+8.  [Premkiran7](https://github.com/premkiran7)
+9.  [Sam0hack](https://github.com/sam0hack)
+10.  [Soumyajitnandi1](https://github.com/soumyajitnandi1)
+11.  [Muhmudrik](https://github.com/muhmudrik)
+12.  [TechGirl007](https://github.com/TechGirl007)
+13.  [jilloestreicher](https://github.com/jilloestreicher)
+14.  [LucasDamascenoS](https://github.com/LucasDamascenoS)
+15.  [Aashwin Vaish](https://github.com/av-dx)
 
 
