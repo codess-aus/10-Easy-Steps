@@ -28,8 +28,9 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `| [Name](Resource URL) | Author | Step | Comments |`
 - Order the entry within its section based on it's simplicity.
 - Mention in pull request clearly why you think the resource deserves to be in the list.
-- Add yourself to the list of contributors by Commenting on the Issue or Pull Request, asking @all-contributors to add a contributor:
+- Add yourself to the list of contributors by going to the bottom of the README.MD and adding yourself to the list of Contributors using the same formatting as those before you
 
+<!---
 ### `@all-contributors add`
  Comment on Issue or Pull Request, asking @all-contributors to add a contributor:
 
@@ -39,6 +40,8 @@ Please ensure your pull request adheres to the following guidelines:
 **\<contribution>**: See the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `contribution` types.
 
 The bot will then create a Pull Request to add the contributor, then reply with the pull request details.
+
+-->
 
 
 Thank you and enjoy Hacktoberfest!
