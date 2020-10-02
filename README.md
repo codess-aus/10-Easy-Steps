@@ -203,29 +203,3 @@ Thanks goes to these wonderful people for their contributions to this project ([
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/newbietestuser"><img src="https://avatars1.githubusercontent.com/u/71936510?v=4" width="100px;" alt=""/><br /><sub><b>TestAccount</b></sub></a><br /><a href="#content-newbietestuser" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=newbietestuser" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://techoutsiders.com.au"><img src="https://avatars1.githubusercontent.com/u/5952956?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Mei-Ling Sandford</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Code">💻</a> <a href="#content-msandfor" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Documentation">📖</a> <a href="#design-msandfor" title="Design">🎨</a> <a href="#example-msandfor" title="Examples">💡</a> <a href="https://github.com/msandfor/10-Easy-Steps/pulls?q=is%3Apr+reviewed-by%3Amsandfor" title="Reviewed Pull Requests">👀</a> <a href="#talk-msandfor" title="Talks">📢</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/mendezgandica"><img src="https://avatars1.githubusercontent.com/u/35856994?v=4" width="100px;" alt=""/><br /><sub><b>Bea</b></sub></a><br /><a href="#content-beagandica" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=beagandica" title="Documentation">📖</a> <a href="#tutorial-beagandica" title="Tutorials">✅</a> <a href="#talk-beagandica" title="Talks">📢</a> <a href="#translation-beagandica" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Keatnuxsuo"><img src="https://avatars2.githubusercontent.com/u/24486796?v=4" width="100px;" alt=""/><br /><sub><b>Jia Keatnuxsuo</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3AKeatnuxsuo" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=Keatnuxsuo" title="Documentation">📖</a> <a href="#maintenance-Keatnuxsuo" title="Maintenance">🚧</a> <a href="#tutorial-Keatnuxsuo" title="Tutorials">✅</a> <a href="#userTesting-Keatnuxsuo" title="User Testing">📓</a></td>
-    <td align="center"><a href="https://github.com/nessaamorgan"><img src="https://avatars2.githubusercontent.com/u/37296949?v=4" width="100px;" alt=""/><br /><sub><b>nessaamorgan</b></sub></a><br /><a href="#content-nessaamorgan" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=nessaamorgan" title="Documentation">📖</a> <a href="#maintenance-nessaamorgan" title="Maintenance">🚧</a> <a href="#tutorial-nessaamorgan" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://amyskapers.dev"><img src="https://avatars2.githubusercontent.com/u/15953185?v=4" width="100px;" alt=""/><br /><sub><b>Amy Kapernick</b></sub></a><br /><a href="#content-amykapernick" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=amykapernick" title="Code">💻</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=amykapernick" title="Documentation">📖</a> <a href="#talk-amykapernick" title="Talks">📢</a> <a href="#example-amykapernick" title="Examples">💡</a></td>
-    <td align="center"><a href="https://github.com/premkiran7"><img src="https://avatars3.githubusercontent.com/u/33180096?v=4" width="100px;" alt=""/><br /><sub><b>premkiran7</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3Apremkiran7" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=premkiran7" title="Documentation">📖</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://ilmtechnosolutions.com/?team=sameer"><img src="https://avatars1.githubusercontent.com/u/5379650?v=4" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=sam0hack" title="Documentation">📖</a> <a href="#content-sam0hack" title="Content">🖋</a> <a href="#example-sam0hack" title="Examples">💡</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/soumyajit-nandi-683155178"><img src="https://avatars3.githubusercontent.com/u/67222985?v=4" width="100px;" alt=""/><br /><sub><b>SOUMYAJIT NANDI</b></sub></a><br /><a href="#content-soumyajitnandi1" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=soumyajitnandi1" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/muhmudrik"><img src="https://avatars1.githubusercontent.com/u/44206861?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Mudrik</b></sub></a><br /><a href="#content-muhmudrik" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=muhmudrik" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
