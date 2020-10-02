@@ -63,6 +63,19 @@
         "tutorial",
         "talk"
       ]
+    },
+    {
+      "login": "nessaamorgan",
+      "name": "nessaamorgan",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37296949?v=4",
+      "profile": "https://github.com/nessaamorgan",
+      "contributions": [
+        "content",
+        "doc",
+        "tutorial",
+        "talk",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
