@@ -1,12 +1,7 @@
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=for-the-badge)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=for-the-badge)
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
 
@@ -134,7 +129,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | Love of Learning |
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Love of Learning |
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | Love of Learning |
-| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning |
+| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning | 
+| [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | Love of Learning |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
@@ -172,8 +168,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | Love of Learning |
 | [JSConf](https://jsconf.com/) | JSConf | 10 | Love of Learning |
 | [Github Universe](https://githubuniverse.com/) | Github | 10 | Love of Learning |
-| Signal Conf | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
-| Signal Conf | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
+| [Signal Conf](https://signal.twilio.com/) | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -191,22 +186,21 @@ MIT Licence
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people for their contributions to this project ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Yash2737"><img src="https://avatars3.githubusercontent.com/u/37664594?v=4" width="100px;" alt=""/><br /><sub><b>Yash Soni</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=Yash2737" title="Documentation">📖</a> <a href="#content-Yash2737" title="Content">🖋</a></td>
-    <td align="center"><a href="http://techoutsiders.com.au"><img src="https://avatars1.githubusercontent.com/u/5952956?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Mei-Ling Sandford</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3Amsandfor" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Code">💻</a> <a href="#content-msandfor" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Documentation">📖</a> <a href="#design-msandfor" title="Design">🎨</a> <a href="#example-msandfor" title="Examples">💡</a> <a href="#eventOrganizing-msandfor" title="Event Organizing">📋</a> <a href="#maintenance-msandfor" title="Maintenance">🚧</a> <a href="#question-msandfor" title="Answering Questions">💬</a> <a href="https://github.com/msandfor/10-Easy-Steps/pulls?q=is%3Apr+reviewed-by%3Amsandfor" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Tests">⚠️</a> <a href="#tutorial-msandfor" title="Tutorials">✅</a> <a href="#talk-msandfor" title="Talks">📢</a> <a href="#userTesting-msandfor" title="User Testing">📓</a></td>
-    <td align="center"><a href="https://github.com/Keatnuxsuo"><img src="https://avatars2.githubusercontent.com/u/24486796?v=4" width="100px;" alt=""/><br /><sub><b>Jia Keatnuxsuo</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3AKeatnuxsuo" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=Keatnuxsuo" title="Code">💻</a> <a href="#content-Keatnuxsuo" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=Keatnuxsuo" title="Documentation">📖</a> <a href="#tutorial-Keatnuxsuo" title="Tutorials">✅</a> <a href="#talk-Keatnuxsuo" title="Talks">📢</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/mendezgandica"><img src="https://avatars1.githubusercontent.com/u/35856994?v=4" width="100px;" alt=""/><br /><sub><b>Bea</b></sub></a><br /><a href="#content-beagandica" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=beagandica" title="Documentation">📖</a> <a href="#eventOrganizing-beagandica" title="Event Organizing">📋</a> <a href="#tutorial-beagandica" title="Tutorials">✅</a> <a href="#talk-beagandica" title="Talks">📢</a></td>
-    <td align="center"><a href="https://github.com/nessaamorgan"><img src="https://avatars2.githubusercontent.com/u/37296949?v=4" width="100px;" alt=""/><br /><sub><b>nessaamorgan</b></sub></a><br /><a href="#content-nessaamorgan" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=nessaamorgan" title="Documentation">📖</a> <a href="#tutorial-nessaamorgan" title="Tutorials">✅</a> <a href="#talk-nessaamorgan" title="Talks">📢</a> <a href="#userTesting-nessaamorgan" title="User Testing">📓</a></td>
-    <td align="center"><a href="https://amyskapers.dev"><img src="https://avatars2.githubusercontent.com/u/15953185?v=4" width="100px;" alt=""/><br /><sub><b>Amy Kapernick</b></sub></a><br /><a href="#content-amykapernick" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=amykapernick" title="Documentation">📖</a> <a href="#eventOrganizing-amykapernick" title="Event Organizing">📋</a> <a href="#talk-amykapernick" title="Talks">📢</a></td>
-    <td align="center"><a href="https://ilmtechnosolutions.com/?team=sameer"><img src="https://avatars1.githubusercontent.com/u/5379650?v=4" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a><br /><a href="#content-sam0hack" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=sam0hack" title="Documentation">📖</a></td>
-  </tr>
-</table>
+There is currently a :bug: with the all-contributors bot preventing clean merges. I am manually adding people for now.
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+* [Yash2737](https://github.com/Yash2737)
+* [Newbietestuser](https://github.com/newbietestuser)
+* [Msandfor](https://github.com/msandfor)
+* [Beagandica](https://github.com/beagandica)
+* [Keatnuxsuo](https://github.com/Keatnuxsuo)
+* [Nessaamorgan](https://github.com/nessaamorgan)
+* [Amykapernick](https://github.com/amykapernick)
+* [Premkiran7](https://github.com/premkiran7)
+* [Sam0hack](https://github.com/sam0hack)
+* [Soumyajitnandi1](https://github.com/soumyajitnandi1)
+* [Muhmudrik](https://github.com/muhmudrik)
+* [TechGirl007](https://github.com/TechGirl007)
+* [jilloestreicher](https://github.com/jilloestreicher)
+* [LucasDamascenoS](https://github.com/LucasDamascenoS)
+
+
