@@ -36,6 +36,20 @@
         "talk",
         "userTesting"
       ]
+    },
+    {
+      "login": "Keatnuxsuo",
+      "name": "Jia Keatnuxsuo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/24486796?v=4",
+      "profile": "https://github.com/Keatnuxsuo",
+      "contributions": [
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "tutorial",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
