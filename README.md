@@ -187,15 +187,15 @@ MIT Licence
 
 ## Contributors ✨
 
-[Yash2737](https://avatars3.githubusercontent.com/u/37664594?v=4)
-[Newbietestuser](https://avatars1.githubusercontent.com/u/71936510?v=4)
-Msandfor(https://avatars1.githubusercontent.com/u/5952956?v=4)
-Beagandica
-Keatnuxsuo
-Nessaamorgan
-Amykapernick
-Premkiran7
-Sam0hack
-Soumyajitnandi1
-Muhmudrik
-TechGirl007
+[Yash2737](https://github.com/Yash2737)
+[Newbietestuser](https://github.com/newbietestuser)
+[Msandfor](https://github.com/msandfor)
+[Beagandica](https://github.com/beagandica)
+[Keatnuxsuo](https://github.com/Keatnuxsuo)
+[Nessaamorgan](https://github.com/nessaamorgan)
+[Amykapernick](https://github.com/amykapernick)
+[Premkiran7](https://github.com/premkiran7)
+[Sam0hack](https://github.com/sam0hack)
+[Soumyajitnandi1](https://github.com/soumyajitnandi1)
+[Muhmudrik](https://github.com/muhmudrik)
+[TechGirl007](https://github.com/TechGirl007)
