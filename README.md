@@ -209,6 +209,6 @@ MIT Licence
 19. [Sanxy](https://github.com/sanxy)
 20. [Jayant0jha](https://github.com/Jayant0jha)
 21. [punitaojha](https://github.com/punitaojha)
-22. [APalpattuwar7] (https://github.com/APalpattuwar7)
+22. [APalpattuwar7](https://github.com/APalpattuwar7)
 
 
