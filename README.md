@@ -112,7 +112,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Practice
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [Frontend Mentor](https://www.frontendmentor.io/) | Frontend Mentor | 6 | Love of Learning |
+| [Frontend Mentor](https://www.frontendmentor.io/) | Frontend Mentor | 6 | Fun front end challenges with solutions, resources and an open slack community for discussion |
 | [Achieve Mastery Through Challenges](https://www.codewars.com/) | CodeWars | 6 | Love of Learning |
 | [Practice and Learn by Playing a Game](https://www.codingame.com/start) | Codingame | 6 | Love of Learning |
 | [Technical interview prep and coding challenges](https://www.coderbyte.com/) | Coderbyte | 6 | Love of Learning |
