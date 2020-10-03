@@ -77,6 +77,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Kids STEM Workshops and Resources](https://nuevofoundation.org/get-involved) | Nuevo Foundation | 3 | Teach kids with fun coding scenarios |
 | [Twilio Quest](https://www.twilio.com/quest) | Twilio | 3 | Learn to code and save The Cloud from the Legacy Systems |
 | [Laravel 6 Beginner](https://www.youtube.com/playlist?list=PLpzy7FIRqpGC8Jk6gyWdSVdxCVXZAsenQ) | Coders Tape | 3 | Level up your skills |
+
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
@@ -108,6 +109,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 5 | Official Website for the Challenge that gets you addicted to coding |
 | [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Be Kind |
 | [Probot Community](https://probot.github.io/community/) | Probot | 5 | Be Kind |
+| [Stack Overflow](https://stackoverflow.com/) | Stack Overflow | 11 | Stack Overflow is a question and answer site for professional and enthusiast programmers |
 
 ## Practice
 | Name | Author | Step | Comments |  
