@@ -100,6 +100,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Jessica White](https://github.com/wordshaker) |DDD East Midlands | 4 | Microsoft MVP in Developer Technologies, an international speaker and a mentor |
 | [Florin Pop](https://www.florin-pop.com/) |Freelance | 4 | JavaScript enthusiast 🙌, Front-end developer 💻, Blogger and YouTuber |
 | [Dylan Beattie](https://dylanbeattie.net/) | Ursatile | 4 | Creator of the [Rockstar](https://codewithrockstar.com/) programming language, a Microsoft MVP for Visual Studio and Development Technologies | 
+| [alphacentauri82](https://github.com/alphacentauri82) | Diana Rodriguez | 4 | Python Developer Advocate @ Vonage, GDE: web/cloud/maps/firebase, Microsoft MVP, Auth0 Ambassador |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
@@ -219,6 +220,7 @@ MIT Licence
 25. [ArvindR07](https://github.com/ArvindR07)
 26. [2KAbhishek](https://github.com/2KAbhishek)
 27. [pranavbaitule](https://github.com/pranavbaitule)
+28. [amiecroteau](https://github.com/amiecroteau)
 
 
 
