@@ -102,7 +102,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Get Involved
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [Get Involved](https://www.pluralsight.com/courses/get-involved) | Pluralsight | 5 | Admin Access to Your Device |
+| [Get Involved](https://www.pluralsight.com/courses/get-involved) | Pluralsight | 5 | Scott Hanselman and Rob Conery offer suggestions and advice on how you can get out there, and get involved |
 | [Python Community](https://www.python.org/community/) | Python.Org | 5 | Love of Python |
 | [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 5 | Love of Learning |
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 5 | Be Kind |
@@ -206,5 +206,6 @@ MIT Licence
 16.  [jilloestreicher](https://github.com/jilloestreicher)
 17. [divyanshi-ojha](https://github.com/divyanshi-ojha)
 18. [Spencer Taylor](https://github.com/smtaylorslc)
+18. [Sanxy](https://github.com/sanxy)
 
 
