@@ -169,7 +169,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [PyCon](https://pycon.org/) | Python.Org | 10 | See what's going on in the Python world |
 | [Microsoft Build](https://news.microsoft.com/build2020/) | Microsoft | 10 | Empowering Developers to Fuel Business Performance |
 | [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | Love of Learning |
-| [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | Love of Learning |
+| [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | An inclusive non-profit conference for the Perth software community |
 | [JSConf](https://jsconf.com/) | JSConf | 10 |Locally run events driven by passionate individuals dedicated to the community |
 | [GitHub Universe](https://githubuniverse.com/) | GitHub | 10 | Explore the future of software development |
 | [Signal Conf](https://signal.twilio.com/) | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
@@ -216,4 +216,4 @@ MIT Licence
 23. [gabrielhicks](https://github.com/gabrielhicks)
 24. [utsav00](https://github.com/utsav00)
 25. [2KAbhishek](https://github.com/2KAbhishek)
-
+26. [pranavbaitule](https://github.com/pranavbaitule)
