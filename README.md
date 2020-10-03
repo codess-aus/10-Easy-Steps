@@ -165,7 +165,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Conferences
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [NDC Conferences](https://www.ndcconferences.com/) | NDC | 10 | Love of Learning |
+| [NDC Conferences](https://www.ndcconferences.com/) | NDC | 10 | High-end events for software developers |
 | [YOW Conferences](https://yowconference.com/) | YOW | 10 | Emerging technologies and best practices in the software industry |
 | [PyCon](https://pycon.org/) | Python.Org | 10 | See what's going on in the Python world |
 | [Microsoft Build](https://news.microsoft.com/build2020/) | Microsoft | 10 | Empowering Developers to Fuel Business Performance |
@@ -217,3 +217,4 @@ MIT Licence
 23. [gabrielhicks](https://github.com/gabrielhicks)
 24. [utsav00](https://github.com/utsav00)
 25. [ArvindR07](https://github.com/ArvindR07)
+26. [2KAbhishek](https://github.com/2KAbhishek)
