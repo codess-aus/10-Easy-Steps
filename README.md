@@ -111,6 +111,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Be Kind |
 | [Probot Community](https://probot.github.io/community/) | Probot | 5 | Be Kind |
 | [Stack Overflow](https://stackoverflow.com/) | Stack Overflow | 5 | Stack Overflow is a question and answer site for professional and enthusiast programmers |
+| Eddie Jaoude Community | Eddie Jaoude | 5 | OPEN SOURCE is NOT about code, it is about people and collaboration |
 
 ## Practice
 | Name | Author | Step | Comments |  
