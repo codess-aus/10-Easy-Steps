@@ -169,7 +169,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | Love of Learning |
 | [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | Love of Learning |
 | [JSConf](https://jsconf.com/) | JSConf | 10 |Locally run events driven by passionate individuals dedicated to the community |
-| [Github Universe](https://githubuniverse.com/) | Github | 10 | Love of Learning |
+| [GitHub Universe](https://githubuniverse.com/) | GitHub | 10 | Explore the future of software development |
 | [Signal Conf](https://signal.twilio.com/) | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
 
 ## And Then What?
