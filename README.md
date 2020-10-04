@@ -103,6 +103,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [M0nica](https://github.com/m0nica) | Monica Powell | 4 | Founder of React Ladies a community for React JS developers |
 | [alphacentauri82](https://github.com/alphacentauri82) | Diana Rodriguez | 4 | Python Developer Advocate @ Vonage, GDE: web/cloud/maps/firebase, Microsoft MVP, Auth0 Ambassador |
 | [Ovilia](https://github.com/ovilia) | Wenli Zhang | 4 | Passionate Dataviz Developer & Creative Designer; PPMC of Apache ECharts (incubating) |
+| [potatoqualitee](https://twitter.com/cl) | Chrissy LeMaire | 4 | SQL & PS MVP, creator of @psdbatools member @thelivecoders & @PowerShellLive author http://dbatools.io/book |
+| [Vanessa Aristizabal](https://github.com/vanessamarely) | Vanessa Aristizabal | 4 | Frontend Developer GDE in Angular & Web Technologies |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
@@ -114,7 +116,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Be Kind |
 | [Probot Community](https://probot.github.io/community/) | Probot | 5 | Be Kind |
 | [Stack Overflow](https://stackoverflow.com/) | Stack Overflow | 5 | Stack Overflow is a question and answer site for professional and enthusiast programmers |
-| Eddie Jaoude Community | Eddie Jaoude | 5 | OPEN SOURCE is NOT about code, it is about people and collaboration |
+| [Eddie Jaoude Community](https://eddiejaoudecommunity.github.io/) | Eddie Jaoude | 5 | OPEN SOURCE is NOT about code, it is about people and collaboration |
 
 ## Practice
 | Name | Author | Step | Comments |  
@@ -180,6 +182,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [JSConf](https://jsconf.com/) | JSConf | 10 |Locally run events driven by passionate individuals dedicated to the community |
 | [GitHub Universe](https://githubuniverse.com/) | GitHub | 10 | Explore the future of software development |
 | [Signal Conf](https://signal.twilio.com/) | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
+| [DockerCon](https://docker.events.cube365.net/docker/dockercon/) | Docker | 10 | DockerCon is a place for the Docker community to come together and thrive |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -230,6 +233,10 @@ MIT Licence
 30. [MykolaKolotylo](https://github.com/MykolaKolotylo)
 31. [Raysa Dutra](https://github.com/hi-hi-ray)
 32. [AmieCroteau](https://github.com/amiecroteau)
+33. [Divya247](https://github.com/Divya247)
+34. [yamini27](https://github.com/yamini27)
+35. [Plingooo](https://github.com/Plingooo)
+36. [Abhijit Roy](https://github.com/EmberCS15)
 
 
 

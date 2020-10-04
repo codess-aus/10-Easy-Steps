@@ -2,7 +2,7 @@
 name: Hacktoberfest
 about: Contribute Missing Content
 title: "[Hacktoberfest]: Update Content"
-labels: 'good first issue, hacktoberfest :children_crossing:, help wanted :hand:'
+labels: 'beginner, beginner-friendly, documentation :memo:, first-contribution, good first issue, hacktoberfest :children_crossing:, help wanted :hand:, up-for-grabs'
 assignees: ''
 ---
 
@@ -10,17 +10,17 @@ assignees: ''
 This issue is reserved for people who are new to Open Source. We know that the process of creating a pull request is the biggest barrier for new contributors. This issue is for you 💝
 
 To do:
-The README for this project has some repeat/placeholder comments. If you look at the look at the Readme you will see resources, articles, webpages, videos etc that have the same generic comment to describe them. Take a look at one of those resources and see if you can figure out a more descriptive comment to tell readers what they will get out of looking at it. Only choose one for now - to give others a chance.
 
-Alternatively... perhaps you would like to add content to this list. Feel free to do that to, but make sure that what you suggest we add in as really useful. We don't want people to be overwhelmed with too many choices, or demotivated by content that is not accessible to beginners. Make suggestions for resources/people that you have used yourself and comes with your most heartfelt recommendation.
+* Add [Resource Name](Resource Link) to the <example> Section
+* See below for link to step-by-step tutorial
+* Go down to <example> section - it starts at around line <line number>
+  * Using the following template, put in the correct info for that resource (Search for it on the internet to find the correct details) underneath the last row in the table, ensuring there is still an empty row before the next table.
 
-📋 Step by Step
-**Step by Step**
-* 🙋 Claim an issue: Comment on it.
-* Create a New Branch [How to branch, Commit, Pull, Merge - start at step2](https://guides.github.com/activities/hello-world/)
-* Make your change - I use [Github Desktop](https://desktop.github.com/) and [Visual Studio Code](https://code.visualstudio.com/) so I don't have to do anything via the command-line, but if you like the command-line git on with it ;-)
-* Commit it [Make it a good one](https://dev.to/chrissiemhrk/git-commit-message-5e21)
-* Make a Pull Request [Tell us what you did](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
-* We'll review it and merge it in
+`| [Resource Name](Website Address) | Resource Name or Organising Org | Step Number | Description of the Resources, found on their website |` 
+
+* Add your details in the contributors section at the bottom of the page using the same formatting as the last one
+
+📋 *Step by Step*
+[Step-By-Step Tutorial](https://github.com/msandfor/10-Easy-Steps/blob/master/docs/GitHub-browser-tutorial.md)
 
 Remember to observe the [Code of Conduct](https://github.com/msandfor/10-Easy-Steps/blob/master/code_of_conduct.md) - by which we mean, in short - Be Kind, Be Positive, Be Helpful
