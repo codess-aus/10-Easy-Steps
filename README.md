@@ -99,7 +99,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Layla Porter](https://twitter.com/LaylaCodesIt) | Twilio | 4 | Twilio .Net Azure Co-host of MK.NET MVP |
 | [Jessica White](https://github.com/wordshaker) |DDD East Midlands | 4 | Microsoft MVP in Developer Technologies, an international speaker and a mentor |
 | [Florin Pop](https://www.florin-pop.com/) |Freelance | 4 | JavaScript enthusiast 🙌, Front-end developer 💻, Blogger and YouTuber |
-| [Dylan Beattie](https://dylanbeattie.net/) | Ursatile | 4 | Creator of the [Rockstar](https://codewithrockstar.com/) programming language, a Microsoft MVP for Visual Studio and Development Technologies | 
+| [Dylan Beattie](https://dylanbeattie.net/) | Ursatile | 4 | Creator of the [Rockstar](https://codewithrockstar.com/) programming language, a Microsoft MVP for Visual Studio and Development Technologies |
+| [M0nica](https://github.com/m0nica) | Monica Powell | 4 | Founder of React Ladies a community for React JS developers |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
