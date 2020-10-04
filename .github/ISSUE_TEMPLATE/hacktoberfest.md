@@ -2,7 +2,7 @@
 name: Hacktoberfest
 about: Contribute Missing Content
 title: "[Hacktoberfest]: Update Content"
-labels: 'beginner, beginner-friendly, documentation, first-contribution, good first issue, hacktoberfest :children_crossing:, help wanted :hand:, up-for-grabs'
+labels: 'beginner, beginner-friendly, documentation :memo:, first-contribution, good first issue, hacktoberfest :children_crossing:, help wanted :hand:, up-for-grabs'
 assignees: ''
 ---
 
