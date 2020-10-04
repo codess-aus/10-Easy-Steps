@@ -102,6 +102,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Dylan Beattie](https://dylanbeattie.net/) | Ursatile | 4 | Creator of the [Rockstar](https://codewithrockstar.com/) programming language, a Microsoft MVP for Visual Studio and Development Technologies |
 | [M0nica](https://github.com/m0nica) | Monica Powell | 4 | Founder of React Ladies a community for React JS developers |
 | [alphacentauri82](https://github.com/alphacentauri82) | Diana Rodriguez | 4 | Python Developer Advocate @ Vonage, GDE: web/cloud/maps/firebase, Microsoft MVP, Auth0 Ambassador |
+| [Ovilia](https://github.com/ovilia) | Wenli Zhang | 4 | Passionate Dataviz Developer & Creative Designer; PPMC of Apache ECharts (incubating) |
 | [potatoqualitee](https://twitter.com/cl) | Chrissy LeMaire | 4 | SQL & PS MVP, creator of @psdbatools member @thelivecoders & @PowerShellLive author http://dbatools.io/book |
 | [Vanessa Aristizabal](https://github.com/vanessamarely) | Vanessa Aristizabal | 4 | Frontend Developer GDE in Angular & Web Technologies |
 
@@ -235,6 +236,7 @@ MIT Licence
 33. [Divya247](https://github.com/Divya247)
 34. [yamini27](https://github.com/yamini27)
 35. [Plingooo](https://github.com/Plingooo)
+36. [Abhijit Roy](https://github.com/EmberCS15)
 
 
 
