@@ -4,6 +4,15 @@
 ![All Contributors](https://img.shields.io/github/contributors/msandfor/10-easy-steps?style=for-the-badge)
 ![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-easy-steps?style=for-the-badge)
 
+<p align="center">
+<a href="https://codepen.io/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="msandfor" height="30" width="30" /></a>
+<a href="https://dev.to/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="msandfor" height="30" width="30" /></a>
+<a href="https://twitter.com/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="msandfor" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/michellesandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michellesandford" height="30" width="30" /></a>
+<a href="https://instagram.com/techgirlwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="techgirlwa" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
+</p>
+
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
 
 
