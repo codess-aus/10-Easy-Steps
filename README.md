@@ -103,6 +103,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [M0nica](https://github.com/m0nica) | Monica Powell | 4 | Founder of React Ladies a community for React JS developers |
 | [alphacentauri82](https://github.com/alphacentauri82) | Diana Rodriguez | 4 | Python Developer Advocate @ Vonage, GDE: web/cloud/maps/firebase, Microsoft MVP, Auth0 Ambassador |
 | [potatoqualitee](https://twitter.com/cl) | Chrissy LeMaire | 4 | SQL & PS MVP, creator of @psdbatools member @thelivecoders & @PowerShellLive author http://dbatools.io/book |
+| [Vanessa Aristizabal](https://github.com/vanessamarely) | Vanessa Aristizabal | 4 | Frontend Developer GDE in Angular & Web Technologies |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
@@ -231,6 +232,7 @@ MIT Licence
 31. [Raysa Dutra](https://github.com/hi-hi-ray)
 32. [AmieCroteau](https://github.com/amiecroteau)
 33. [Divya247](https://github.com/Divya247)
+34. [yamini27](https://github.com/yamini27)
 
 
 
