@@ -226,6 +226,7 @@ MIT Licence
 28. [Retnuh1337](https://github.com/Retnuh1337)
 29. [aortiz24](https://github.com/aortiz24)
 30. [MykolaKolotylo](https://github.com/MykolaKolotylo)
+31. [Raysa Dutra](https://github.com/hi-hi-ray)
 
 
 
