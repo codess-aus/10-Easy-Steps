@@ -183,6 +183,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [GitHub Universe](https://githubuniverse.com/) | GitHub | 10 | Explore the future of software development |
 | [Signal Conf](https://signal.twilio.com/) | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
 | [DockerCon](https://docker.events.cube365.net/docker/dockercon/) | Docker | 10 | DockerCon is a place for the Docker community to come together and thrive |
+| [Javascript Con](https://javascript-conference.com/) | International Javascript Conference 2020 | 10 | Explore the world of Javascript |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -237,6 +238,7 @@ MIT Licence
 34. [yamini27](https://github.com/yamini27)
 35. [Plingooo](https://github.com/Plingooo)
 36. [Abhijit Roy](https://github.com/EmberCS15)
+37. [Ishita Manchanda](https://github.com/ishitacodes)
 
 
 
