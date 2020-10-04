@@ -161,6 +161,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
   [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Love of Learning |
   [Layla Codesit](https://www.twitch.tv/laylacodesit) | Twilio | 9 | Love of Learning |
   [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | Love of Learning |
+| [Adam13531](https://www.twitch.tv/adam13531) | AcAdamy | 9 | Love learn and teach |
   
 ## Conferences
 | Name | Author | Step | Comments |  
