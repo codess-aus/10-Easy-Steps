@@ -224,6 +224,9 @@ MIT Licence
 26. [2KAbhishek](https://github.com/2KAbhishek)
 27. [pranavbaitule](https://github.com/pranavbaitule)
 28. [Retnuh1337](https://github.com/Retnuh1337)
+29. [aortiz24](https://github.com/aortiz24)
+
+
 
 
 
