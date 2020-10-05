@@ -199,6 +199,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [PowerShell and DevOps Global Summit](https://events.devopscollective.org/) | DevOps Collective | 10 | Gathering of PowerShell + DevOps professionals and enthusiasts|
 | [ConFoo](https://confoo.ca/en) | ConFoo Montreal 2021 | 10 | ConFoo is a multi-technology conference for developers |
 | [Apple WWDC](https://developer.apple.com/wwdc20/) | Apple WWDC 2020 | 10 | A developer conference that provides an in-depth look into the future of apple platforms |
+| [FOSDEM](https://fosdem.org/2021/) | FOSDEM'21 | 10 | FOSDEM is a free event for software developers to meet, share ideas and collaborate |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
