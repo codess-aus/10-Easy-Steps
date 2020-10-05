@@ -198,6 +198,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Shift Dev](https://dev.shiftconf.co/) | Shift Dev 2021 | 10 | A two-day open air and hybrid Developer conference to bring the World’s Developers Together |
 | [PowerShell and DevOps Global Summit](https://events.devopscollective.org/) | DevOps Collective | 10 | Gathering of PowerShell + DevOps professionals and enthusiasts|
 | [ConFoo](https://confoo.ca/en) | ConFoo Montreal 2021 | 10 | ConFoo is a multi-technology conference for developers |
+| [Apple WWDC](https://developer.apple.com/wwdc20/) | Apple WWDC 2020 | 10 | A developer conference that provides an in-depth look into the future of apple platforms |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
