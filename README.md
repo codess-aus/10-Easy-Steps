@@ -204,6 +204,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [The most quirky parts of the JavaScript](https://bonsaiden.github.io/JavaScript-Garden/) | Javascript Garden | 11 | Advice on avoiding common mistakes |
 | [Create own workshop](https://nuevofoundation.org/) | Nuevo Foundation | 11 | Teach kids with fun coding scenarios |
 | [Code with Rockstar](https://codewithrockstar.com/) | Dylan Beattie | 11 | Rockstar is a computer programming language designed for creating programs that are also heavy metal power ballads - it's not for the faint of heart |
+| [Open Source Guides](https://opensource.guide/) | GitHub and Friends | 11 | Open source software is made by people just like you. Learn how to launch and grow your project |
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
@@ -253,7 +254,7 @@ MIT Licence
 37. [Ishita Manchanda](https://github.com/ishitacodes)
 38. [Souvik-py](https://github.com/Souvik-py)
 39. [PritikaSabharwal](https://github.com/PritikaSabharwal)
-
+40. [RemcoHalman](https://github.com/RemcoHalman)
 
 
 
