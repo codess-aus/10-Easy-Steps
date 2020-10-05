@@ -258,6 +258,7 @@ MIT Licence
 38. [Souvik-py](https://github.com/Souvik-py)
 39. [PritikaSabharwal](https://github.com/PritikaSabharwal)
 40. [RemcoHalman](https://github.com/RemcoHalman)
+41. [squarebat](https://github.com/squarebat)
 
 
 
