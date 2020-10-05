@@ -252,6 +252,7 @@ MIT Licence
 36. [Abhijit Roy](https://github.com/EmberCS15)
 37. [Ishita Manchanda](https://github.com/ishitacodes)
 38. [Souvik-py](https://github.com/Souvik-py)
+39. [PritikaSabharwal](https://github.com/PritikaSabharwal)
 
 
 
