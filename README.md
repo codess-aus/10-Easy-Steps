@@ -195,6 +195,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Javascript Con](https://javascript-conference.com/) | International Javascript Conference 2020 | 10 | Explore the world of Javascript |
 | [Shift Dev](https://dev.shiftconf.co/) | Shift Dev 2021 | 10 | A two-day open air and hybrid Developer conference to bring the World’s Developers Together |
 | [PowerShell and DevOps Global Summit](https://events.devopscollective.org/) | DevOps Collective | 10 | Gathering of PowerShell + DevOps professionals and enthusiasts|
+| [ConFoo](https://confoo.ca/en) | ConFoo Montreal 2021 | 10 | ConFoo is a multi-technology conference for developers |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -254,8 +255,6 @@ MIT Licence
 38. [Souvik-py](https://github.com/Souvik-py)
 39. [PritikaSabharwal](https://github.com/PritikaSabharwal)
 40. [RemcoHalman](https://github.com/RemcoHalman)
-
-
 
 
 
