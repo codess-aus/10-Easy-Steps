@@ -194,6 +194,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [DockerCon](https://docker.events.cube365.net/docker/dockercon/) | Docker | 10 | DockerCon is a place for the Docker community to come together and thrive |
 | [Javascript Con](https://javascript-conference.com/) | International Javascript Conference 2020 | 10 | Explore the world of Javascript |
 | [Shift Dev](https://dev.shiftconf.co/) | Shift Dev 2021 | 10 | A two-day open air and hybrid Developer conference to bring the World’s Developers Together |
+| [PowerShell and DevOps Global Summit](https://events.devopscollective.org/) | DevOps Collective | 10 | Gathering of PowerShell + DevOps professionals and enthusiasts|
 
 ## And Then What?
 | Name | Author | Step | Comments |  
