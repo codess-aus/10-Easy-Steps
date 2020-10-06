@@ -202,6 +202,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Apple WWDC](https://developer.apple.com/wwdc20/) | Apple WWDC 2020 | 10 | A developer conference that provides an in-depth look into the future of apple platforms |
 | [FOSDEM](https://fosdem.org/2021/) | FOSDEM'21 | 10 | FOSDEM is a free event for software developers to meet, share ideas and collaborate |
 | [DevOpsCon](https://devopscon.io/) | DevOpsCon | 10 | Global Conference Series For DevOps and Business Transformation |
+| [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) | Linux Foundation | 10 | Open Source Summit connects the open source ecosystem under one roof. |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
