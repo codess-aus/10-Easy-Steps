@@ -174,7 +174,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Love of Learning |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Love of Learning |
 | [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Love of Learning |
-| [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Love of Learning |
+| [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Fun and engaging ways to code |
 | [Layla Codesit](https://www.twitch.tv/laylacodesit) | Twilio | 9 | Love of Learning |
 | [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | Love of Learning |
 | [Adam13531](https://www.twitch.tv/adam13531) | AcAdamy | 9 | Love learn and teach |
@@ -269,4 +269,5 @@ MIT Licence
 43. [djl218](https://github.com/djl218)
 44. [Ravigautamcs](https://github.com/ravigautamcs)
 45. [xvidviii](https://github.com/xvidviii)
+46. [Atharva](https://github.com/Atharva8)
 
