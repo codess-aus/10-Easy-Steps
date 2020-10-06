@@ -176,7 +176,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Open, interactive and engaging community where any coder, from beginner to veteran, can learn and grow together |
 | [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Fun and engaging ways to code |
 | Layla Codesit | Twilio | 9 | Self-taught .NET developer, Microsoft MVP, Twilio Developer Evangelist |
-| [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | Love of Learning |
+| [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | A humble group of developers and technical enthusiasts within Microsoft who operate this Twitch channel devoted to including you into the conversations we have |
 | [Adam13531](https://www.twitch.tv/adam13531) | AcAdamy | 9 | Love learn and teach |
 
   
@@ -205,6 +205,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) | Linux Foundation | 10 | Open Source Summit connects the open source ecosystem under one roof. |
 | [F8](https://www.f8.com/) | Facebook | 10 | A conversation about technology and human connection |
 | [DevIntersection](https://devintersection.com/#!/?track=dev) | Microsoft | 10 | An event where your questions get answered, strategies are defined, and relationships are built |
+| [O'Reilly Software Architecture Conference](https://https://conferences.oreilly.com/software-architecture/sa-ny.html) | O'Reilly | 10 | Network with and learn from experts as they share their knowledge in software architecture—updating legacy systems, the impact of emergent trends, and insights on industry-specific strategies |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -270,4 +271,5 @@ MIT Licence
 44. [Ravigautamcs](https://github.com/ravigautamcs)
 45. [xvidviii](https://github.com/xvidviii)
 46. [Atharva](https://github.com/Atharva8)
-47. [V Maheysh](https://github.com/Zualemo-xo)
+47. [tlchan668](https://github.comtlchan668)
+48. [V Maheysh](https://github.com/Zualemo-xo)
