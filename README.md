@@ -173,7 +173,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Love of Learning |
 | [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Love of Learning |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Love of Learning |
-| [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Love of Learning |
+| [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Open, interactive and engaging community where any coder, from beginner to veteran, can learn and grow together |
 | [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Fun and engaging ways to code |
 | Layla Codesit | Twilio | 9 | Self-taught .NET developer, Microsoft MVP, Twilio Developer Evangelist |
 | [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | Love of Learning |
@@ -270,4 +270,4 @@ MIT Licence
 44. [Ravigautamcs](https://github.com/ravigautamcs)
 45. [xvidviii](https://github.com/xvidviii)
 46. [Atharva](https://github.com/Atharva8)
-
+47. [V Maheysh](https://github.com/Zualemo-xo)
