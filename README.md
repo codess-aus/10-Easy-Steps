@@ -203,6 +203,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [FOSDEM](https://fosdem.org/2021/) | FOSDEM'21 | 10 | FOSDEM is a free event for software developers to meet, share ideas and collaborate |
 | [DevOpsCon](https://devopscon.io/) | DevOpsCon | 10 | Global Conference Series For DevOps and Business Transformation |
 | [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) | Linux Foundation | 10 | Open Source Summit connects the open source ecosystem under one roof. |
+| [F8](https://www.f8.com/) | Facebook | 10 | A conversation about technology and human connection |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
