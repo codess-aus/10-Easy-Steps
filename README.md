@@ -200,6 +200,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [ConFoo](https://confoo.ca/en) | ConFoo Montreal 2021 | 10 | ConFoo is a multi-technology conference for developers |
 | [Apple WWDC](https://developer.apple.com/wwdc20/) | Apple WWDC 2020 | 10 | A developer conference that provides an in-depth look into the future of apple platforms |
 | [FOSDEM](https://fosdem.org/2021/) | FOSDEM'21 | 10 | FOSDEM is a free event for software developers to meet, share ideas and collaborate |
+| [DevOpsCon](https://devopscon.io/) | DevOpsCon | 10 | Global Conference Series For DevOps and Business Transformation |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -260,7 +261,7 @@ MIT Licence
 39. [PritikaSabharwal](https://github.com/PritikaSabharwal)
 40. [RemcoHalman](https://github.com/RemcoHalman)
 41. [squarebat](https://github.com/squarebat)
-
+42. [jessicasalbert](https://github.com/jessicasalbert)
 
 
 
