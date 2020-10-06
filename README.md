@@ -183,6 +183,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Conferences
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
+| [JSNation](https://jsnation.com/) | JSNation | 10 | Core library authors. Hands-on learning. The future of JS. |
 | [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | A conference for the whole team |
 | [NDC Conferences](https://www.ndcconferences.com/) | NDC | 10 | High-end events for software developers |
 | [YOW Conferences](https://yowconference.com/) | YOW | 10 | Emerging technologies and best practices in the software industry |
@@ -262,6 +263,6 @@ MIT Licence
 40. [RemcoHalman](https://github.com/RemcoHalman)
 41. [squarebat](https://github.com/squarebat)
 42. [jessicasalbert](https://github.com/jessicasalbert)
-
+43. [djl218](https://github.com/djl218)
 
 
