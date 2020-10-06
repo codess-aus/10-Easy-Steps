@@ -204,6 +204,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [DevOpsCon](https://devopscon.io/) | DevOpsCon | 10 | Global Conference Series For DevOps and Business Transformation |
 | [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) | Linux Foundation | 10 | Open Source Summit connects the open source ecosystem under one roof. |
 | [F8](https://www.f8.com/) | Facebook | 10 | A conversation about technology and human connection |
+| [DevIntersection](https://devintersection.com/#!/?track=dev) | Microsoft | 10 | An event where your questions get answered, strategies are defined, and relationships are built |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
