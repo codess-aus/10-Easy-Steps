@@ -165,7 +165,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [Phil Nash](https://www.twitch.tv/phil_nash) | Twilio | 9 | Love of Learning |
+| [Phil Nash](https://www.twitch.tv/phil_nash) | Twilio | 9 | Developer evangelist for Twilio and a Ruby and JavaScript developer |
 | [Amy Kapernick](https://www.twitch.tv/amyskapers) | Amy Kapernick | 9 | Love of Learning |
 | [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Love of Learning |
 | [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Love of Learning |
@@ -268,5 +268,5 @@ MIT Licence
 42. [jessicasalbert](https://github.com/jessicasalbert)
 43. [djl218](https://github.com/djl218)
 44. [Ravigautamcs](https://github.com/ravigautamcs)
-
+45. [xvidviii](https://github.com/xvidviii)
 
