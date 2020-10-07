@@ -179,7 +179,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Love of Learning |
 | [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Open, interactive and engaging community where any coder, from beginner to veteran, can learn and grow together |
 | [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Fun and engaging ways to code |
-| Layla Codesit | Twilio | 9 | Self-taught .NET developer, Microsoft MVP, Twilio Developer Evangelist |
+| [Layla Codesit](https://www.twitch.tv/laylacodesit) | Twilio | 9 | Self-taught .NET developer, Microsoft MVP, Twilio Developer Evangelist |
 | [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | A humble group of developers and technical enthusiasts within Microsoft who operate this Twitch channel devoted to including you into the conversations we have |
 | [Adam13531](https://www.twitch.tv/adam13531) | AcAdamy | 9 | Love learn and teach |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Writing code! Talking about code! Having fun! |
