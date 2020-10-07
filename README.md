@@ -214,7 +214,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [O'Reilly Software Architecture Conference](https://https://conferences.oreilly.com/software-architecture/sa-ny.html) | O'Reilly | 10 | Network with and learn from experts as they share their knowledge in software architecture—updating legacy systems, the impact of emergent trends, and insights on industry-specific strategies |
 | [DeveloperWeek](https://www.developerweek.com/) | DevNetwork | 10 | The world’s largest developer expo & conference series |
 | [RailsConf](http://railsconf.com/) | Ruby Central Org | 10 | RailsConf is the world’s largest gathering of Rails developers, brought together to further discussion and learning about building, managing, and testing Rails applications |
-
+| [Design Portfolio Workflow ](https://medium.com/@katfukui/the-design-portfolio-workflow-a94030d0b39e) |kat fukui | 11 | A complete guide to code and deploy a site, all from the terminal |
 ## And Then What?
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
