@@ -114,6 +114,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Ovilia](https://github.com/ovilia) | Wenli Zhang | 4 | Passionate Dataviz Developer & Creative Designer; PPMC of Apache ECharts (incubating) |
 | [potatoqualitee](https://twitter.com/cl) | Chrissy LeMaire | 4 | SQL & PS MVP, creator of @psdbatools member @thelivecoders & @PowerShellLive author http://dbatools.io/book |
 | [Vanessa Aristizabal](https://github.com/vanessamarely) | Vanessa Aristizabal | 4 | Frontend Developer GDE in Angular & Web Technologies |
+| [Tatiana Mac](https://codepen.io/tatianamac/) | Tatiana Mac | 4 | Tech Misanthropologist. Engineer/OSS maintainer |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
