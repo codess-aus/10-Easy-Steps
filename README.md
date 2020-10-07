@@ -174,7 +174,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Amy Kapernick](https://www.twitch.tv/amyskapers) | Amy Kapernick | 9 | Love of Learning |
 | [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Love of Learning |
 | [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Love of Learning |
-| Pair Programming ](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Jason Lengstorf hosts Learn With Jason, a pair programming livestream where we learn something new in 90 minutes! |
+| [Pair Programming](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Jason Lengstorf hosts Learn With Jason, a pair programming livestream where we learn something new in 90 minutes! |
 | [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Award-winning creative focused on data-driven art and visualizations |
 | [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Love of Learning |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Love of Learning |
