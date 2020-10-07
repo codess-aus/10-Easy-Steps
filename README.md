@@ -213,6 +213,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [DevIntersection](https://devintersection.com/#!/?track=dev) | Microsoft | 10 | An event where your questions get answered, strategies are defined, and relationships are built |
 | [O'Reilly Software Architecture Conference](https://https://conferences.oreilly.com/software-architecture/sa-ny.html) | O'Reilly | 10 | Network with and learn from experts as they share their knowledge in software architecture—updating legacy systems, the impact of emergent trends, and insights on industry-specific strategies |
 | [DeveloperWeek](https://www.developerweek.com/) | DevNetwork | 10 | The world’s largest developer expo & conference series |
+| [RailsConf](http://railsconf.com/) | Ruby Central Org | 10 | RailsConf is the world’s largest gathering of Rails developers, brought together to further discussion and learning about building, managing, and testing Rails applications |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -284,4 +285,5 @@ MIT Licence
 50. [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 51. [Jasir Mohammad Zaeem](https://github.com/JasirZaeem)
 52. [Mithun P](https://github.com/Mithunitp)
+53. [c0d1ng-Devta](https://github.com/c0d1ng-Devta)
 
