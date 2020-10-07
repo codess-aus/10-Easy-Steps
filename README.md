@@ -285,4 +285,5 @@ MIT Licence
 50. [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 51. [Jasir Mohammad Zaeem](https://github.com/JasirZaeem)
 52. [Mithun P](https://github.com/Mithunitp)
+53. [c0d1ng-Devta](https://github.com/c0d1ng-Devta)
 
