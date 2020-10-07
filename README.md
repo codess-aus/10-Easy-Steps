@@ -207,6 +207,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [F8](https://www.f8.com/) | Facebook | 10 | A conversation about technology and human connection |
 | [DevIntersection](https://devintersection.com/#!/?track=dev) | Microsoft | 10 | An event where your questions get answered, strategies are defined, and relationships are built |
 | [O'Reilly Software Architecture Conference](https://https://conferences.oreilly.com/software-architecture/sa-ny.html) | O'Reilly | 10 | Network with and learn from experts as they share their knowledge in software architecture—updating legacy systems, the impact of emergent trends, and insights on industry-specific strategies |
+| [DeveloperWeek](https://www.developerweek.com/) | DevNetwork | 10 | The world’s largest developer expo & conference series |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -274,3 +275,4 @@ MIT Licence
 46. [Atharva](https://github.com/Atharva8)
 47. [tlchan668](https://github.comtlchan668)
 48. [V Maheysh](https://github.com/Zualemo-xo)
+49. [rossdwill](https://github.com/rossdwill)
