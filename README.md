@@ -165,6 +165,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Love of Learning |
 | [Coders Tape](https://www.youtube.com/c/CodersTape/) | Coders Tape | 8 | Level up your Laravel, PHP and Marketing skills with fresh weekly content |
 | [Programming in JavaScript by Colt Steele](https://www.youtube.com/watch?v=x2RNw4M6cME) | Colt Steele | 8 | Level up the JavaScript Programming Skills right from the basics |
+| [STEM Stories](https://www.youtube.com/playlist?list=PLfj0ilPGpPyEMI7kCtjOnTOiQs8nAf1L1) | Colt Steele | 8 | Video Stories from Women Working in STEM Careers |
 
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
@@ -281,4 +282,6 @@ MIT Licence
 48. [V Maheysh](https://github.com/Zualemo-xo)
 49. [rossdwill](https://github.com/rossdwill)
 50. [Akilesh Kumar](https://github.com/cyb3r-w0lf)
-60. [Jasir Mohammad Zaeem](https://github.com/JasirZaeem)
+51. [Jasir Mohammad Zaeem](https://github.com/JasirZaeem)
+52. [Mithun P](https://github.com/Mithunitp)
+
