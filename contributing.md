@@ -20,6 +20,7 @@ We want you to be successful in making your First (2nd, 3rd or 4th) Pull Request
 * [Getting Started Guide](https://github.com/msandfor/10-Easy-Steps/blob/master/docs/getting-started.md) - will give you a more detailed guide on what to do.
 * Bots will thank you for your first issue with a Gif, watch out for bad behaviour, and hopefully... assign your Pull Requests to us. You can also ask them to add you as a contributor to the repository and they will.
 * We're happy to help, put a comment on an issue if you get stuck and have questions
+* Please don't take more than one issue, we'd like to be able to give all #Hacktoberfest people a chance to make one PR here
 
 Please ensure your pull request adheres to the following guidelines:
 
