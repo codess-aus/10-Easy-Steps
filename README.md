@@ -174,7 +174,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Love of Learning |
 | [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Love of Learning |
 | [Pair Programming](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Love of Learning |
-| [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Love of Learning |
+| [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Award-winning creative focused on data-driven art and visualizations |
 | [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Love of Learning |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Love of Learning |
 | [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Open, interactive and engaging community where any coder, from beginner to veteran, can learn and grow together |
@@ -281,3 +281,4 @@ MIT Licence
 48. [V Maheysh](https://github.com/Zualemo-xo)
 49. [rossdwill](https://github.com/rossdwill)
 50. [Akilesh Kumar](https://github.com/cyb3r-w0lf)
+60. [Jasir Mohammad Zaeem](https://github.com/JasirZaeem)
