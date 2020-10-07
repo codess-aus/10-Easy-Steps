@@ -181,6 +181,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Microsoft Developer](https://www.twitch.tv/microsoftdeveloper/) | Microsoft Developer | 9 | A humble group of developers and technical enthusiasts within Microsoft who operate this Twitch channel devoted to including you into the conversations we have |
 | [Adam13531](https://www.twitch.tv/adam13531) | AcAdamy | 9 | Love learn and teach |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Writing code! Talking about code! Having fun! |
+| [Nahamsec](https://www.twitch.tv/nahamsec) | Hackerone | 9 | Awesome tips on bug hunting |
   
 ## Conferences
 | Name | Author | Step | Comments |  
@@ -277,3 +278,4 @@ MIT Licence
 47. [tlchan668](https://github.comtlchan668)
 48. [V Maheysh](https://github.com/Zualemo-xo)
 49. [rossdwill](https://github.com/rossdwill)
+50. [Akilesh Kumar](https://github.com/cyb3r-w0lf)
