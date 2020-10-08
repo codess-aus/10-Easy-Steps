@@ -292,6 +292,6 @@ MIT Licence
 53. [c0d1ng-Devta](https://github.com/c0d1ng-Devta)
 54. [Shweta](https://github.com/Shweta200126)
 55. [kezizhou](https://github.com/kezizhou)
-56. [diisophiia] (https://github.com/diisophiia)
+56. [diisophiia](https://github.com/diisophiia)
 56. [SondreWang](https://github.com/SondreWang)
 
