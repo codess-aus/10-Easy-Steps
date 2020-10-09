@@ -166,6 +166,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Coders Tape](https://www.youtube.com/c/CodersTape/) | Coders Tape | 8 | Level up your Laravel, PHP and Marketing skills with fresh weekly content |
 | [Programming in JavaScript by Colt Steele](https://www.youtube.com/watch?v=x2RNw4M6cME) | Colt Steele | 8 | Level up the JavaScript Programming Skills right from the basics |
 | [STEM Stories](https://www.youtube.com/playlist?list=PLfj0ilPGpPyEMI7kCtjOnTOiQs8nAf1L1) | Nuevo Foundation | 8 | Video Stories from Women Working in STEM Careers |
+| [The Case of the Missing Method](https://youtu.be/mn2D_k-X-es) | Nadia Odunayo | 8 | A Ruby Mystery Story at RubyConf |
 
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
@@ -293,5 +294,5 @@ MIT Licence
 54. [Shweta](https://github.com/Shweta200126)
 55. [kezizhou](https://github.com/kezizhou)
 56. [diisophiia](https://github.com/diisophiia)
-56. [SondreWang](https://github.com/SondreWang)
-
+57. [SondreWang](https://github.com/SondreWang)
+58. [AutumnWishes87](https://github.com/AutumnWishes87)
