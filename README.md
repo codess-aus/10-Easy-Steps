@@ -299,3 +299,4 @@ MIT Licence
 57. [SondreWang](https://github.com/SondreWang)
 58. [bahroze-dev](https://github.com/bahroze-dev)
 59. [AutumnWishes87](https://github.com/AutumnWishes87)
+60. [Gabrijel Golubić](https://github.com/ggolubic)
