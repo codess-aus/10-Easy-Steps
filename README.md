@@ -41,7 +41,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 * [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
 * [Watch Some Twitch Channels](#watch-some-twitch-channels)
 * [Conferences](#conferences)
-* [And Then What?](##and-then-what?)
+* [And Then What?](#and-then-what?)
 
 # Resources
 
@@ -303,3 +303,4 @@ MIT Licence
 60. [Gabrijel Golubić](https://github.com/ggolubic)
 61. [Jeff Sherry](https://github.com/justjeff)
 62. [Wanjuntham](https://github.com/wanjuntham)
+63. [Fabricio Cavalcante](https://github.com/fcsouza)
