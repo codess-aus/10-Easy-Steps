@@ -60,7 +60,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Description | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Hello World](https://guides.github.com/activities/hello-world/) | GitHub Guides | 2 | Everyone starts with Hello World, it's like ABC for Coders |
-| [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses//') | Kent C Dodds | 2 | A kind mind gently introduces the concept of Open Source |
+| [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/) | Kent C Dodds | 2 | A kind mind gently introduces the concept of Open Source |
 | [Prefer GUI Over Command Line Tools](https://desktop.github.com/) | Github Desktop | 2 | You don't have to code in the command line | 
 | [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 2 | A bot can teach you to code |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GitHub Learning Labs | 2 | Creating Simplified Webpages |
