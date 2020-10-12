@@ -60,7 +60,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Description | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Hello World](https://guides.github.com/activities/hello-world/) | GitHub Guides | 2 | Everyone starts with Hello World, it's like ABC for Coders |
-| [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses//') | Kent C Dodds | 2 | A kind mind gently introduces the concept of Open Source |
+| [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/) | Kent C Dodds | 2 | A kind mind gently introduces the concept of Open Source |
 | [Prefer GUI Over Command Line Tools](https://desktop.github.com/) | Github Desktop | 2 | You don't have to code in the command line | 
 | [An Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) | GitHub Learning Labs | 2 | A bot can teach you to code |
 | [Communicating Using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) | GitHub Learning Labs | 2 | Creating Simplified Webpages |
@@ -220,6 +220,15 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [RailsConf](http://railsconf.com/) | Ruby Central Org | 10 | RailsConf is the world’s largest gathering of Rails developers, brought together to further discussion and learning about building, managing, and testing Rails applications |
 | [RubyConf](https://rubyconf.org/) | Ruby Central Org | 10 | RubyConf is the world’s largest and longest-running gathering of Ruby enthusiasts, practitioners, and companies |
 | [CodeMash](https://www.codemash.org) | CodeMash Conference | 10 | CodeMash is a conference for developers wanting to enhance their skills in topics like .NET, Java, Ruby, Python, Javascript, Security and so much more. |
+
+## Free Open Source Software Development Tools
+| Name | OS | Download Link | Description |
+|------|----|---------------|-------------|
+| VSCode | Windows / MacOS / Linux | https://code.visualstudio.com/download/ | Free and built on open source. Integrated Git, debugging and extensions. |
+| Atom | Windows / MacOS / Linux | https://atom.io/ | A hackable text editor for the 21st Century |
+| Notepad ++ | Windows | https://notepad-plus-plus.org/downloads/ | Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. |
+| 
+
 
 ## And Then What?
 | Name | Author | Step | Comments |  
