@@ -95,7 +95,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Scott Hanselman](https://www.hanselman.com/) | Scott Hanselman | 4 | Be Kind |
 | [Kent C Dodds](https://kentcdodds.com/) | Kent C Dodds | 4 | Be Kind | 
 | [Patricia Aas](https://patricia.no/) | Patricia Aas | 4 | Be Open Minded | 
-| [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 4 | Be Tolerant of Quokkas |
+| [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 4 | FrontEnd WebDev, Evangelist for YOW! Twilio Champion and Microsoft MVP |
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Help yourself by helping others |
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Be Kind |
 | [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Be Kind |
