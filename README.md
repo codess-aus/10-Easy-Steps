@@ -221,6 +221,15 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [RubyConf](https://rubyconf.org/) | Ruby Central Org | 10 | RubyConf is the world’s largest and longest-running gathering of Ruby enthusiasts, practitioners, and companies |
 | [CodeMash](https://www.codemash.org) | CodeMash Conference | 10 | CodeMash is a conference for developers wanting to enhance their skills in topics like .NET, Java, Ruby, Python, Javascript, Security and so much more. |
 
+## Free Open Source Software Development Tools
+| Name | OS | Download Link | Description |
+|------|----|---------------|-------------|
+| VSCode | Windows / MacOS / Linux | https://code.visualstudio.com/download/ | Free and built on open source. Integrated Git, debugging and extensions. |
+| Atom | Windows / MacOS / Linux | https://atom.io/ | A hackable text editor for the 21st Century |
+| Notepad ++ | Windows | https://notepad-plus-plus.org/downloads/ | Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. |
+| 
+
+
 ## And Then What?
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
