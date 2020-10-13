@@ -170,6 +170,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Responsive Web Design](https://responsivewebdesign.com/podcast/) | Karen McGrane and Ethan Marcotte | 7 | Karen and Ethan interview the people who make responsive redesigns happen |
 | [The Web Platform ](https://thewebplatformpodcast.com/) | Erik Isaksen | 7 | A weekly show that dives deep into all things web from the developers building the platform today. |
 | [TheStyle Guides Podcast](http://styleguides.io/podcast/) | Anna Debenham and Brad Frost. | 7 | A small batch series of interviews on Style Guides |
+| [The ChangeLog ](https://changelog.com/podcast/) | The ChangeLog | 7 | Conversations with the hackers, the leaders, and the innovators of software development |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
@@ -326,3 +327,4 @@ MIT Licence
 62. [Wanjuntham](https://github.com/wanjuntham)
 63. [Fabricio Cavalcante](https://github.com/fcsouza)
 64. [anothergeorgecoldham](https://github.com/anothergeorgecoldham)
+65. [gaurangagarwal](https://github.com/gaurangagarwal)
