@@ -59,7 +59,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Open Source Guide to Etiquette](https://css-tricks.com/open-source-etiquette-guidebook/) | Kent C. Dodds and Sarah Drasner | 1 | Let's play nice |
 | [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) | @nayafia, @bkeepers, @stephbwills, and @mlinksva | 1 | Really good Why and What Guide of Open Source |
 
-*P.S. Ask yourself who was "Why the Lucky Stiff" ? Is he still out there somewhere, building new stuff and scribling his hazy dreams. * 
+*P.S. Ask yourself who was "Why the Lucky Stiff" ? Is he still out there somewhere, building new stuff and scribling his hazy dreams* 
 
 
 ## Get into Github
