@@ -330,3 +330,4 @@ MIT Licence
 64. [anothergeorgecoldham](https://github.com/anothergeorgecoldham)
 65. [gaurangagarwal](https://github.com/gaurangagarwal)
 66. [Chetan Nimbalkar](https://github.com/ch374n)
+67. [edward-delossantos](https://github.com/edward-delossantos)
