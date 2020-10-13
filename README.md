@@ -41,11 +41,15 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 * [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
 * [Watch Some Twitch Channels](#watch-some-twitch-channels)
 * [Conferences](#conferences)
+* [Tools](#free-tools)
 * [And Then What?](#and-then-what?)
 
 # Resources
 
 ## What, Where, Why?
+
+*Here are some teasers - some whimsical guides, some interesting stories, some tasty treats designed to convince you to take a look at Coding and the magical world of Open Sourcery*
+
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Learn web development as an absolute beginner](https://youtu.be/ysEN5RaKOlA) | Coder Coder | 1 | A great video to get you started |
@@ -55,8 +59,13 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Open Source Guide to Etiquette](https://css-tricks.com/open-source-etiquette-guidebook/) | Kent C. Dodds and Sarah Drasner | 1 | Let's play nice |
 | [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) | @nayafia, @bkeepers, @stephbwills, and @mlinksva | 1 | Really good Why and What Guide of Open Source |
 
+*P.S. Ask yourself who was "Why the Lucky Stiff" ? Is he still out there somewhere, building new stuff and scribling his hazy dreams. * 
+
 
 ## Get into Github
+
+*If you have decided to start, start here*
+
 | Description | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Hello World](https://guides.github.com/activities/hello-world/) | GitHub Guides | 2 | Everyone starts with Hello World, it's like ABC for Coders |
@@ -70,6 +79,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Create a Github Profile Readme](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) | Monica Powell | 2 | Build your own pretty webpage on Github |
 
 ## Try some Code
+
+*Now you have some choices, in how you learn. Check out the 100DaysOfCode Community further down and then follow the FreeCodeCamp path to becoming a FullStack Developer... or pick any of the others to have fun while you learn*
+
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------| 
 | [Learn to Code by Playing a Game](https://codecombat.com/) | Code Combat | 3 | Learn the concepts while having fun |
@@ -221,7 +233,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [RubyConf](https://rubyconf.org/) | Ruby Central Org | 10 | RubyConf is the world’s largest and longest-running gathering of Ruby enthusiasts, practitioners, and companies |
 | [CodeMash](https://www.codemash.org) | CodeMash Conference | 10 | CodeMash is a conference for developers wanting to enhance their skills in topics like .NET, Java, Ruby, Python, Javascript, Security and so much more. |
 
-## Free Open Source Software Development Tools
+## Free Tools
 | Name | OS | Download Link | Description |
 |------|----|---------------|-------------|
 | VSCode | Windows / MacOS / Linux | https://code.visualstudio.com/download/ | Free and built on open source. Integrated Git, debugging and extensions. |
