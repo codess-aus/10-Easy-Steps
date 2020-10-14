@@ -236,7 +236,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [RubyConf](https://rubyconf.org/) | Ruby Central Org | 10 | RubyConf is the world’s largest and longest-running gathering of Ruby enthusiasts, practitioners, and companies |
 | [CodeMash](https://www.codemash.org) | CodeMash Conference | 10 | CodeMash is a conference for developers wanting to enhance their skills in topics like .NET, Java, Ruby, Python, Javascript, Security and so much more. |
 | [SuperConf](https://superconf.com/companies) | SuperConf Conference | 10 | SuperConf is a conference for makers. The designers, developers, and entrepreneurs molding our future. Hosted in sunny Miami |
-| [PyCon](https://pycon.org/) | Python.Org | 10 | The international community for the Python programming language holds several conferences (PyCons) each year. |
 
 ## Free Tools
 | Name | OS | Download Link | Description |
