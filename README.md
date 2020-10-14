@@ -165,7 +165,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | Love of Learning |
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | Love of Learning |
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Love of Learning |
-| [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | Love of Learning |
+| [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | The official podcast of the freeCodeCamp open source community |
 | [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning | 
 | [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | Love of Learning |
 | [Responsive Web Design](https://responsivewebdesign.com/podcast/) | Karen McGrane and Ethan Marcotte | 7 | Karen and Ethan interview the people who make responsive redesigns happen |
@@ -336,3 +336,4 @@ MIT Licence
 68. [mccarthykp](https://github.com/mccarthykp)
 69. [panditita](https://github.com/panditita)
 70. [Adeoye Ayomide](https://github.com/Ayomilotunde)
+71. [staysee](https://github.com/staysee)
