@@ -171,6 +171,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [The Web Platform ](https://thewebplatformpodcast.com/) | Erik Isaksen | 7 | A weekly show that dives deep into all things web from the developers building the platform today. |
 | [TheStyle Guides Podcast](http://styleguides.io/podcast/) | Anna Debenham and Brad Frost. | 7 | A small batch series of interviews on Style Guides |
 | [The ChangeLog ](https://changelog.com/podcast/) | The ChangeLog | 7 | Conversations with the hackers, the leaders, and the innovators of software development |
+| [FrontEnd Happy Hour ](https://frontendhappyhour.com/) |FrontEnd Happy Hour | 7 | A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development. |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
@@ -331,3 +332,4 @@ MIT Licence
 65. [gaurangagarwal](https://github.com/gaurangagarwal)
 66. [Chetan Nimbalkar](https://github.com/ch374n)
 67. [edward-delossantos](https://github.com/edward-delossantos)
+68. [mccarthykp](https://github.com/mccarthykp)
