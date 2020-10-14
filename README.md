@@ -336,3 +336,4 @@ MIT Licence
 67. [edward-delossantos](https://github.com/edward-delossantos)
 68. [mccarthykp](https://github.com/mccarthykp)
 69. [panditita](https://github.com/panditita)
+70. [Adeoye Ayomide](https://github.com/Ayomilotunde)
