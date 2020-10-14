@@ -159,7 +159,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Love of Learning |
-| [Scott Hanselman Podcast](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Love of Learning |
+| [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Love of Learning |
 | [Talk Python To Me](https://www.talkpython.fm/episodes/all) | @mkennedy | 7 | Love of Learning |
 | [Softskills Engineering Podcast](https://www.softskills.audio) | Softskills Engineering | 7 | Love of Learning |
 | [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | Love of Learning |
