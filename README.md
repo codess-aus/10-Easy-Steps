@@ -136,7 +136,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Get Involved](https://www.pluralsight.com/courses/get-involved) | Pluralsight | 5 | Scott Hanselman and Rob Conery offer suggestions and advice on how you can get out there, and get involved |
-| [Python Community](https://www.python.org/community/) | Python.Org | 5 | Love of Python |
+| [Python Community](https://www.python.org/community/) | Python.Org | 5 | Python’s community is vast; diverse & aims to grow; Python is Open |
 | [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 5 | There are only two rules |
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 5 | Official Website for the Challenge that gets you addicted to coding |
 | [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Empowering technologists to achieve more by humanizing tech|
