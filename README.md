@@ -132,13 +132,14 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Tatiana Mac](https://codepen.io/tatianamac/) | Tatiana Mac | 4 | Tech Misanthropologist. Engineer/OSS maintainer |
 
 ## Get Involved
+
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Get Involved](https://www.pluralsight.com/courses/get-involved) | Pluralsight | 5 | Scott Hanselman and Rob Conery offer suggestions and advice on how you can get out there, and get involved |
 | [Python Community](https://www.python.org/community/) | Python.Org | 5 | Love of Python |
 | [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 5 | There are only two rules |
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 5 | Official Website for the Challenge that gets you addicted to coding |
-| [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Be Kind |
+| [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Empowering technologists to achieve more by humanizing tech|
 | [Probot Community](https://probot.github.io/community/) | Probot | 5 | Be Kind |
 | [Stack Overflow](https://stackoverflow.com/) | Stack Overflow | 5 | Stack Overflow is a question and answer site for professional and enthusiast programmers |
 | [Eddie Jaoude Community](https://eddiejaoudecommunity.github.io/) | Eddie Jaoude | 5 | OPEN SOURCE is NOT about code, it is about people and collaboration |
@@ -333,3 +334,4 @@ MIT Licence
 66. [Chetan Nimbalkar](https://github.com/ch374n)
 67. [edward-delossantos](https://github.com/edward-delossantos)
 68. [mccarthykp](https://github.com/mccarthykp)
+69. [panditita](https://github.com/panditita)
