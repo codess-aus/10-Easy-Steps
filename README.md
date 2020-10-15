@@ -220,6 +220,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [RailsConf](http://railsconf.com/) | Ruby Central Org | 10 | RailsConf is the world’s largest gathering of Rails developers, brought together to further discussion and learning about building, managing, and testing Rails applications |
 | [RubyConf](https://rubyconf.org/) | Ruby Central Org | 10 | RubyConf is the world’s largest and longest-running gathering of Ruby enthusiasts, practitioners, and companies |
 | [CodeMash](https://www.codemash.org) | CodeMash Conference | 10 | CodeMash is a conference for developers wanting to enhance their skills in topics like .NET, Java, Ruby, Python, Javascript, Security and so much more. |
+| [WeAreDevelopers](https://www.wearedevelopers.com/events/world-congress/) | World Congress | 10 | THE WORLD’S FLAGSHIP DEVELOPER CONFERENCE |
 
 ## Free Open Source Software Development Tools
 | Name | OS | Download Link | Description |
