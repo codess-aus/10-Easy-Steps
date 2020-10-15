@@ -257,6 +257,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Open Source Guides](https://opensource.guide/) | GitHub and Friends | 11 | Open source software is made by people just like you. Learn how to launch and grow your project |
 | [Design Portfolio Workflow ](https://medium.com/@katfukui/the-design-portfolio-workflow-a94030d0b39e) |kat fukui | 11 | A complete guide to code and deploy a site, all from the terminal |
 | [RubyGems](https://guides.rubygems.org/)) | RubyGems.org | 11 | RubyGems.org is the Ruby community’s gem hosting service |
+| [Quantum Katas](https://github.com/Microsoft/QuantumKatas/#run-online) | Microsoft | 11 | The Quantum Katas are a collection of self-paced tutorials and programming exercises to help you learn quantum computing and Q# programming |
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
@@ -339,4 +340,4 @@ MIT Licence
 70. [Adeoye Ayomide](https://github.com/Ayomilotunde)
 71. [staysee](https://github.com/staysee)
 72. [RizosKonstantinos](https://github.com/RizosKonstantinos)
-
+73. [Kay Pea](https://github.com/ravenblack24/)
