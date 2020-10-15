@@ -41,11 +41,15 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 * [Subscribe to Some YouTube Vids](#subscribe-to-some-youtube-vids)
 * [Watch Some Twitch Channels](#watch-some-twitch-channels)
 * [Conferences](#conferences)
+* [Tools](#free-tools)
 * [And Then What?](#and-then-what?)
 
 # Resources
 
 ## What, Where, Why?
+
+*Here are some teasers - some whimsical guides, some interesting stories, some tasty treats designed to convince you to take a look at Coding and the magical world of Open Sourcery*
+
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Learn web development as an absolute beginner](https://youtu.be/ysEN5RaKOlA) | Coder Coder | 1 | A great video to get you started |
@@ -55,8 +59,13 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Open Source Guide to Etiquette](https://css-tricks.com/open-source-etiquette-guidebook/) | Kent C. Dodds and Sarah Drasner | 1 | Let's play nice |
 | [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) | @nayafia, @bkeepers, @stephbwills, and @mlinksva | 1 | Really good Why and What Guide of Open Source |
 
+*P.S. Ask yourself who was "Why the Lucky Stiff" ? Is he still out there somewhere, building new stuff and scribling his hazy dreams* 
+
 
 ## Get into Github
+
+*If you have decided to start, start here*
+
 | Description | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Hello World](https://guides.github.com/activities/hello-world/) | GitHub Guides | 2 | Everyone starts with Hello World, it's like ABC for Coders |
@@ -70,6 +79,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Create a Github Profile Readme](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) | Monica Powell | 2 | Build your own pretty webpage on Github |
 
 ## Try some Code
+
+*Now you have some choices, in how you learn. Check out the 100DaysOfCode Community further down and then follow the FreeCodeCamp path to becoming a FullStack Developer... or pick any of the others to have fun while you learn*
+
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------| 
 | [Learn to Code by Playing a Game](https://codecombat.com/) | Code Combat | 3 | Learn the concepts while having fun |
@@ -120,13 +132,14 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Tatiana Mac](https://codepen.io/tatianamac/) | Tatiana Mac | 4 | Tech Misanthropologist. Engineer/OSS maintainer |
 
 ## Get Involved
+
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Get Involved](https://www.pluralsight.com/courses/get-involved) | Pluralsight | 5 | Scott Hanselman and Rob Conery offer suggestions and advice on how you can get out there, and get involved |
-| [Python Community](https://www.python.org/community/) | Python.Org | 5 | Love of Python |
-| [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 5 | Love of Learning |
+| [Python Community](https://www.python.org/community/) | Python.Org | 5 | Python’s community is vast; diverse & aims to grow; Python is Open |
+| [100 Days of Code](https://www.100daysofcode.com/) | Alex Kallaway | 5 | There are only two rules |
 | [CodeNewbie Community](https://www.codenewbie.org/) | CodeNewbie | 5 | Official Website for the Challenge that gets you addicted to coding |
-| [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Be Kind |
+| [Humans of IT Community](https://techcommunity.microsoft.com/t5/humans-of-it/ct-p/HumansofIT) | Microsoft | 5 | Empowering technologists to achieve more by humanizing tech|
 | [Probot Community](https://probot.github.io/community/) | Probot | 5 | Be Kind |
 | [Stack Overflow](https://stackoverflow.com/) | Stack Overflow | 5 | Stack Overflow is a question and answer site for professional and enthusiast programmers |
 | [Eddie Jaoude Community](https://eddiejaoudecommunity.github.io/) | Eddie Jaoude | 5 | OPEN SOURCE is NOT about code, it is about people and collaboration |
@@ -145,19 +158,21 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Listen to Some Podcasts
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [CodeNewbie Podcast](codenewbie.org/podcast) | CodeNewbie | 7 | Love of Learning |
-| [Scott Hanselman Podcast](hanselminutes.com) | Scott Hanselman | 7 | Love of Learning |
-| [Talk Python To Me](talkpython.fm/episodes/all) | @mkennedy | 7 | Love of Learning |
-| [Softskills Engineering Podcast](softskills.audio) | Softskills Engineering | 7 | Love of Learning |
-| [Frontend Happy Hour Podcast](frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | Love of Learning |
+| [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Love of Learning |
+| [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Love of Learning |
+| [Talk Python To Me](https://www.talkpython.fm/episodes/all) | @mkennedy | 7 | Love of Learning |
+| [Softskills Engineering Podcast](https://www.softskills.audio) | Softskills Engineering | 7 | Love of Learning |
+| [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | Love of Learning |
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | Love of Learning |
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Love of Learning |
-| [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | Love of Learning |
+| [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | The official podcast of the freeCodeCamp open source community |
 | [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning | 
 | [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | Love of Learning |
 | [Responsive Web Design](https://responsivewebdesign.com/podcast/) | Karen McGrane and Ethan Marcotte | 7 | Karen and Ethan interview the people who make responsive redesigns happen |
 | [The Web Platform ](https://thewebplatformpodcast.com/) | Erik Isaksen | 7 | A weekly show that dives deep into all things web from the developers building the platform today. |
 | [TheStyle Guides Podcast](http://styleguides.io/podcast/) | Anna Debenham and Brad Frost. | 7 | A small batch series of interviews on Style Guides |
+| [The ChangeLog ](https://changelog.com/podcast/) | The ChangeLog | 7 | Conversations with the hackers, the leaders, and the innovators of software development |
+| [FrontEnd Happy Hour ](https://frontendhappyhour.com/) |FrontEnd Happy Hour | 7 | A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development. |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
@@ -170,6 +185,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Programming in JavaScript by Colt Steele](https://www.youtube.com/watch?v=x2RNw4M6cME) | Colt Steele | 8 | Level up the JavaScript Programming Skills right from the basics |
 | [STEM Stories](https://www.youtube.com/playlist?list=PLfj0ilPGpPyEMI7kCtjOnTOiQs8nAf1L1) | Nuevo Foundation | 8 | Video Stories from Women Working in STEM Careers |
 | [The Case of the Missing Method](https://youtu.be/mn2D_k-X-es) | Nadia Odunayo | 8 | A Ruby Mystery Story at RubyConf |
+| [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Microsoft Developer | 8 | The foundation for programming in Python, starting from common everyday code and scenarios |
 
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
@@ -221,14 +237,14 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [RubyConf](https://rubyconf.org/) | Ruby Central Org | 10 | RubyConf is the world’s largest and longest-running gathering of Ruby enthusiasts, practitioners, and companies |
 | [CodeMash](https://www.codemash.org) | CodeMash Conference | 10 | CodeMash is a conference for developers wanting to enhance their skills in topics like .NET, Java, Ruby, Python, Javascript, Security and so much more. |
 | [WeAreDevelopers](https://www.wearedevelopers.com/events/world-congress/) | World Congress | 10 | THE WORLD’S FLAGSHIP DEVELOPER CONFERENCE |
+| [SuperConf](https://superconf.com/companies) | SuperConf Conference | 10 | SuperConf is a conference for makers. The designers, developers, and entrepreneurs molding our future. Hosted in sunny Miami |
 
-## Free Open Source Software Development Tools
+## Free Tools
 | Name | OS | Download Link | Description |
 |------|----|---------------|-------------|
 | VSCode | Windows / MacOS / Linux | https://code.visualstudio.com/download/ | Free and built on open source. Integrated Git, debugging and extensions. |
 | Atom | Windows / MacOS / Linux | https://atom.io/ | A hackable text editor for the 21st Century |
 | Notepad ++ | Windows | https://notepad-plus-plus.org/downloads/ | Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. |
-| 
 
 
 ## And Then What?
@@ -241,6 +257,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Open Source Guides](https://opensource.guide/) | GitHub and Friends | 11 | Open source software is made by people just like you. Learn how to launch and grow your project |
 | [Design Portfolio Workflow ](https://medium.com/@katfukui/the-design-portfolio-workflow-a94030d0b39e) |kat fukui | 11 | A complete guide to code and deploy a site, all from the terminal |
 | [RubyGems](https://guides.rubygems.org/)) | RubyGems.org | 11 | RubyGems.org is the Ruby community’s gem hosting service |
+| [Quantum Katas](https://github.com/Microsoft/QuantumKatas/#run-online) | Microsoft | 11 | The Quantum Katas are a collection of self-paced tutorials and programming exercises to help you learn quantum computing and Q# programming |
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
@@ -315,3 +332,12 @@ MIT Licence
 62. [Wanjuntham](https://github.com/wanjuntham)
 63. [Fabricio Cavalcante](https://github.com/fcsouza)
 64. [anothergeorgecoldham](https://github.com/anothergeorgecoldham)
+65. [gaurangagarwal](https://github.com/gaurangagarwal)
+66. [Chetan Nimbalkar](https://github.com/ch374n)
+67. [edward-delossantos](https://github.com/edward-delossantos)
+68. [mccarthykp](https://github.com/mccarthykp)
+69. [panditita](https://github.com/panditita)
+70. [Adeoye Ayomide](https://github.com/Ayomilotunde)
+71. [staysee](https://github.com/staysee)
+72. [RizosKonstantinos](https://github.com/RizosKonstantinos)
+73. [Kay Pea](https://github.com/ravenblack24/)
