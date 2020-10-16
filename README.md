@@ -238,7 +238,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [CodeMash](https://www.codemash.org) | CodeMash Conference | 10 | CodeMash is a conference for developers wanting to enhance their skills in topics like .NET, Java, Ruby, Python, Javascript, Security and so much more. |
 | [WeAreDevelopers](https://www.wearedevelopers.com/events/world-congress/) | World Congress | 10 | THE WORLD’S FLAGSHIP DEVELOPER CONFERENCE |
 | [SuperConf](https://superconf.com/companies) | SuperConf Conference | 10 | SuperConf is a conference for makers. The designers, developers, and entrepreneurs molding our future. Hosted in sunny Miami |
-| [Conference Name](Website Address) | Conference Name or Organising Org | 10 | Description of the Conferences, found on their website |
+| [Open Source Software Conference](https://www.oreilly.com/conferences/oscon.html) | Oreilly | 10 | Immerse yourself in sessions and interactive training courses solely focused on the most critical topics facing developers today |
 
 ## Free Tools
 | Name | OS | Download Link | Description |
