@@ -186,6 +186,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [STEM Stories](https://www.youtube.com/playlist?list=PLfj0ilPGpPyEMI7kCtjOnTOiQs8nAf1L1) | Nuevo Foundation | 8 | Video Stories from Women Working in STEM Careers |
 | [The Case of the Missing Method](https://youtu.be/mn2D_k-X-es) | Nadia Odunayo | 8 | A Ruby Mystery Story at RubyConf |
 | [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Microsoft Developer | 8 | The foundation for programming in Python, starting from common everyday code and scenarios |
+| [Javascript for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) | Microsoft Developer | 8 | A series of videos to focus on the core concepts of JavaScript |
 
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
