@@ -240,7 +240,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [WeAreDevelopers](https://www.wearedevelopers.com/events/world-congress/) | World Congress | 10 | THE WORLD’S FLAGSHIP DEVELOPER CONFERENCE |
 | [SuperConf](https://superconf.com/companies) | SuperConf Conference | 10 | SuperConf is a conference for makers. The designers, developers, and entrepreneurs molding our future. Hosted in sunny Miami |
 | [Open Source Software Conference](https://www.oreilly.com/conferences/oscon.html) | Oreilly | 10 | Immerse yourself in sessions and interactive training courses solely focused on the most critical topics facing developers today |
-| [QCon New York by Info Q](Website Address) | International Software Development Conference | 10 | QCon Plus (Nov 4-18) is not just another virtual conference. It’s the place where senior software engineers, architects, and team leads like you connect, learn, and grow. |
+| [QCon New York](https://qconnewyork.com/) | InfoQ | 10 | It’s the place where senior software engineers, architects, and team leads like you connect, learn, and grow. |
+
 ## Free Tools
 | Name | OS | Download Link | Description |
 |------|----|---------------|-------------|
@@ -343,3 +344,5 @@ MIT Licence
 71. [staysee](https://github.com/staysee)
 72. [RizosKonstantinos](https://github.com/RizosKonstantinos)
 73. [Kay Pea](https://github.com/ravenblack24/)
+74. [Mamadou Diallo](https://github.com/mamadou-diallo)
+75. [Priyankar roy](https://github.com/Flamer17)
