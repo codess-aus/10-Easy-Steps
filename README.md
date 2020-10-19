@@ -193,7 +193,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------|  
 | [Phil Nash](https://www.twitch.tv/phil_nash) | Twilio | 9 | Developer evangelist for Twilio and a Ruby and JavaScript developer |
 | [Amy Kapernick](https://www.twitch.tv/amyskapers) | Amy Kapernick | 9 | FrontEnd WebDev, Evangelist for YOW! Twilio Champion and Microsoft MVP |
-| [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Love of Learning |
+| [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Streams about NodeJS, VS Code, and Fart Noises. It's a very High-brow stream, so put on your finest clothes and mind your manners |
 | [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Twilio is a developer platform that makes it easy for you to connect the people you care about using the tools and technologies that you already know in the apps you're already building |
 | [Pair Programming](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Jason Lengstorf hosts Learn With Jason, a pair programming livestream where we learn something new in 90 minutes! |
 | [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Award-winning creative focused on data-driven art and visualizations |
