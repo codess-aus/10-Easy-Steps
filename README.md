@@ -160,7 +160,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------|  
 | [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Love of Learning |
 | [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Love of Learning |
-| [Talk Python To Me](https://www.talkpython.fm/episodes/all) | @mkennedy | 7 | Love of Learning |
+| [Talk Python To Me](https://www.talkpython.fm/episodes/all) | @mkennedy | 7 | A podcast on Python and related technologies |
 | [Softskills Engineering Podcast](https://www.softskills.audio) | Softskills Engineering | 7 | It takes more than great code to be a great engineer |
 | [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | Love of Learning |
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | A Tasty Treats Podcast for Web Developers |
