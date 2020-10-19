@@ -206,6 +206,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Adam13531](https://www.twitch.tv/adam13531) | AcAdamy | 9 | Love learn and teach |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Writing code! Talking about code! Having fun! |
 | [Nahamsec](https://www.twitch.tv/nahamsec) | Hackerone | 9 | Awesome tips on bug hunting |
+| [Codigo Falado](https://www.twitch.tv/codigofalado) | Coding Brazil | 9 | Primeiro Twitch Partner de Live Coding do Brasil! |
+  
   
 ## Conferences
 | Name | Author | Step | Comments |  
