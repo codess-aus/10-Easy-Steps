@@ -158,11 +158,11 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Listen to Some Podcasts
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Love of Learning |
+| [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Stories from people on their coding journey |
 | [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Love of Learning |
 | [Talk Python To Me](https://www.talkpython.fm/episodes/all) | @mkennedy | 7 | A podcast on Python and related technologies |
 | [Softskills Engineering Podcast](https://www.softskills.audio) | Softskills Engineering | 7 | It takes more than great code to be a great engineer |
-| [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | Love of Learning |
+| [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development |
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | A Tasty Treats Podcast for Web Developers |
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Programming By Stealth is a collaborative series created by Bart Busschots and Allison Sheridan, as part of the Chit Chat Across the Pond podcast |
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | The official podcast of the freeCodeCamp open source community |
