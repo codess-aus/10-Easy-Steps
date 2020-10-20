@@ -250,6 +250,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | VSCode | Windows / MacOS / Linux | https://code.visualstudio.com/download/ | Free and built on open source. Integrated Git, debugging and extensions. |
 | Atom | Windows / MacOS / Linux | https://atom.io/ | A hackable text editor for the 21st Century |
 | Notepad ++ | Windows | https://notepad-plus-plus.org/downloads/ | Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. |
+| Code::Blocks | Windows / MacOS / Linux | https://www.codeblocks.org/ | The open source, cross platform, free C, C++ and Fortran IDE. |
 
 
 ## And Then What?
@@ -350,3 +351,4 @@ MIT Licence
 75. [Priyankar roy](https://github.com/Flamer17)
 76. [Wanderson Trindade Vitorino](https://github.com/spao234)
 77. [Onyinye91-ctrl](https://github.com/Onyinye91-ctrl)
+78. [Sarnav Dutta](https://github.com/sarnav98)
