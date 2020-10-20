@@ -348,3 +348,5 @@ MIT Licence
 73. [Kay Pea](https://github.com/ravenblack24/)
 74. [Mamadou Diallo](https://github.com/mamadou-diallo)
 75. [Priyankar roy](https://github.com/Flamer17)
+76. [Wanderson Trindade Vitorino](https://github.com/spao234)
+77. [Onyinye91-ctrl](https://github.com/Onyinye91-ctrl)
