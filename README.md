@@ -159,7 +159,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Stories from people on their coding journey |
-| [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Love of Learning |
+| [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Fresh Tech Talk from Fresh Faces |
 | [Talk Python To Me](https://www.talkpython.fm/episodes/all) | @mkennedy | 7 | A podcast on Python and related technologies |
 | [Softskills Engineering Podcast](https://www.softskills.audio) | Softskills Engineering | 7 | It takes more than great code to be a great engineer |
 | [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development |
