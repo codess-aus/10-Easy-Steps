@@ -196,7 +196,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Love of Learning |
 | [Pair Programming](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Jason Lengstorf hosts Learn With Jason, a pair programming livestream where we learn something new in 90 minutes! |
 | [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Award-winning creative focused on data-driven art and visualizations |
-| [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Love of Learning |
+| [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Microsoft MVP, a Xamarin MVP, a Microsoft Patterns & Practices Champion, co-leader of the Boise .Net Developers User Group (NETDUG), board member of Boise Code Camp, speaker, trainer, and Pluralsight author |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Love of Learning |
 | [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Open, interactive and engaging community where any coder, from beginner to veteran, can learn and grow together |
 | [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Fun and engaging ways to code |
