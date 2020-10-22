@@ -173,6 +173,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [TheStyle Guides Podcast](http://styleguides.io/podcast/) | Anna Debenham and Brad Frost. | 7 | A small batch series of interviews on Style Guides |
 | [The ChangeLog ](https://changelog.com/podcast/) | The ChangeLog | 7 | Conversations with the hackers, the leaders, and the innovators of software development |
 | [FrontEnd Happy Hour ](https://frontendhappyhour.com/) |FrontEnd Happy Hour | 7 | A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development. |
+| [ShopTalk Show](https://shoptalkshow.com/) | Dave Rupert and Chris Coyier | 7 | A podcast about building websites |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
