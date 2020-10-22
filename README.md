@@ -158,11 +158,11 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Listen to Some Podcasts
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Love of Learning |
-| [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Love of Learning |
+| [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Stories from people on their coding journey |
+| [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Fresh Tech Talk from Fresh Faces |
 | [Talk Python To Me](https://www.talkpython.fm/episodes/all) | @mkennedy | 7 | A podcast on Python and related technologies |
 | [Softskills Engineering Podcast](https://www.softskills.audio) | Softskills Engineering | 7 | It takes more than great code to be a great engineer |
-| [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | Love of Learning |
+| [Frontend Happy Hour Podcast](https://www.frontendhappyhour.com) | Netflix, Twitch, Atlassian, Evernote, and LinkedIn | 7 | A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development |
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | A Tasty Treats Podcast for Web Developers |
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Programming By Stealth is a collaborative series created by Bart Busschots and Allison Sheridan, as part of the Chit Chat Across the Pond podcast |
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | The official podcast of the freeCodeCamp open source community |
@@ -198,7 +198,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Twilio is a developer platform that makes it easy for you to connect the people you care about using the tools and technologies that you already know in the apps you're already building |
 | [Pair Programming](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Jason Lengstorf hosts Learn With Jason, a pair programming livestream where we learn something new in 90 minutes! |
 | [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Award-winning creative focused on data-driven art and visualizations |
-| [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Love of Learning |
+| [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Microsoft MVP, a Xamarin MVP, a Microsoft Patterns & Practices Champion, co-leader of the Boise .Net Developers User Group (NETDUG), board member of Boise Code Camp, speaker, trainer, and Pluralsight author |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Love of Learning |
 | [Learn with CodingGarden](https://www.twitch.tv/codinggarden) | CodingGarden | 9 | Open, interactive and engaging community where any coder, from beginner to veteran, can learn and grow together |
 | [Chael Codes](https://www.twitch.tv/chaelcodes) | Chael Codes | 9 | Fun and engaging ways to code |
@@ -216,7 +216,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [JSNation](https://jsnation.com/) | JSNation | 10 | Core library authors. Hands-on learning. The future of JS. |
 | [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | A conference for the whole team |
 | [NDC Conferences](https://www.ndcconferences.com/) | NDC | 10 | High-end events for software developers |
-| [YOW Conferences](https://yowconference.com/) | YOW | 10 | Emerging technologies and best practices in the software industry |
+| [YOW Conferences](https://yowconference.com/) | YOW | 10 |  [Coding tips, tricks, and techniques ](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Microsoft MVP, a Xamarin MVP, a Microsoft Patterns & Practices Champion, co-leader of the Boise .Net Developers User Group (NETDUG), board member of Boise Code Camp, speaker, trainer, and Pluralsight author |
 | [PyCon](https://pycon.org/) | Python.Org | 10 | See what's going on in the Python world |
 | [Microsoft Build](https://news.microsoft.com/build2020/) | Microsoft | 10 | Empowering Developers to Fuel Business Performance |
 | [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | Love of Learning |
