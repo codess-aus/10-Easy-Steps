@@ -167,7 +167,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Programming By Stealth is a collaborative series created by Bart Busschots and Allison Sheridan, as part of the Chit Chat Across the Pond podcast |
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | The official podcast of the freeCodeCamp open source community |
 | [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning | 
-| [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | Love of Learning |
+| [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer
+
+ |
 | [Responsive Web Design](https://responsivewebdesign.com/podcast/) | Karen McGrane and Ethan Marcotte | 7 | Karen and Ethan interview the people who make responsive redesigns happen |
 | [The Web Platform ](https://thewebplatformpodcast.com/) | Erik Isaksen | 7 | A weekly show that dives deep into all things web from the developers building the platform today. |
 | [TheStyle Guides Podcast](http://styleguides.io/podcast/) | Anna Debenham and Brad Frost. | 7 | A small batch series of interviews on Style Guides |
