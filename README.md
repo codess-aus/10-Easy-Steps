@@ -166,7 +166,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | A Tasty Treats Podcast for Web Developers |
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Programming By Stealth is a collaborative series created by Bart Busschots and Allison Sheridan, as part of the Chit Chat Across the Pond podcast |
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | The official podcast of the freeCodeCamp open source community |
-| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning | 
+| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Interviews and advice for learning how to code and building your technology career | 
 | [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer
 
  |
