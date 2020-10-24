@@ -158,7 +158,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Listen to Some Podcasts
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [CodeNewbie Podcast](https://www.codenewbie.org/podcast) | CodeNewbie | 7 | Stories from people on their coding journey |
+| [CodeNewbie Podcast](https://medium.com/coding-experiences/how-ive-learned-coding-story-for-beginners-d10824bf5d9e) | Florian Dahlitz | 7 | How I’ve learned coding: Story for beginners
 | [Hanselminutes](https://www.hanselminutes.com/) | Scott Hanselman | 7 | Fresh Tech Talk from Fresh Faces |
 | [Talk Python To Me](https://www.talkpython.fm/episodes/all) | @mkennedy | 7 | A podcast on Python and related technologies |
 | [Softskills Engineering Podcast](https://www.softskills.audio) | Softskills Engineering | 7 | It takes more than great code to be a great engineer |
@@ -353,3 +353,4 @@ MIT Licence
 76. [Wanderson Trindade Vitorino](https://github.com/spao234)
 77. [Onyinye91-ctrl](https://github.com/Onyinye91-ctrl)
 78. [Sarnav Dutta](https://github.com/sarnav98)
+78. [Dada Abdulrasheed](https://github.com/iamhabee)
