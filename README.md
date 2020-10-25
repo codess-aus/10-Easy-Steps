@@ -174,6 +174,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [The ChangeLog ](https://changelog.com/podcast/) | The ChangeLog | 7 | Conversations with the hackers, the leaders, and the innovators of software development |
 | [FrontEnd Happy Hour ](https://frontendhappyhour.com/) |FrontEnd Happy Hour | 7 | A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development. |
 | [ShopTalk Show](https://shoptalkshow.com/) | Dave Rupert and Chris Coyier | 7 | A podcast about building websites |
+| [Developer Tea ](https://spec.fm/podcasts/developer-tea) | Spec | 7 | A podcast for developers designed to fit inside your tea break |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
@@ -353,4 +354,5 @@ MIT Licence
 76. [Wanderson Trindade Vitorino](https://github.com/spao234)
 77. [Onyinye91-ctrl](https://github.com/Onyinye91-ctrl)
 78. [Sarnav Dutta](https://github.com/sarnav98)
-79. [Bruce Davidson](https://github.com/bruceyboy86)
+79. [Dada Abdulrasheed](https://github.com/iamhabee)
+80. [Bruce Davidson](https://github.com/bruceyboy86)
