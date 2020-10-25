@@ -104,7 +104,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [Scott Hanselman](https://www.hanselman.com/) | Scott Hanselman | 4 | Be Kind |
+| [Scott Hanselman](https://www.hanselman.com/) | Scott Hanselman | 4 | Programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more |
 | [Kent C Dodds](https://kentcdodds.com/) | Kent C Dodds | 4 | Improving the world w/ quality software · Husband, Father, Latter-day Saint, Teacher, OSS | 
 | [Patricia Aas](https://patricia.no/) | Patricia Aas | 4 | Be Open Minded | 
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 4 | FrontEnd WebDev, Evangelist for YOW! Twilio Champion and Microsoft MVP |
@@ -356,3 +356,4 @@ MIT Licence
 78. [Sarnav Dutta](https://github.com/sarnav98)
 79. [Dada Abdulrasheed](https://github.com/iamhabee)
 80. [Bruce Davidson](https://github.com/bruceyboy86)
+81. [kartikaya2000](https://github.com/kartikaya2000)
