@@ -253,6 +253,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Atom | Windows / MacOS / Linux | https://atom.io/ | A hackable text editor for the 21st Century |
 | Notepad ++ | Windows | https://notepad-plus-plus.org/downloads/ | Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. |
 | Code::Blocks | Windows / MacOS / Linux | https://www.codeblocks.org/ | The open source, cross platform, free C, C++ and Fortran IDE. |
+| Brackets | Windows / MacOS / Linux | http://brackets.io/ | A modern, open source text editor that understands web design. |
 
 
 ## And Then What?
