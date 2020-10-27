@@ -362,3 +362,4 @@ MIT Licence
 82. [Racing5372](https://github.com/Racing5372)
 82. [ch1771dr0b0](https://github.com/ch1771dr0b0)
 83. [Cristina Che](https://github.com/cgcr9)
+84. [darkresq14](https://github.com/darkresq14)
