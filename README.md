@@ -130,6 +130,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Vanessa Aristizabal](https://github.com/vanessamarely) | Vanessa Aristizabal | 4 | Frontend Developer GDE in Angular & Web Technologies |
 | [Chloe Condon](https://www.youtube.com/c/ChloeCondonVideos) | Microsoft | 4 | Developer Advocacy + Clippy fan @ Microsoft, reformed musical theatre kid, Multiple musical notes mostly puns, pics w/ skeletons, & Azure stuff |
 | [Tatiana Mac](https://codepen.io/tatianamac/) | Tatiana Mac | 4 | Tech Misanthropologist. Engineer/OSS maintainer |
+| [Jennifer Wadella](https://) | @likeOMGitsFEDAY | 4 | Force of nature. JS dev. Tech speaker. Angry Feminist Harpy. Foodie. #kcnative. Mastermind behind:@KCWomeninTech @CoderDojoKC @CodeCocktailsKC @CodeCupcakeskc |
+
+
 
 ## Get Involved
 
