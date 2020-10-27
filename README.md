@@ -109,7 +109,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Patricia Aas](https://patricia.no/) | Patricia Aas | 4 | Be Open Minded | 
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 4 | FrontEnd WebDev, Evangelist for YOW! Twilio Champion and Microsoft MVP |
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Help yourself by helping others |
-| [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Be Kind |
+| [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Sharing experiences and knowledge that can help others on their coding journey |
 | [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Software engineer, writer, and open-source creator  |
 | [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Python Software Foundation Director |
 | [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be stylish |
@@ -359,3 +359,5 @@ MIT Licence
 80. [Bruce Davidson](https://github.com/bruceyboy86)
 81. [kartikaya2000](https://github.com/kartikaya2000)
 82. [Racing5372](https://github.com/Racing5372)
+82. [ch1771dr0b0](https://github.com/ch1771dr0b0)
+83. [Cristina Che](https://github.com/cgcr9)
