@@ -106,7 +106,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 |------|--------|------------------|----------------|  
 | [Scott Hanselman](https://www.hanselman.com/) | Scott Hanselman | 4 | Programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more |
 | [Kent C Dodds](https://kentcdodds.com/) | Kent C Dodds | 4 | Improving the world w/ quality software · Husband, Father, Latter-day Saint, Teacher, OSS | 
-| [Patricia Aas](https://patricia.no/) | Patricia Aas | 4 | Be Open Minded | 
+| [Patricia Aas](https://patricia.no/) | Patricia Aas | 4 | C++ with Security and Privacy. Glorious slide decks. Expert on Diversity and Inclusion in Tech | 
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 4 | FrontEnd WebDev, Evangelist for YOW! Twilio Champion and Microsoft MVP |
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Help yourself by helping others |
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Sharing experiences and knowledge that can help others on their coding journey |
