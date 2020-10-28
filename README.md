@@ -113,7 +113,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Software engineer, writer, and open-source creator  |
 | [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Python Software Foundation Director |
 | [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be stylish |
-| [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
+| [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Principal software engineer, a multi-published author, a public speaker and the owner of a fashion business |
 | [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Podcaster, Teacher, Swimmer & Music Lover |
 | [Sarah Drasner](https://sarah.dev/) | I Make Things | 4 | A FrontEnd Master |
 | [Aaron Powell](http://www.aaron-powell.com/) | Microsoft | 4 | Awesome speaker at DDD Melbourne |
