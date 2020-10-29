@@ -365,3 +365,5 @@ MIT Licence
 83. [Cristina Che](https://github.com/cgcr9)
 84. [darkresq14](https://github.com/darkresq14)
 85. [Dave Anderson](https://github.com/DavyBonesDev)
+86. [Ehis Edemakhiota](https://github.com/ehizman)
+87. [Jade](https://github.com/jadecap)
