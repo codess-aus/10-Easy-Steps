@@ -190,6 +190,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [The Case of the Missing Method](https://youtu.be/mn2D_k-X-es) | Nadia Odunayo | 8 | A Ruby Mystery Story at RubyConf |
 | [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Microsoft Developer | 8 | The foundation for programming in Python, starting from common everyday code and scenarios |
 | [Javascript for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) | Microsoft Developer | 8 | A series of videos to focus on the core concepts of JavaScript |
+| [Coding Train](https://www.youtube.com/user/shiffman) | Daniel Shiffman | 8 | The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more. |
 
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
