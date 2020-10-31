@@ -183,7 +183,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Web Development tutorials, web site design tutorials and more |
 | [Learn in One Video](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY) | Derek Banas | 8 | Love of Learning |
 | [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Sharing Knowledge is the biggest learning. By sharing You can understand the concepts better|
-| [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Love of Learning |
+| [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Become the best coder you can be |
 | [Coders Tape](https://www.youtube.com/c/CodersTape/) | Coders Tape | 8 | Level up your Laravel, PHP and Marketing skills with fresh weekly content |
 | [Programming in JavaScript by Colt Steele](https://www.youtube.com/watch?v=x2RNw4M6cME) | Colt Steele | 8 | Level up the JavaScript Programming Skills right from the basics |
 | [STEM Stories](https://www.youtube.com/playlist?list=PLfj0ilPGpPyEMI7kCtjOnTOiQs8nAf1L1) | Nuevo Foundation | 8 | Video Stories from Women Working in STEM Careers |
