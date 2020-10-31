@@ -104,16 +104,16 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [Scott Hanselman](https://www.hanselman.com/) | Scott Hanselman | 4 | Be Kind |
-| [Kent C Dodds](https://kentcdodds.com/) | Kent C Dodds | 4 | Be Kind | 
-| [Patricia Aas](https://patricia.no/) | Patricia Aas | 4 | Be Open Minded | 
+| [Scott Hanselman](https://www.hanselman.com/) | Scott Hanselman | 4 | Programmer, teacher, speaker, technologist, podcaster, writer, diversity advocate and more |
+| [Kent C Dodds](https://kentcdodds.com/) | Kent C Dodds | 4 | Improving the world w/ quality software · Husband, Father, Latter-day Saint, Teacher, OSS | 
+| [Patricia Aas](https://patricia.no/) | Patricia Aas | 4 | C++ with Security and Privacy. Glorious slide decks. Expert on Diversity and Inclusion in Tech | 
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 4 | FrontEnd WebDev, Evangelist for YOW! Twilio Champion and Microsoft MVP |
 | [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Help yourself by helping others |
-| [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Be Kind |
-| [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Be Kind |
+| [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Sharing experiences and knowledge that can help others on their coding journey |
+| [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Software engineer, writer, and open-source creator  |
 | [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Python Software Foundation Director |
 | [April Speight](https://github.com/aprilspeight) | @vogueandcode | 4 | Be stylish |
-| [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Be brave |
+| [Dona Sarkar](https://donasarkar.com/) | Do The Thing | 4 | Principal software engineer, a multi-published author, a public speaker and the owner of a fashion business |
 | [Cecil Phillip](https://twitter.com/cecilphillip) | Away From The Keyboard | 4 | Podcaster, Teacher, Swimmer & Music Lover |
 | [Sarah Drasner](https://sarah.dev/) | I Make Things | 4 | A FrontEnd Master |
 | [Aaron Powell](http://www.aaron-powell.com/) | Microsoft | 4 | Awesome speaker at DDD Melbourne |
@@ -131,8 +131,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Chloe Condon](https://www.youtube.com/c/ChloeCondonVideos) | Microsoft | 4 | Developer Advocacy + Clippy fan @ Microsoft, reformed musical theatre kid, Multiple musical notes mostly puns, pics w/ skeletons, & Azure stuff |
 | [Tatiana Mac](https://codepen.io/tatianamac/) | Tatiana Mac | 4 | Tech Misanthropologist. Engineer/OSS maintainer |
 | [Jennifer Wadella](https://) | @likeOMGitsFEDAY | 4 | Force of nature. JS dev. Tech speaker. Angry Feminist Harpy. Foodie. #kcnative. Mastermind behind:@KCWomeninTech @CoderDojoKC @CodeCocktailsKC @CodeCupcakeskc |
-
-
 
 ## Get Involved
 
@@ -171,34 +169,37 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | The official podcast of the freeCodeCamp open source community |
 | [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Interviews and advice for learning how to code and building your technology career | 
 | [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer
-
- |
 | [Responsive Web Design](https://responsivewebdesign.com/podcast/) | Karen McGrane and Ethan Marcotte | 7 | Karen and Ethan interview the people who make responsive redesigns happen |
 | [The Web Platform ](https://thewebplatformpodcast.com/) | Erik Isaksen | 7 | A weekly show that dives deep into all things web from the developers building the platform today. |
 | [TheStyle Guides Podcast](http://styleguides.io/podcast/) | Anna Debenham and Brad Frost. | 7 | A small batch series of interviews on Style Guides |
 | [The ChangeLog ](https://changelog.com/podcast/) | The ChangeLog | 7 | Conversations with the hackers, the leaders, and the innovators of software development |
 | [FrontEnd Happy Hour ](https://frontendhappyhour.com/) |FrontEnd Happy Hour | 7 | A podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about all things Front End development. |
+| [ShopTalk Show](https://shoptalkshow.com/) | Dave Rupert and Chris Coyier | 7 | A podcast about building websites |
+| [Developer Tea ](https://spec.fm/podcasts/developer-tea) | Spec | 7 | A podcast for developers designed to fit inside your tea break |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Love of Learning |
 | [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 |  Learn all you need to know about a topic in just one video |
-| [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Love of Learning |
-| [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Become the best coder you can be instead of the placeholder comment "Love of Learning" |
+| [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Web Development tutorials, web site design tutorials and more |
+| [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Sharing Knowledge is the biggest learning. By sharing You can understand the concepts better|
+| [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Become the best coder you can be |
 | [Coders Tape](https://www.youtube.com/c/CodersTape/) | Coders Tape | 8 | Level up your Laravel, PHP and Marketing skills with fresh weekly content |
 | [Programming in JavaScript by Colt Steele](https://www.youtube.com/watch?v=x2RNw4M6cME) | Colt Steele | 8 | Level up the JavaScript Programming Skills right from the basics |
 | [STEM Stories](https://www.youtube.com/playlist?list=PLfj0ilPGpPyEMI7kCtjOnTOiQs8nAf1L1) | Nuevo Foundation | 8 | Video Stories from Women Working in STEM Careers |
 | [The Case of the Missing Method](https://youtu.be/mn2D_k-X-es) | Nadia Odunayo | 8 | A Ruby Mystery Story at RubyConf |
 | [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) | Microsoft Developer | 8 | The foundation for programming in Python, starting from common everyday code and scenarios |
+| [Javascript for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) | Microsoft Developer | 8 | A series of videos to focus on the core concepts of JavaScript |
+| [Coding Train](https://www.youtube.com/user/shiffman) | Daniel Shiffman | 8 | The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more. |
 
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Phil Nash](https://www.twitch.tv/phil_nash) | Twilio | 9 | Developer evangelist for Twilio and a Ruby and JavaScript developer |
 | [Amy Kapernick](https://www.twitch.tv/amyskapers) | Amy Kapernick | 9 | FrontEnd WebDev, Evangelist for YOW! Twilio Champion and Microsoft MVP |
-| [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Love of Learning |
-| [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Love of Learning |
+| [Clarkio](https://www.twitch.tv/clarkio) | Microsoft | 9 | Streams about NodeJS, VS Code, and Fart Noises. It's a very High-brow stream, so put on your finest clothes and mind your manners |
+| [Twilio](https://www.twitch.tv/twilio) | Twilio | 9 | Twilio is a developer platform that makes it easy for you to connect the people you care about using the tools and technologies that you already know in the apps you're already building |
 | [Pair Programming](https://www.twitch.tv/jlengstorf) | Jason Lengstorf | 9 | Jason Lengstorf hosts Learn With Jason, a pair programming livestream where we learn something new in 90 minutes! |
 | [Data Visualisations](https://www.twitch.tv/sxywu) | Shirley Wu | 9 | Award-winning creative focused on data-driven art and visualizations |
 | [Coding tips, tricks, and techniques](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Microsoft MVP, a Xamarin MVP, a Microsoft Patterns & Practices Champion, co-leader of the Boise .Net Developers User Group (NETDUG), board member of Boise Code Camp, speaker, trainer, and Pluralsight author |
@@ -210,6 +211,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Adam13531](https://www.twitch.tv/adam13531) | AcAdamy | 9 | Love learn and teach |
 | [DevChatter](https://www.twitch.tv/devchatter/) | DevChatter | 9 | Writing code! Talking about code! Having fun! |
 | [Nahamsec](https://www.twitch.tv/nahamsec) | Hackerone | 9 | Awesome tips on bug hunting |
+| [Codigo Falado](https://www.twitch.tv/codigofalado) | Coding Brazil | 9 | Primeiro Twitch Partner de Live Coding do Brasil! |
+  
   
 ## Conferences
 | Name | Author | Step | Comments |  
@@ -217,7 +220,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [JSNation](https://jsnation.com/) | JSNation | 10 | Core library authors. Hands-on learning. The future of JS. |
 | [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | A conference for the whole team |
 | [NDC Conferences](https://www.ndcconferences.com/) | NDC | 10 | High-end events for software developers |
-| [YOW Conferences](https://yowconference.com/) | YOW | 10 |  [Coding tips, tricks, and techniques ](https://www.twitch.tv/brianlagunas/) | Brian Lagunas | 9 | Microsoft MVP, a Xamarin MVP, a Microsoft Patterns & Practices Champion, co-leader of the Boise .Net Developers User Group (NETDUG), board member of Boise Code Camp, speaker, trainer, and Pluralsight author |
+| [YOW Conferences](https://yowconference.com/) | YOW | 10 |  emerging technologies and best practices in the software industry – regardless of technological platform or language – without commercial hype |
 | [PyCon](https://pycon.org/) | Python.Org | 10 | See what's going on in the Python world |
 | [Microsoft Build](https://news.microsoft.com/build2020/) | Microsoft | 10 | Empowering Developers to Fuel Business Performance |
 | [Web Directions Summits](https://www.webdirections.org/) | Web Directions | 10 | Love of Learning |
@@ -243,6 +246,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [CodeMash](https://www.codemash.org) | CodeMash Conference | 10 | CodeMash is a conference for developers wanting to enhance their skills in topics like .NET, Java, Ruby, Python, Javascript, Security and so much more. |
 | [WeAreDevelopers](https://www.wearedevelopers.com/events/world-congress/) | World Congress | 10 | THE WORLD’S FLAGSHIP DEVELOPER CONFERENCE |
 | [SuperConf](https://superconf.com/companies) | SuperConf Conference | 10 | SuperConf is a conference for makers. The designers, developers, and entrepreneurs molding our future. Hosted in sunny Miami |
+| [Open Source Software Conference](https://www.oreilly.com/conferences/oscon.html) | Oreilly | 10 | Immerse yourself in sessions and interactive training courses solely focused on the most critical topics facing developers today |
+| [QCon New York](https://qconnewyork.com/) | InfoQ | 10 | It’s the place where senior software engineers, architects, and team leads like you connect, learn, and grow. |
 
 ## Free Tools
 | Name | OS | Download Link | Description |
@@ -250,6 +255,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | VSCode | Windows / MacOS / Linux | https://code.visualstudio.com/download/ | Free and built on open source. Integrated Git, debugging and extensions. |
 | Atom | Windows / MacOS / Linux | https://atom.io/ | A hackable text editor for the 21st Century |
 | Notepad ++ | Windows | https://notepad-plus-plus.org/downloads/ | Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. |
+| Code::Blocks | Windows / MacOS / Linux | https://www.codeblocks.org/ | The open source, cross platform, free C, C++ and Fortran IDE. |
+| Brackets | Windows / MacOS / Linux | http://brackets.io/ | A modern, open source text editor that understands web design. |
 
 
 ## And Then What?
@@ -346,3 +353,19 @@ MIT Licence
 71. [staysee](https://github.com/staysee)
 72. [RizosKonstantinos](https://github.com/RizosKonstantinos)
 73. [Kay Pea](https://github.com/ravenblack24/)
+74. [Mamadou Diallo](https://github.com/mamadou-diallo)
+75. [Priyankar roy](https://github.com/Flamer17)
+76. [Wanderson Trindade Vitorino](https://github.com/spao234)
+77. [Onyinye91-ctrl](https://github.com/Onyinye91-ctrl)
+78. [Sarnav Dutta](https://github.com/sarnav98)
+79. [Dada Abdulrasheed](https://github.com/iamhabee)
+80. [Bruce Davidson](https://github.com/bruceyboy86)
+81. [kartikaya2000](https://github.com/kartikaya2000)
+82. [Racing5372](https://github.com/Racing5372)
+82. [ch1771dr0b0](https://github.com/ch1771dr0b0)
+83. [Cristina Che](https://github.com/cgcr9)
+84. [darkresq14](https://github.com/darkresq14)
+85. [Dave Anderson](https://github.com/DavyBonesDev)
+86. [Ehis Edemakhiota](https://github.com/ehizman)
+87. [Jade](https://github.com/jadecap)
+88. [Vanmeeganathan P K](https://github.com/Vanmee)
