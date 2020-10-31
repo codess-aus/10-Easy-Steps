@@ -180,7 +180,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
-| [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Love of Learning |
+| [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Web Development tutorials, web site design tutorials and more |
 | [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 |  Learn all you need to know about a topic in just one video |
 | [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Web Development tutorials, web site design tutorials and more |
 | [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Sharing Knowledge is the biggest learning. By sharing You can understand the concepts better|
