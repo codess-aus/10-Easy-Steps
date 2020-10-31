@@ -130,7 +130,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Vanessa Aristizabal](https://github.com/vanessamarely) | Vanessa Aristizabal | 4 | Frontend Developer GDE in Angular & Web Technologies |
 | [Chloe Condon](https://www.youtube.com/c/ChloeCondonVideos) | Microsoft | 4 | Developer Advocacy + Clippy fan @ Microsoft, reformed musical theatre kid, Multiple musical notes mostly puns, pics w/ skeletons, & Azure stuff |
 | [Tatiana Mac](https://codepen.io/tatianamac/) | Tatiana Mac | 4 | Tech Misanthropologist. Engineer/OSS maintainer |
-| [Jennifer Wadella](https://twitter.com/likeOMGitsFEDAY) | Jennifer Wadella | 4 | Force of nature. JS dev. Tech speaker. Angry Feminist Harpy. Foodie. #kcnative. Mastermind behind: @KCWomeninTech @CoderDojoKC @CodeCocktailsKC @CodeCupcakeskc |
+| [Jennifer Wadella](https://) | @likeOMGitsFEDAY | 4 | Force of nature. JS dev. Tech speaker. Angry Feminist Harpy. Foodie. #kcnative. Mastermind behind:@KCWomeninTech @CoderDojoKC @CodeCocktailsKC @CodeCupcakeskc |
 
 ## Get Involved
 
@@ -168,7 +168,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Programming By Stealth is a collaborative series created by Bart Busschots and Allison Sheridan, as part of the Chit Chat Across the Pond podcast |
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | The official podcast of the freeCodeCamp open source community |
 | [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Interviews and advice for learning how to code and building your technology career | 
-| [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer |
+| [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | A podcast from the team at Heroku, exploring code, technology, tools, tips, and the life of the developer
 | [Responsive Web Design](https://responsivewebdesign.com/podcast/) | Karen McGrane and Ethan Marcotte | 7 | Karen and Ethan interview the people who make responsive redesigns happen |
 | [The Web Platform ](https://thewebplatformpodcast.com/) | Erik Isaksen | 7 | A weekly show that dives deep into all things web from the developers building the platform today. |
 | [TheStyle Guides Podcast](http://styleguides.io/podcast/) | Anna Debenham and Brad Frost. | 7 | A small batch series of interviews on Style Guides |
@@ -180,8 +180,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
+| [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Love of Learning |
+| [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 |  Learn all you need to know about a topic in just one video |
 | [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Web Development tutorials, web site design tutorials and more |
-| [Learn in One Video](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY) | Derek Banas | 8 | Love of Learning |
 | [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Sharing Knowledge is the biggest learning. By sharing You can understand the concepts better|
 | [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Become the best coder you can be |
 | [Coders Tape](https://www.youtube.com/c/CodersTape/) | Coders Tape | 8 | Level up your Laravel, PHP and Marketing skills with fresh weekly content |
