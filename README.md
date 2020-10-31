@@ -183,7 +183,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
 | [Learn Code Academy](https://www.youtube.com/user/learncodeacademy) | Learn Code Academy | 8 | Love of Learning |
-| [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 | * Learn all you need to know about a topic in just one video* instead of the placeholder comment "Love of Learning" |
+| [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 |  Learn all you need to know about a topic in just one video |
 | [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Love of Learning |
 | [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Become the best coder you can be instead of the placeholder comment "Love of Learning" |
 | [Coders Tape](https://www.youtube.com/c/CodersTape/) | Coders Tape | 8 | Level up your Laravel, PHP and Marketing skills with fresh weekly content |
