@@ -108,7 +108,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Kent C Dodds](https://kentcdodds.com/) | Kent C Dodds | 4 | Improving the world w/ quality software · Husband, Father, Latter-day Saint, Teacher, OSS | 
 | [Patricia Aas](https://patricia.no/) | Patricia Aas | 4 | C++ with Security and Privacy. Glorious slide decks. Expert on Diversity and Inclusion in Tech | 
 | [Amy Kapernick](https://amyskapers.dev/) | Amy Kapernick | 4 | FrontEnd WebDev, Evangelist for YOW! Twilio Champion and Microsoft MVP |
-| [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Help yourself by helping others |
+| [Michelle Sandford](https://github.com/msandfor) | Michelle Sandford | 4 | Tedx Speaker, Microsoftie and 1 of MCVs most influential women in games |
 | [Jessica Chan](https://coder-coder.com/) | Coder Coder | 4 | Sharing experiences and knowledge that can help others on their coding journey |
 | [Tania Rascia](https://www.taniarascia.com/) | The Missing Instruction Manuals of the Web | 4 | Software engineer, writer, and open-source creator  |
 | [Nina Zakharenko](https://www.nnja.io/) | @nnja | 4 | Python Software Foundation Director |
