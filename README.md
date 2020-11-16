@@ -144,6 +144,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Probot Community](https://probot.github.io/community/) | Probot | 5 | Be Kind |
 | [Stack Overflow](https://stackoverflow.com/) | Stack Overflow | 5 | Stack Overflow is a question and answer site for professional and enthusiast programmers |
 | [Eddie Jaoude Community](https://eddiejaoudecommunity.github.io/) | Eddie Jaoude | 5 | OPEN SOURCE is NOT about code, it is about people and collaboration |
+| [Women Who Code](https://www.womenwhocode.com/) | Women Who Code | 5 | Empowering Women in Technology |
+| [Hashnode](https://hashnode.com/) | Hashnode | 5 | Everything you need to start blogging as a developer! |
+| [FreeCodeCamp](https://www.freecodecamp.org/) | FreeCodeCamp | 5 | Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public |
+| [HackNews](https://news.ycombinator.com/) | ycombinator | 5 | Hacker News is a social news website focusing on computer science and entrepreneurship, where you can submit a link to technical content |
+| [Digital Ocean Community](https://www.digitalocean.com/community) | Digital Ocean | 5 | Developers supporting developers |
+| [Reddit](https://www.reddit.com/) | Reddit | 5 | The front page to the internet |
 
 ## Practice
 | Name | Author | Step | Comments |  
