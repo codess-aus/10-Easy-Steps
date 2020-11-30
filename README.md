@@ -77,6 +77,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Writing a Good Commit Message](https://dev.to/chrissiemhrk/git-commit-message-5e21) | Chrissie Muhorakeye | 2 | Start as you mean to go on |
 | [Writing Good Pull Requests](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/) | Keavy McMinn | 2 | Help yourself and others who come after you |
 | [Create a Github Profile Readme](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) | Monica Powell | 2 | Build your own pretty webpage on Github |
+| [Oh Shit, Git!?!](https://ohshitgit.com/) |Katie Sylor-Miller | 2 | NSFW version of how to Git yourself out of trouble |
+| [Dangit, Git!?!](https://dangitgit.com/en) | Katie Sylor-Miller | 2 | PG version of how to Git yourself out of trouble |
+
 
 ## Try some Code
 
