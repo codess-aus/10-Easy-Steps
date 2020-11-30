@@ -85,6 +85,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------| 
 | [Learn to Code by Playing a Game](https://codecombat.com/) | Code Combat | 3 | Learn the concepts while having fun |
+| [Beginner's Guide to Eleventy](https://tatianamac.com/posts/beginner-eleventy-tutorial-parti/) | tatianamac.com | 3 | Learn about SSG 11ty from the best |
   [Hour of Code](https://code.org/learn) | Code.Orf | 3 | Try and byte-size snippets |
 | [Full Stack Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 3 | I'm doing this one - it's excellent. A bit each day |
 | [Pathway Courses](https://www.codecademy.com/) | Microsoft | 3 | These courses are also very popular |
