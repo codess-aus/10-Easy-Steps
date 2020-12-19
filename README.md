@@ -105,6 +105,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Laravel 6 Beginner](https://www.youtube.com/playlist?list=PLpzy7FIRqpGC8Jk6gyWdSVdxCVXZAsenQ) | Coders Tape | 3 | Level up your skills |
 | [Cloud Basics for Developers](https://docs.microsoft.com/en-us/learn/paths/cmu-cloud-developer-basics/) |Microsoft | 3 | Learn some cloud, you'll need it |
 | [AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals) |Microsoft Learn | 3 | Follow the free online learning path below the certification information |
+| [Take your first steps with C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) |Microsoft Learn | 3 | Interested in learning a programming language but aren't sure where to start? Start here! Learn the basic syntax and thought processes required to build simple applications using C# |
 
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
