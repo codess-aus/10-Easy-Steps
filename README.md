@@ -79,6 +79,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Create a Github Profile Readme](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) | Monica Powell | 2 | Build your own pretty webpage on Github |
 | [Oh Shit, Git!?!](https://ohshitgit.com/) |Katie Sylor-Miller | 2 | NSFW version of how to Git yourself out of trouble |
 | [Dangit, Git!?!](https://dangitgit.com/en) | Katie Sylor-Miller | 2 | PG version of how to Git yourself out of trouble |
+| [Learn GitHub on Microsoft Learn](https://docs.microsoft.com/en-us/learn/github/?_lrsc=72857626-fe3d-4408-827a-8a7c77dd9f15) | Microsoft | 2 | GitHub Learning Paths by Microsoft |
+
 
 
 ## Try some Code
