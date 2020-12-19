@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
 </p>
 
-<img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/learn-to-code-696x392.jpg" alt="banner that says Hacktoberfest">
+<img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/learn-to-code-696x392.jpg" alt="banner that says learn to code">
 
 
 # 10-Easy-Steps
