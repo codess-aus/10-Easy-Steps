@@ -107,7 +107,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals) |Microsoft Learn | 3 | Follow the free online learning path below the certification information |
 | [Take your first steps with C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) |Microsoft Learn | 3 | Interested in learning a programming language but aren't sure where to start? Start here! Learn the basic syntax and thought processes required to build simple applications using C# |
 | [Take your first steps with Python](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/) |Microsoft Learn | 3 | Interested in learning a programming language but aren't sure where to start? Start here! Learn the basic syntax and thought processes required to build simple applications using Python |
-
+| [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/) |Microsoft Learn | 3 | Web apps in Azure allow you to publish and manage your website easily without having to work with the underlying servers, storage, or network assets. Learn how. |
 
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
