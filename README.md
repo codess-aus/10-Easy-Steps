@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/learn-to-code-696x392.jpg" alt="banner that says learn to code">
+<img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/sourcecode.PNG" alt="banner that says I'd like to change the world but I can not find the source code">
 </p>
 
 # 10-Easy-Steps
