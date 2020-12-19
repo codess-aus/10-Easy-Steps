@@ -13,8 +13,9 @@
 <a href="https://www.youtube.com/c/MichelleSandford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="MichelleSandford" height="30" width="30" /></a>
 </p>
 
+<p align="center">
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/learn-to-code-696x392.jpg" alt="banner that says learn to code">
-
+</p>
 
 # 10-Easy-Steps
 A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code. Go to the issues, pick one of the ones labeled Hacktoberfest for more instructions on how you can contribute and make your first (second, third or forth) pull request.
