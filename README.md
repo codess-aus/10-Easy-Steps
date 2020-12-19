@@ -20,10 +20,6 @@
 # 10-Easy-Steps
 A Repository Created for #Hacktoberfest to Help Beginners Get Started with Code. Go to the issues, pick one of the ones labeled Hacktoberfest for more instructions on how you can contribute and make your first (second, third or forth) pull request.
 
-Remember to sign-up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to qualify for your free Tshirt, or to have a Tree planted in your name. The event runs for the Month of October each year - and you can sign up now. I am merging Pull-Requests at once a day during #Hacktoberfest
-
-Please just make one contribution each, and leave some for other Hacktoberfesters. It's nice if your 4 PRs and from 4 seperate repositories.
-
 If you would like to know how you can contribute to this project - do read the [Contributing.MD](https://github.com/msandfor/10-Easy-Steps/blob/master/contributing.md). There are issues for begginers set-up for #Hacktoberfest and labeled as such. Each issue should give you enough guidance to complete your first (2nd, 3rd or 4th) Pull Request - but if they do not, feel free to ask for help by commenting on the issue. Do not be afraid, there is nothing but support here.
 
 Also, I'd love it if you've found this Project useful - Could you please click on the :star: for this repository.
@@ -107,6 +103,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Kids STEM Workshops and Resources](https://nuevofoundation.org/get-involved) | Nuevo Foundation | 3 | Teach kids with fun coding scenarios |
 | [Twilio Quest](https://www.twilio.com/quest) | Twilio | 3 | Learn to code and save The Cloud from the Legacy Systems |
 | [Laravel 6 Beginner](https://www.youtube.com/playlist?list=PLpzy7FIRqpGC8Jk6gyWdSVdxCVXZAsenQ) | Coders Tape | 3 | Level up your skills |
+| [Cloud Basics for Developers](https://docs.microsoft.com/en-us/learn/paths/cmu-cloud-developer-basics/) |Microsoft | 3 | Learn some cloud, you'll need it |
+| [AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals) |Microsoft Learn | 3 | Follow the free online learning path below the certification information |
 
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
