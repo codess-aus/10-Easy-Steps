@@ -55,6 +55,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) | Piotr Gaczkowski | 1 | This is the What and Why of Open Source |
 | [Open Source Guide to Etiquette](https://css-tricks.com/open-source-etiquette-guidebook/) | Kent C. Dodds and Sarah Drasner | 1 | Let's play nice |
 | [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) | @nayafia, @bkeepers, @stephbwills, and @mlinksva | 1 | Really good Why and What Guide of Open Source |
+| [The Nature of Code Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK) | The Coding Train | 1 | 83 videos ranging from Perlin noise, my favorite type of noise, to fractals and genetic algorithms - this is not a beginners course, but it is interesting |
+
 
 *P.S. Ask yourself who was "Why the Lucky Stiff" ? Is he still out there somewhere, building new stuff and scribling his hazy dreams* 
 
