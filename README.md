@@ -108,6 +108,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Take your first steps with C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) |Microsoft Learn | 3 | Interested in learning a programming language but aren't sure where to start? Start here! Learn the basic syntax and thought processes required to build simple applications using C# |
 | [Take your first steps with Python](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/) |Microsoft Learn | 3 | Interested in learning a programming language but aren't sure where to start? Start here! Learn the basic syntax and thought processes required to build simple applications using Python |
 | [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/) |Microsoft Learn | 3 | Web apps in Azure allow you to publish and manage your website easily without having to work with the underlying servers, storage, or network assets. Learn how. |
+| [Alice envisions the future, DigiGirlz AI Class ](https://news.microsoft.com/europe/features/alice-envisions-the-future-digigirlz-ai-class/) |DigiGirlz | 3 |In this class you will gain a comprehensive understanding of Machine Learning and how it relates to AI. Learn how to approach problem-solving from a Machine Learning perspective, how to work with datasets, the importance of data and how to protect it, how to think in terms of design, understand cluster algorithms, create BOTs and more. |
+
+
 
 ## Follow Some Mentors
 | Name | Author | Step | Comments |  
