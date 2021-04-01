@@ -291,7 +291,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Quantum Katas](https://github.com/Microsoft/QuantumKatas/#run-online) | Microsoft | 11 | The Quantum Katas are a collection of self-paced tutorials and programming exercises to help you learn quantum computing and Q# programming |
 
 ## Credits
-* [@msandfor](https://github.com/msandfor) for starting the list.
+* [@codess-aus](https://github.com/codess-aus) for starting the list.
 * All the [contributors](https://github.com/msandfor/10-easy-steps/graphs/contributors) for keeping the list updated by adding new resources.
 
 ## License
