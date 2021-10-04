@@ -2,7 +2,7 @@
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/codess-aus/10-easy-steps?style=for-the-badge)
 ![All Contributors](https://img.shields.io/github/contributors/codess-aus/10-easy-steps?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2020/codess-aus/10-easy-steps?style=for-the-badge)
+
 
 <p align="center">
 <a href="https://codepen.io/msandfor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="msandfor" height="30" width="30" /></a>
